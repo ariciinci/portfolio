@@ -1,11 +1,9 @@
-# CALVIN KLEIN 
+# CALVIN KLEIN
 ## CASE STUDY INDEX
 ###### **[THE ASSIGNMENT](#the-assignment)** ● **[THE ROLE](#the-role)** ● **[THE SCALE](#eoss)** ● **[THE ENVIRONMENT](#production-environment)** ● **[THE OUTPUT](#across-the-digital-ecosystem)** ● **[THE WORKING METHOD](#from-brief-to-production)** ● **[THE PRODUCTION JUDGEMENT](#a-template-issue-during-production)** ● **[THE CAMPAIGNS](#beyond-eoss)** ● **[THE HAND-OFF](#delivery)** ● **[THE EXPERIENCE](#working-independently)**
 
 <a id="the-assignment"></a>
 ## Digital Campaign Production
-## Digital Campaign Production
-
 **Amsterdam · June 2022**
 
 ### Working inside an established global creative environment
