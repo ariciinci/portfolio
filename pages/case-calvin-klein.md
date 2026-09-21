@@ -24,7 +24,37 @@ The assignment included **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Bo
 
 *Caption: EOSS — digital campaign production.*
 
----
+# CALVIN KLEIN — CASE STUDY INDEX
+
+> **[THE ASSIGNMENT](#the-assignment)**  
+> Calvin Klein · Amsterdam · June 2022
+>
+> **[THE ROLE](#the-role)**  
+> Digital campaign production
+>
+> **[THE SCALE](#eoss)**  
+> 300+ EOSS assets · ~2 weeks
+>
+> **[THE ENVIRONMENT](#production-environment)**  
+> Established global creative & production system
+>
+> **[THE OUTPUT](#across-the-digital-ecosystem)**  
+> Web · e-commerce · email · paid social · Instagram
+>
+> **[THE WORKING METHOD](#from-brief-to-production)**  
+> Brief interpretation · creative alignment · prioritisation · QA
+>
+> **[THE PRODUCTION JUDGEMENT](#a-template-issue-during-production)**  
+> Identified and updated an outdated social template
+>
+> **[THE CAMPAIGNS](#beyond-eoss)**  
+> EOSS · CK Jeans Spring · June Refresh · Pride Photo Booth · Geofencing Local Pride Moments
+>
+> **[THE HAND-OFF](#delivery)**  
+> Approved master assets → localisation → activation
+>
+> **[THE EXPERIENCE](#working-independently)**  
+> Working independently inside an established global creative environment
 
 ## The role
 
