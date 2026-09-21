@@ -29,6 +29,7 @@ The assignment included **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Bo
 
 
 
+<a id="the-role"></a>
 ## The role
 
 ### Producing within an existing system
@@ -79,6 +80,7 @@ This structure helped keep communication clear and reduced unnecessary noise aro
 
 ---
 
+<a id="from-brief-to-production"></a>
 # From brief to production
 
 ## Understanding before producing
@@ -125,6 +127,7 @@ That internal creative alignment was an important part of the process.
 
 ---
 
+<a id="production-environment"></a>
 # Production environment
 
 ## Existing templates, automation and production methods
@@ -151,6 +154,7 @@ For me, the important part was learning the system quickly enough to work within
 
 ---
 
+<a id="eoss"></a>
 # EOSS
 
 ## 300+ assets in approximately two weeks
@@ -199,6 +203,7 @@ That meant adapting approved campaign material into the formats required at each
 
 ---
 
+<a id="across-the-digital-ecosystem"></a>
 # Across the digital ecosystem
 
 The same campaign also needed to work across different placements.
@@ -302,6 +307,7 @@ The asset needed to be **ready for the next person in the process**.
 
 ---
 
+<a id="a-template-issue-during-production"></a>
 # A template issue during production
 
 ## When an existing template no longer matched the requirements
@@ -330,6 +336,7 @@ It was a relatively small issue, but it was a useful example of the kind of judg
 
 ---
 
+<a id="beyond-eoss"></a>
 # Beyond EOSS
 
 ## Other campaign activations
@@ -372,6 +379,7 @@ The work varied from campaign to campaign, but the working principle remained co
 
 ---
 
+<a id="working-independently"></a>
 # Working independently
 
 ## Knowing when to take ownership — and when to align
@@ -388,6 +396,7 @@ That distinction helped me work independently without creating unnecessary commu
 
 ---
 
+<a id="delivery"></a>
 # Delivery
 
 ## Getting the assets ready for the next stage
@@ -536,4 +545,3 @@ Digital Campaign Production
 ---
 
 ## Image-placeholder convention
-
