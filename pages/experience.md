@@ -20,10 +20,6 @@ Clients: Samsung, LG. Lead digital product designer for interactive TV widget ap
 **2009 – 2012 · Interactive Designer — Liberty Global, Amsterdam**
 External clients: Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax. Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.
 
-**2006 – 2009 · Web Designer / Content Creator — Various Companies, Amsterdam**
-TimeOut Magazine Amsterdam website adaptation; Snel Architectural Design website; Grablog (graphic design students' portal); website, photography, video, advertising and print for Amsterdam cafés & Ranchos restaurants (5 years).
-
----
 
 # Capabilities
 
