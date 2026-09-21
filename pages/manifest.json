@@ -7,5 +7,6 @@
   { "file": "about.md", "slug": "about", "label": "About", "nav": true },
   { "file": "experience.md", "slug": "experience", "label": "Experience", "nav": true },
   { "file": "contact.md", "slug": "contact", "label": "Contact", "nav": true },
-  { "file": "test.md", "slug": "test", "label": "Test", "nav": true }
+  { "file": "test.md", "slug": "test", "label": "Test", "nav": true },
+  { "file": "test2.md", "slug": "test", "label": "Test2", "nav": true }
 ]
