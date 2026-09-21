@@ -5,9 +5,6 @@ layout: page
 
 # Experience
 
-**2024 – present · Career Break — Family Care & Professional Development**
-Maintained professional development through Digital Leadership, AI and industry training while focused on family responsibilities.
-
 **2020 – 2023 · Creative Manager / Creative Production Consultant — Freelance & Contract, Amsterdam / EU**
 Supported in-house teams and agencies on ecommerce, campaign delivery, creative production and localization for Calvin Klein, adidas, Reebok, Amazon, Diageo, Virgin Media, Liberty Global and Philips. Led creative production and campaign delivery across digital, ecommerce, social, video and integrated marketing; coordinated designers, producers, marketers, developers and external stakeholders from brief through delivery; improved workflows and documentation to increase delivery efficiency.
 
