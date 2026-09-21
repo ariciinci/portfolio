@@ -1,0 +1,10 @@
+[
+  { "file": "home.md", "slug": "home", "label": "Home", "nav": false },
+  { "file": "work.md", "slug": "work", "label": "Work", "nav": true },
+  { "file": "case-reebok.md", "slug": "case-reebok", "label": "Reebok Case Study", "nav": false },
+  { "file": "case-calvin-klein.md", "slug": "case-calvin-klein", "label": "Calvin Klein Case Study", "nav": false },
+  { "file": "case-ai-ops.md", "slug": "case-ai-ops", "label": "AI Creative Ops OS", "nav": false },
+  { "file": "about.md", "slug": "about", "label": "About", "nav": true },
+  { "file": "experience.md", "slug": "experience", "label": "Experience", "nav": true },
+  { "file": "contact.md", "slug": "contact", "label": "Contact", "nav": true }
+]
