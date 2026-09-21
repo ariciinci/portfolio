@@ -6,7 +6,7 @@ layout: page
 # Experience
 
 **2020 – 2023 · Creative Manager / Creative Production Consultant — Freelance & Contract, Amsterdam / EU**
-Supported in-house teams and agencies on ecommerce, campaign delivery, creative production and localization for **Calvin Klein, adidas, Reebok, Amazon, Diageo, Virgin Media, Liberty Global and Philips.** Led creative production and campaign delivery across digital, ecommerce, social, video and integrated marketing; coordinated designers, producers, marketers, developers and external stakeholders from brief through delivery; improved workflows and documentation to increase delivery efficiency.
+Supported in-house teams and agencies on ecommerce, campaign delivery, creative production and localization for ***Calvin Klein, adidas, Reebok, Amazon, Diageo, Virgin Media, Liberty Global and Philips.*** Led creative production and campaign delivery across digital, ecommerce, social, video and integrated marketing; coordinated designers, producers, marketers, developers and external stakeholders from brief through delivery; improved workflows and documentation to increase delivery efficiency.
 
 **2015 – 2019 · Senior Designer (Creative Production & Campaign Delivery) — adidas Group, Amsterdam**
 Supported global ecommerce campaign delivery for Reebok and adidas across EMEA, APAC, LATAM and North America. Developed campaign concepts and activation frameworks; led concept presentations with EU Marketing; acted as creative quality gate before stakeholder sign-off; directed freelancers and junior designers; supported localization/QA across 9 European languages; introduced blueprint and onboarding documentation; established recurring global campaign toolkit sessions.
@@ -18,7 +18,7 @@ Client: Kuwait Ahmad Al-Jaber Oil & Gas Museum. Led design & illustration for mo
 Clients:**Samsung,LG** Lead digital product designer for interactive TV widget apps on Philips, LG and Samsung Smart TV platforms; consulted on new design concepts for iPad/iPhone.
 
 **2009 – 2011 · Interactive Designer — Liberty Global, Amsterdam**
-External clients: **Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax** Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.
+External clients: ***Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax*** Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.
 
 
 # Capabilities
