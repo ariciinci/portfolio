@@ -17,7 +17,7 @@ Client: Kuwait Ahmad Al-Jaber Oil & Gas Museum. Led design & illustration for mo
 **2011 – 2012 · Product Designer — TWC Apps, Amsterdam**
 Clients: Samsung, LG. Lead digital product designer for interactive TV widget apps on Philips, LG and Samsung Smart TV platforms; consulted on new design concepts for iPad/iPhone.
 
-**2009 – 2012 · Interactive Designer — Liberty Global, Amsterdam**
+**2009 – 2011 · Interactive Designer — Liberty Global, Amsterdam**
 External clients: Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax. Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.
 
 
