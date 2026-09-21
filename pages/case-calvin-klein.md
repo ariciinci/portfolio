@@ -6,11 +6,14 @@ layout: page
 [← Back to Work](#/work)
 
 # Digital Campaign Production
-**Calvin Klein · Freelance · Amsterdam · June 2022**
+**Calvin Klein · Fixed Contract · Amsterdam · June 2022**
 
-I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a senior art director who was away. The team already had established creative and production processes in place — campaigns were being produced through existing workflows, templates, automation and delivery structures, so the first priority was to understand how the system worked and become productive quickly.
-
-My role was focused on digital asset production and campaign delivery support. I worked from approved photography, creative direction and existing campaign assets, adapting them into the digital formats required by the briefs. During the assignment I supported several campaign activations, including EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments. The largest production assignment was EOSS, where I personally produced and exported 300+ digital assets in approximately two weeks.
+### Stepping into an established creative environment ###  
+I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a senior art director who was away.
+By the time I joined, the creative and production setup was already well established. There were existing workflows, templates, automation, project-management tools and clear ways of working between creative, production and marketing.
+I wasn't there to reinvent any of that. I needed to understand it quickly, find my way around it and start producing.
+My role was primarily digital asset production: taking approved photography, creative direction and campaign materials and turning them into the formats required for the different campaign activations.
+During the assignment, I worked across #EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments.#
 
 ## At a Glance
 | | |
