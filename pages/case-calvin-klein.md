@@ -13,7 +13,11 @@ I joined Calvin Klein in June 2022 on a short-term freelance assignment, coverin
 By the time I joined, the creative and production setup was already well established. There were existing workflows, templates, automation, project-management tools and clear ways of working between creative, production and marketing.
 I wasn't there to reinvent any of that. I needed to understand it quickly, find my way around it and start producing.
 My role was primarily digital asset production: taking approved photography, creative direction and campaign materials and turning them into the formats required for the different campaign activations.
-During the assignment, I worked across # EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments. #
+During the assignment, I worked across **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments.**
+
+[IMAGE PLACEHOLDER — HERO EOSS]
+Suggested visual: Strong EOSS desktop landing-page layout.
+EOSS — digital campaign production.
 
 ## At a Glance
 | | |
