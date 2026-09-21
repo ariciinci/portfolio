@@ -4,119 +4,147 @@
 
 **Amsterdam · June 2022**
 
-### Stepping into an established creative environment
+### Working inside an established global creative environment
 
-I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a senior art director who was away.
+I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a senior art director during their holiday.
 
-By the time I joined, the creative and production setup was already well established. There were existing workflows, templates, automation, project-management tools and clear ways of working between creative, production and marketing.
+The creative and production environment was already established. There were existing workflows, templates, production methods, project-management systems and ways of working with the wider creative and marketing teams.
 
-I wasn't there to reinvent any of that. I needed to understand it quickly, find my way around it and start producing.
+My responsibility was to step into that environment quickly and support the production of digital campaign assets across several activations.
 
-My role was primarily digital asset production: taking approved photography, creative direction and campaign materials and turning them into the formats required for the different campaign activations.
+I worked from approved photography, creative direction and campaign materials, translating them into the digital formats required by the briefs.
 
-During the assignment, I worked across EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments.
-
-> **[IMAGE PLACEHOLDER — HERO EOSS]**  
-> Suggested visual: Strong EOSS desktop landing-page layout.  
-> Caption: *EOSS — digital campaign production.*
+The assignment included **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments**.
 
 ---
 
-# The role
+### [IMAGE PLACEHOLDER — HERO]
 
-## Getting the brief right before opening the file
+**Suggested image:** Strongest EOSS desktop / landing-page layout.
 
-A big part of production is making sure you actually understand what you're being asked to make.
-
-When a brief came in, I would read it properly, then go through the supporting material and resources that came with it. I preferred to understand what was already there before starting to ask questions.
-
-If something wasn't clear, I would investigate it first.
-
-That could mean checking the supplied campaign material, looking at existing assets or templates, going back through the project information, or checking the relevant requirements for the platform or format.
-
-Only then would I raise a question.
-
-The aim was to make the question as clear and direct as possible. There is little value in passing on a vague question when you can first work out exactly what you need to know.
-
-> **[IMAGE PLACEHOLDER — CAMPAIGN ASSET]**  
-> Suggested visual: One representative campaign layout showing approved creative adapted into a digital format.  
-> Caption: *Approved campaign creative adapted for digital production.*
+*Caption: EOSS — digital campaign production.*
 
 ---
 
-# Knowing who needs to answer what
+## The role
 
-Not every question belonged with the same person.
+### Producing within an existing system
 
-If it was a creative question, I would first discuss it with the creative lead on the project — whether that was a senior designer, art director or creative director.
+The work started with understanding what had already been established.
 
-If we still couldn't resolve it internally, I would formulate the question clearly and take it to the producer or project manager.
+The briefs identified the assets required for each activation. The supporting materials, existing campaign assets and templates provided the starting point for production.
 
-Questions about the wider context of the brief or campaign were generally handled through the producer, as they were managing the traffic between the creative team, marketing and the wider campaign stakeholders.
+Before beginning, I made sure I had read the brief and all of the supplied resources carefully. If something wasn't clear, I first investigated it myself rather than immediately passing the question on.
 
-Where appropriate, the producer would then take the question to marketing and bring the answer back into the production process.
+That meant understanding what had already been provided, checking previous or existing assets where relevant, and making sure that any question I raised was specific and actionable.
 
-That distinction mattered. It kept the communication clean and meant that marketing wasn't being approached with questions that could have been resolved within the creative team.
+The aim was to arrive at a clear question rather than simply saying that something was unclear.
 
-The exception was usually something practical — a broken link, missing file or technical problem with the material supplied.
+---
+
+### [IMAGE PLACEHOLDER — APPROVED CREATIVE → DIGITAL OUTPUT]
+
+**Suggested image:** A representative campaign layout showing the relationship between campaign creative and a finished digital placement.
+
+*Caption: Adapting approved campaign creative into a required digital format.*
+
+---
+
+## Knowing where to take a question
+
+Not every question needed to go directly to marketing.
+
+If the question was creative, I would first discuss it with the creative lead working on the project — for example, a senior designer, art director or creative director.
+
+If the answer still wasn't clear, I would formulate the question as precisely as possible and align with the producer or project manager.
+
+Questions relating to the context or scope of the brief would then be handled through the producer, who managed the traffic between the creative team, marketing and campaign stakeholders.
+
+In some situations, the producer would consolidate the questions and take them to marketing rather than creating multiple parallel conversations.
+
+The exception was usually practical: if a link was broken, a file was missing or something supplied with the brief wasn't working, that could be raised directly as a practical issue.
+
+This structure helped keep communication clear and reduced unnecessary noise around the production team.
+
+---
+
+### [IMAGE PLACEHOLDER — WORKFLOW / PROJECT INFORMATION]
+
+**Suggested image:** A campaign visual that can sit beside the workflow text without requiring confidential project-management screenshots.
+
+*Caption: Working from the latest brief, campaign materials and project information.*
 
 ---
 
 # From brief to production
 
-## Understand it. Then make it.
+## Understanding before producing
 
-Once I understood the brief and the supporting material, I could start working through the required outputs.
+Once the brief and supporting materials were understood, I worked through the requested outputs and checked the relevant requirements.
 
-The brief would identify what was needed — for example, a particular Instagram Stories format or a main landing-page asset. From there, I would work out how that requirement needed to be produced using the available campaign material and existing production setup.
+The process was not simply a matter of opening a template and exporting files.
 
-Where technical requirements weren't fully covered in the brief, I checked them separately.
+I needed to understand:
 
-I also worked within Calvin Klein's Wrike project-management environment, keeping track of updates, changes and feedback. Slack conversations were another useful reference when checking what had been discussed or changed during production.
+- what had actually been requested
+- which campaign assets were approved
+- which existing templates or live assets could be used
+- which platform requirements applied
+- whether the project information had changed
+- what feedback had already been given
+- what needed to be produced before the work could move to review
 
-This was important because the information at the start of a job wasn't necessarily the information at the end of it.
+I worked within Calvin Klein's project-management environment in Wrike and used Slack conversations and other project communications to keep up with updates.
 
-> **[IMAGE PLACEHOLDER — WORKFLOW VISUAL]**  
-> Suggested visual: Campaign asset or group of related assets.  
-> Caption: *Working from the latest project information rather than relying only on the original brief.*
-
----
-
-# Working with the creative lead
-
-Before sending work into the wider review process, I made sure I had produced everything requested and checked it against the relevant requirements.
-
-Where there was a creative lead on the project, I would show the work to them first.
-
-That gave us a chance to catch anything that needed adjusting before it went further.
-
-I would then work through the feedback, update the assets and submit them through the relevant system.
-
-For me, this is simply part of working properly within a creative team. Being able to work independently is useful, but knowing when another pair of eyes is needed is equally important.
+When information changed, it was important to recognise whether that change affected the work already in progress, the estimated production time or the priority of the assignment.
 
 ---
 
-# The production setup
+## Working with the creative lead
 
-## Existing templates, existing tools, getting on with the work
+Before work moved further into the review process, I would first make sure the production was complete against the brief and relevant requirements.
 
-Calvin Klein already had a fairly mature digital production setup.
+Where a creative lead was assigned to the project, I would show the work to them first.
 
-I worked with Adobe XD, Photoshop Actions, automated resizing and exporting, and predefined templates.
+This gave the creative team an opportunity to review the work before it went into the wider review process.
 
-The templates and automation were useful for dealing with repetitive production work, particularly when a campaign required many related outputs.
+I would then work through the feedback, update the assets and submit the completed work through the relevant system.
 
-They also helped keep the work consistent.
+That internal creative alignment was an important part of the process.
 
-But automation doesn't mean you stop looking at the files.
+---
 
-The resulting assets still needed to be checked against the brief, the campaign requirements and the relevant platform specifications.
+### [IMAGE PLACEHOLDER — CREATIVE REVIEW / FINAL ASSET]
 
-The important thing for me was learning the existing setup quickly and using it properly, rather than trying to introduce a completely different way of working.
+**Suggested image:** A strong finished layout where the visual itself can represent the review-ready stage.
 
-> **[IMAGE PLACEHOLDER — RELATED FORMATS]**  
-> Suggested visuals: 2–3 related layouts from the same campaign showing different formats.  
-> Caption: *One campaign asset adapted across different digital requirements.*
+*Caption: Final asset prepared for internal review.*
+
+---
+
+# Production environment
+
+## Existing templates, automation and production methods
+
+Calvin Klein already had a mature digital production setup.
+
+I worked with established templates and production methods, including **Adobe XD, Photoshop Actions, automated resizing and exporting**.
+
+The advantage of working this way was consistency and speed, particularly when producing large numbers of related assets.
+
+The templates and automation handled repetitive parts of the work, but they didn't remove the need for judgement.
+
+Each output still needed to be checked against the brief, the relevant platform requirements and the latest project information.
+
+For me, the important part was learning the system quickly enough to work within it confidently rather than trying to replace it.
+
+---
+
+### [IMAGE PLACEHOLDER — TEMPLATE / MULTIPLE FORMAT EXAMPLES]
+
+**Suggested images:** 2–3 related layouts showing how one campaign creative is adapted into different formats.
+
+*Caption: Existing production structures used across multiple digital formats.*
 
 ---
 
@@ -124,174 +152,190 @@ The important thing for me was learning the existing setup quickly and using it 
 
 ## 300+ assets in approximately two weeks
 
-EOSS — End of Season Sale — was the biggest production assignment I worked on during the placement.
+EOSS — End of Season Sale — was the clearest example of production volume during the assignment.
 
 During my production period, I personally produced and exported **300+ digital assets in approximately two weeks**.
 
-The interesting part about the work was that EOSS wasn't one fixed set of assets.
+The work wasn't a single set of layouts.
 
-As the sale progressed, the campaign moved through different stages — further reductions, final reductions, last chance and final hours — with the requirements changing along the way.
+The campaign moved through different stages as the promotion progressed, including further reductions, final reductions, last chance and final hours.
 
-The production therefore had to keep pace with the campaign.
-
-> **[IMAGE PLACEHOLDER — EOSS HERO]**  
-> Suggested visual: EOSS Main Landing Page — Desktop.
->
-> **300+**  
-> Digital assets produced and exported
->
-> **~2 weeks**  
-> Production period
->
-> Caption: *EOSS — End of Season Sale.*
+Each stage introduced new requirements while the campaign still needed to feel like the same campaign.
 
 ---
 
-# A campaign in motion
+### [IMAGE PLACEHOLDER — EOSS HERO]
 
-> **[IMAGE PLACEHOLDER — EOSS CAMPAIGN SEQUENCE]**
->
-> Use sequence:
->
-> **Main Sale → Further Reductions → Final Reductions → Last Chance → Final Hours**
->
-> Caption: *EOSS campaign production across different promotional stages.*
+**Suggested image:** EOSS Main Landing Page — Desktop.
 
-The layouts show something that isn't always obvious when looking at a portfolio image on its own: the campaign was changing while the production was happening.
-
-The visual language needed to remain consistent, but the messaging and requirements changed as the promotion moved forward.
-
-My job was to keep adapting the approved campaign material to those requirements and keep the production moving.
+**On-page statistic:**  
+**300+ assets**  
+**~2 weeks**
 
 ---
 
-# Different formats, same campaign
+# A campaign that kept changing
 
-EOSS also had to work across a range of digital environments.
+The EOSS layouts show the campaign at different points in its lifecycle.
 
-I produced and adapted assets for web, e-commerce, email, paid social and Instagram Stories, including desktop, mobile and different social formats.
+### [IMAGE PLACEHOLDER — EOSS CAMPAIGN PROGRESSION]
 
-A landing page has very different requirements from an Instagram Story. An email has a different hierarchy again. A collection ad needs to work within yet another format.
+**Suggested sequence:**
 
-The underlying campaign still needs to feel like the same campaign.
+Main EOSS  
+→ Further Reductions  
+→ Final Reductions  
+→ Last Chance  
+→ Final Hours
 
-That meant adapting the layouts rather than simply resizing the same design and hoping for the best.
+**Caption:** EOSS campaign production across changing promotional phases.
 
-> **[IMAGE PLACEHOLDER — EOSS CROSS-CHANNEL]**
->
-> Suggested visual group:
->
-> - Desktop landing page
-> - Mobile
-> - Email
-> - Instagram feed
-> - Instagram Story
-> - Collection ad
->
-> Caption: *EOSS campaign creative adapted across web, email and social placements.*
+The production work had to respond to those changes while maintaining the established visual language.
+
+That meant adapting approved campaign material into the formats required at each stage, rather than treating each stage as a completely new piece of creative.
 
 ---
 
-# Keeping the production moving
+# Across the digital ecosystem
 
-With a large volume of assets and several campaign requests running at the same time, prioritisation became part of the day-to-day work.
+The same campaign also needed to work across different placements.
 
-I would align with the producer or project manager on what needed to happen first and what the priorities were for that day or week.
+I produced and adapted assets for **web, e-commerce, email, paid social and Instagram Stories**, including different desktop, mobile and social formats.
 
-I also kept them informed about how much work remained on a project and whether something was waiting for information, feedback or another dependency.
+A landing page and an Instagram Story might use the same campaign material, but they obviously don't behave in the same way.
 
-That was particularly important when a project was temporarily on hold.
+The available space, proportions, hierarchy and platform requirements change.
 
-If something changed and created additional work or affected the estimated production time, that needed to be visible to the producer/PM so it could be properly understood and prioritised.
-
-It sounds straightforward, but in a busy production environment this kind of visibility makes a real difference.
+The production work was therefore about finding the right adaptation for each output while keeping the campaign recognisable and consistent.
 
 ---
 
-# Keeping track of changing information
+### [IMAGE PLACEHOLDER — EOSS CROSS-CHANNEL GRID]
 
-The project-management platform and Slack/Teams channels were part of the working environment, rather than something I checked only when a problem came up.
+**Suggested images:**
 
-I kept an eye on updates, responded to the creative team and producer, and stayed in contact with my creative partner and the wider team.
+- Desktop landing page
+- Mobile landing page
+- Email
+- Instagram feed
+- Instagram Story
+- Collection ad
 
-If new information conflicted with something already received, I would flag it.
+*Caption: One campaign system adapted across different digital environments.*
 
-If a change meant additional work, or changed the amount of time needed, I would make sure the producer/PM was aware of it.
+---
 
-The point was not to make every change into a problem. It was to make sure the production impact of a change was understood before simply absorbing it into the work.
+# Production at volume
 
-> **[IMAGE PLACEHOLDER — EOSS DETAIL]**  
-> Suggested visual: Detail or pair of related EOSS layouts showing campaign variation.  
-> Caption: *Adapting production as campaign requirements changed.*
+The scale of EOSS meant that organisation and prioritisation were important.
+
+When several campaign requests were active, I aligned with the producer or project manager on what needed to happen first.
+
+I would keep them updated on where I was with the current work, what remained to be completed and what was waiting for information, feedback or materials.
+
+This was particularly important when a project was temporarily on hold. Rather than treating everything as equally urgent, the production traffic needed to remain visible so that priorities could be adjusted as information changed.
+
+I would also give an indication of how much work remained and what I expected to be able to complete within the day or week.
+
+That gave the producer/PM a clearer picture of production capacity and allowed priorities to be managed realistically.
+
+---
+
+# Staying on top of changing information
+
+In a live campaign environment, the information you start with isn't necessarily the information you finish with.
+
+I used the project-management platform and Slack/Teams channels to stay responsive to the creative team and producer.
+
+I also kept in regular contact with my creative partner and the wider creative team.
+
+When something changed, I looked at whether it created a conflict with information already received, affected the amount of work required or changed the expected production time.
+
+If a change introduced additional work, it was important that this was visible to the producer/PM so that the additional production requirement could be understood and prioritised properly.
+
+---
+
+### [IMAGE PLACEHOLDER — EOSS DETAIL]
+
+**Suggested image:** A detailed EOSS layout or a pair of related layouts showing a campaign variation.
+
+*Caption: Adapting campaign assets as requirements changed.*
 
 ---
 
 # Quality assurance
 
-## The work isn't finished when it looks finished
+## The check before the hand-off
 
-At this volume, checking the work was part of the production itself.
+QA was part of the production process.
 
-Before sending anything for review, I would go back to the brief and the latest project information and check that I had actually produced what was requested.
+Before submitting work, I would return to the brief and the information around it and check the work against what had actually been requested.
 
-Depending on the asset, that included checking:
+Depending on the asset, this included checking:
 
-- required formats and dimensions
-- relevant platform requirements
-- campaign content and messaging
+- required formats
+- dimensions
+- platform requirements
+- content and campaign messaging
 - file naming
 - feedback
-- completeness of requested outputs
-- where assets needed to go
-- whether required sign-off was in place
+- completeness of the requested asset set
+- correct destination / recipient
+- required sign-off
 
-I would also refer back to relevant Wrike updates and Slack conversations if something had changed during production.
+I also checked relevant Wrike information and Slack conversations when there had been updates during production.
 
-I don't have an error-rate or rework percentage from the assignment, so I wouldn't invent one.
+The point was not simply to make sure that the design looked finished.
 
-What I can say is that I treated QA as part of getting the work ready, not as a final administrative step.
-
-> **[IMAGE PLACEHOLDER — QA / FORMAT GROUP]**  
-> Suggested visual: Several related outputs together.  
-> Caption: *Checking a group of campaign outputs before review and delivery.*
+The asset needed to be **ready for the next person in the process**.
 
 ---
 
-# A small template problem
+### [IMAGE PLACEHOLDER — QA / MULTIPLE FORMATS]
 
-## Knowing when something is worth raising
+**Suggested images:** A small group of related outputs that demonstrate the level of variation being checked.
 
-During production, I noticed that some existing social-media templates were based on outdated platform requirements.
+*Caption: Reviewing multiple outputs before they move forward.*
 
-The templates were already part of the established production system, so I didn't simply change them without checking.
+---
 
-I raised the issue with the internal production and creative team and discussed it with the Production Manager.
+# A template issue during production
 
-We looked at whether the templates should be updated and whether doing so could have an impact on the production deadline.
+## When an existing template no longer matched the requirements
+
+During production, I noticed that some existing social-media templates were following outdated platform requirements.
+
+Because the templates were already part of the production system, I didn't change them independently.
+
+I raised the issue with the internal production/creative team and discussed it with the Production Manager.
+
+The discussion included whether the templates should be updated and what impact that could have on the production deadline.
 
 Once the approach was agreed, I updated the existing templates.
 
-I kept the previous versions rather than deleting them, and I communicated the change during a production meeting so that the team knew there were differences between the previous and updated versions when the assets moved into activation.
+I also retained the previous versions rather than removing them, and communicated the change during a production meeting so the team understood the difference between the previous and updated versions during activation.
 
-It wasn't a major project or a process transformation. It was a small production issue.
+It was a relatively small issue, but it was a useful example of the kind of judgement required in production work: recognising a problem, checking its implications, involving the right people and making a controlled change.
 
-But these are often the things that matter in day-to-day production: spotting something, checking it properly, involving the right people and making the change in a controlled way.
+---
 
-> **[IMAGE PLACEHOLDER — TEMPLATE UPDATE]**  
-> Suggested visual: Before/after or two representative versions, only if appropriate and safe to show.  
-> Caption: *Updating an existing social template following a platform-requirement check.*
+### [IMAGE PLACEHOLDER — TEMPLATE EXAMPLE]
+
+**Suggested visual:** If appropriate, show two anonymised/representative versions demonstrating the template change.
+
+*Caption: Updating an existing social template after identifying an outdated platform requirement.*
 
 ---
 
 # Beyond EOSS
 
-## Other campaign work
+## Other campaign activations
 
-EOSS was the largest production assignment during the placement, but I also worked across several other Calvin Klein activations.
+EOSS was the largest production assignment during the placement, but I also worked across several other Calvin Klein campaigns.
 
 ### CK Jeans Spring
 
-Digital campaign assets across landing pages, email and supporting formats.
+Digital campaign assets across landing pages, email and supporting campaign formats.
 
 ### June Refresh
 
@@ -305,82 +349,191 @@ Digital campaign asset production.
 
 Digital campaign asset production.
 
-The campaigns were different, but the production environment was the same.
+The work varied from campaign to campaign, but the working principle remained consistent: understand the requirements, work within the established system, produce the assets, check them carefully and keep the work moving through review.
 
-Each required understanding the brief, working with the available creative and assets, adapting the work to the required formats, checking the output and moving it through the review process.
+---
 
-> **[IMAGE PLACEHOLDER — CK JEANS SPRING]**
->
-> Suggested visuals:
->
-> - Desktop landing page
-> - Mobile landing page
-> - Newsletter launch
-> - Newsletter reminder
-> - Post-launch landing page
->
-> Caption: *CK Jeans Spring — digital campaign production across web and email.*
+### [IMAGE PLACEHOLDER — CK JEANS SPRING]
 
-> **[IMAGE PLACEHOLDER — OTHER CAMPAIGNS]**  
-> Suggested visual: Small curated group representing remaining campaigns.  
-> Caption: *Additional campaign activations supported during the assignment.*
+**Suggested images:** Desktop landing page + mobile landing page + newsletter.
+
+*Caption: CK Jeans Spring — adapting campaign creative across web and email.*
+
+---
+
+### [IMAGE PLACEHOLDER — OTHER CAMPAIGNS]
+
+**Suggested visual:** Compact grid representing June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments.
+
+*Caption: Additional campaign activations supported during the assignment.*
 
 ---
 
 # Working independently
 
-## Independence doesn't mean working alone
+## Knowing when to take ownership — and when to align
 
-One reason I was able to work independently was that I was already used to adapting to new working environments and learning new technical platforms and preferred software quickly.
+The team was able to give me work independently because I was used to adapting quickly to new working environments and learning technical platforms and preferred software.
 
-I'd worked across different brands and client environments before, including Adidas and Reebok, and was comfortable stepping into an existing structure.
+I had already worked across different brands and client environments, including Adidas and Reebok, and was comfortable entering an established creative structure without needing to be guided through every production decision.
 
-I also brought enough experience to know when ownership was expected and when it was better to stop and align with someone else.
+At the same time, independence did not mean working in isolation.
 
-A creative question might belong with the creative lead.
+I understood when I could make a production decision myself, when a creative decision belonged with the creative lead, and when a question about campaign context or scope needed to go through the producer or PM.
 
-A question about campaign context might need to go through the producer.
-
-A change affecting production time might need to be made visible to the PM.
-
-Knowing those boundaries made it easier to work independently without working in isolation.
+That distinction helped me work independently without creating unnecessary communication or bypassing the people responsible for the wider campaign.
 
 ---
 
 # Delivery
 
-## Getting the work ready for the next stage
+## Getting the assets ready for the next stage
 
-Once the relevant review and sign-off had happened, the assets needed to be ready for whoever was handling the next part of the process.
+Once the work had gone through the relevant internal review and sign-off, the assets needed to be prepared for the next stage of the campaign.
 
 For EOSS, Calvin Klein asked me to provide master assets to its localisation agencies.
 
-My responsibility at that point was to make sure that the assets I supplied were correct, followed the brief and had the required sign-off.
+My responsibility was to make sure the assets I supplied were correct, followed the brief and had the required sign-off.
 
 The localisation itself was handled downstream.
 
-So my part of the process ended with a clean hand-off rather than with ownership of the localisation operation.
+The hand-off therefore looked roughly like:
 
-> **[IMAGE PLACEHOLDER — FINAL EOSS ASSET GROUP]**  
-> Suggested visual: Selected final EOSS layouts.  
-> Caption: *Master campaign assets prepared for downstream localisation and activation.*
+**Brief**  
+→ **Production**  
+→ **QA**  
+→ **Creative / internal review**  
+→ **Sign-off**  
+→ **Master asset delivery**  
+→ **Downstream localisation / activation**
 
 ---
 
-# What I took from Calvin Klein
+### [IMAGE PLACEHOLDER — FINAL EOSS SET]
 
-Calvin Klein was a short assignment, but it was a good example of the kind of production environment I am comfortable working in.
+**Suggested image:** A strong group of final EOSS outputs.
 
-I had to get up to speed quickly, understand an established system, work independently, keep track of changing information and produce a substantial volume of digital assets within a relatively short period.
+*Caption: Master campaign assets prepared for downstream localisation and activation.*
 
-The **300+ EOSS assets produced and exported in approximately two weeks** gives the clearest indication of the scale.
+---
 
-But the number on its own doesn't really tell the story.
+# What this experience demonstrates
 
-The work involved understanding the brief before starting, knowing where to take questions, aligning with creative leadership, working with the producer/PM on priorities, adapting approved creative across different formats and campaign stages, checking the details and making sure the finished assets were ready to move on.
+Calvin Klein was a short assignment, but it gave me a useful view of working inside an established global creative and production environment.
 
-It also meant being comfortable enough in the production environment to notice when something wasn't quite right — and sensible enough not to change it without first checking with the people responsible.
+I had to become productive quickly, understand the existing way of working, keep track of changing information and produce a high volume of digital assets without losing sight of the details.
 
-That's probably the most useful thing I took from the assignment:
+The **300+ EOSS assets produced and exported in approximately two weeks** give the clearest indication of the production volume.
 
-**good production is not only about making the work. It's about understanding what needs to happen around the work so that it can keep moving.**
+But the work around that number is equally important.
+
+It required knowing the brief thoroughly before starting, asking better questions, understanding who needed to be involved, aligning with creative leadership, working with the producer/PM on priorities, adapting to changes and checking the work before it moved forward.
+
+It also meant knowing when something small — such as an outdated template — was worth raising before it became a problem further down the production process.
+
+That combination of **production, creative judgement, communication and attention to detail** is what I took from the experience.
+
+---
+
+# VISUAL INDEX
+
+For the final website, the visual story can be kept curated rather than showing every available layout.
+
+### EOSS
+
+**Hero:** Desktop landing page
+
+**Sequence:** Campaign phases
+
+**Grid:** Desktop / mobile / email / paid social / Story / collection
+
+### CK Jeans Spring
+
+**Sequence:** Desktop / mobile / newsletter / post-launch
+
+### Additional campaigns
+
+**Compact grid:** June Refresh / Pride Photo Booth / Geofencing Local Pride Moments
+
+### QA
+
+**Optional:** Template example
+
+---
+
+# Suggested final page flow
+
+**CALVIN KLEIN**  
+Digital Campaign Production
+
+↓  
+
+**Context / Role**
+
+↓  
+
+**Getting up to speed**
+
+↓  
+
+**Knowing where to take a question**
+
+↓  
+
+**From brief to production**
+
+↓  
+
+**Production environment**
+
+↓  
+
+# **EOSS — 300+ assets / ~2 weeks**
+
+↓  
+
+**Campaign progression**
+
+↓  
+
+**Cross-channel production**
+
+↓  
+
+**Production at volume**
+
+↓  
+
+**Staying on top of changing information**
+
+↓  
+
+**Quality assurance**
+
+↓  
+
+**Template issue / production judgement**
+
+↓  
+
+**Beyond EOSS**
+
+↓  
+
+**Working independently**
+
+↓  
+
+**Delivery / localisation hand-off**
+
+↓  
+
+**What this experience demonstrates**
+
+---
+
+## Image-placeholder convention
+
+For the website/deck, replace each `[IMAGE PLACEHOLDER — ...]` with the actual image(s) later. **The placeholder text is not intended to appear in the final portfolio.** It is there to make it clear what type of visual belongs at each point in the story.
+
+The copy establishes the production context and your decisions; the layouts provide the visual proof.
