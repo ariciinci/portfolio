@@ -1,9 +1,10 @@
 # CALVIN KLEIN
 ## CASE STUDY INDEX
-###### **[THE ASSIGNMENT](#the-assignment)** ● **[THE ROLE](#the-role)** ● **[THE SCALE](#eoss)** ● **[THE ENVIRONMENT](#production-environment)** ● **[THE OUTPUT](#across-the-digital-ecosystem)** ● **[THE WORKING METHOD](#from-brief-to-production)** ● **[THE PRODUCTION JUDGEMENT](#a-template-issue-during-production)** ● **[THE CAMPAIGNS](#beyond-eoss)** ● **[THE HAND-OFF](#delivery)** ● **[THE EXPERIENCE](#working-independently)**
+###### **<a href="javascript:void(0)" onclick="document.getElementById('the-assignment').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">THE ROLE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('eoss').scrollIntoView({behavior:'smooth'})">THE SCALE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-environment').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('across-the-digital-ecosystem').scrollIntoView({behavior:'smooth'})">THE OUTPUT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('from-brief-to-production').scrollIntoView({behavior:'smooth'})">THE WORKING METHOD</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('a-template-issue-during-production').scrollIntoView({behavior:'smooth'})">THE PRODUCTION JUDGEMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('beyond-eoss').scrollIntoView({behavior:'smooth'})">THE CAMPAIGNS</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('delivery').scrollIntoView({behavior:'smooth'})">THE HAND-OFF</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('working-independently').scrollIntoView({behavior:'smooth'})">THE EXPERIENCE</a>**
 
 <a id="the-assignment"></a>
 ## Digital Campaign Production
+
 **Amsterdam · June 2022**
 
 ### Working inside an established global creative environment
