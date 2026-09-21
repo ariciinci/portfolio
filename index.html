@@ -141,11 +141,34 @@
   </div>
 </footer>
 
+<a id="case-index-back-btn" href="javascript:void(0)" onclick="window.scrollTo({top:0, behavior:'smooth'})"
+   style="position:fixed; bottom:24px; z-index:999; background:#111; color:#fff; padding:10px 18px; border-radius:999px; font-size:13px; text-decoration:none; font-family:inherit; box-shadow:0 2px 10px rgba(0,0,0,0.25); display:none;">
+  ↑ Index
+</a>
+
 <script>
 (function(){
   var content = document.getElementById('page-content');
   var navLinks = document.getElementById('navLinks');
   var manifest = [];
+
+  function alignIndexButton(){
+    var btn = document.getElementById('case-index-back-btn');
+    var paragraphs = content.querySelectorAll('.prose p');
+    if(!paragraphs.length || !document.getElementById('the-assignment')){
+      btn.style.display = 'none';
+      return;
+    }
+    var rightEdge = 0;
+    paragraphs.forEach(function(p){
+      var r = p.getBoundingClientRect();
+      if(r.width > 0 && r.right > rightEdge) rightEdge = r.right;
+    });
+    var rightGap = window.innerWidth - rightEdge;
+    btn.style.right = Math.max(rightGap, 12) + 'px';
+    btn.style.display = 'block';
+  }
+  window.addEventListener('resize', alignIndexButton);
 
   // --- tiny frontmatter parser: pulls a --- ... --- block off the top of a markdown file ---
   function parseFrontmatter(raw){
@@ -194,6 +217,7 @@
         document.title = (parsed.meta.title || entry.label) + ' — Inci Arici';
         setActiveNav(slug);
         window.scrollTo(0, 0);
+        setTimeout(alignIndexButton, 100);
       })
       .catch(function(err){
         content.innerHTML = '<div class="prose"><h1>Something went wrong</h1><p>' + err.message + '</p></div>';
