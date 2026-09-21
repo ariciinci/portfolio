@@ -1,5 +1,4 @@
-# CALVIN KLEIN — CASE STUDY INDEX
-# CALVIN KLEIN — CASE STUDY INDEX
+###### CALVIN KLEIN — CASE STUDY INDEX
 
 **[THE ASSIGNMENT](#the-assignment)**  
 Calvin Klein · Amsterdam · June 2022
@@ -30,7 +29,7 @@ Approved master assets → localisation → activation
 
 **[THE EXPERIENCE](#working-independently)**  
 Working independently inside an established global creative environment
-
+######
 
 
 # CALVIN KLEIN
