@@ -101,6 +101,19 @@
   .prose td:first-child{color:var(--accent); font-weight:500;}
   .prose a{text-decoration:none; border-bottom:1px solid var(--accent); padding-bottom:1px;}
 
+  /* Images: sensible default, plus size/alignment utility classes for use in <img class="..."> */
+  .prose img{
+    max-width:100%; height:auto; display:block;
+    margin:20px 0; border:1px solid var(--line-soft);
+  }
+  .prose img.img-small{max-width:320px;}
+  .prose img.img-medium{max-width:520px;}
+  .prose img.img-full{max-width:100%;}
+  .prose img.img-center{margin-left:auto; margin-right:auto;}
+  .prose figure{margin:20px 0;}
+  .prose figure img{margin:0 0 8px;}
+  .prose figcaption{font-size:13.5px; color:var(--ink-faint); font-style:italic;}
+
   footer.site-footer{
     padding:40px 0; border-top:1px solid var(--line); background:var(--paper-alt);
     text-align:left;
