@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inci Arici — Creative Operations &amp; Production</title>
+<meta name="description" content="Inci Arici — Creative Operations, Production &amp; Digital Transformation. Case studies from adidas, Reebok, Calvin Klein and independent consulting.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E9E4D8;
+    --paper-alt:#E1DBCA;
+    --ink:#1C1A16;
+    --ink-soft:#4A453C;
+    --ink-faint:#726B5C;
+    --accent:#6E2A28;
+    --accent-soft:#8B4A42;
+    --line:#C7BFAE;
+    --line-soft:#D9D2C0;
+    --max:920px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    font-size:17px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,h4{
+    font-family:'Fraunces', serif;
+    font-weight:500;
+    line-height:1.15;
+    margin:0;
+    color:var(--ink);
+  }
+  a{color:var(--accent);}
+  a:hover{color:var(--accent-soft);}
+  .wrap{max-width:var(--max); margin:0 auto; padding:0 28px;}
+
+  /* Nav */
+  header.site{
+    position:sticky; top:0; z-index:50;
+    background:rgba(233,228,216,0.92);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line-soft);
+  }
+  .navbar{
+    max-width:var(--max); margin:0 auto; padding:16px 28px;
+    display:flex; justify-content:space-between; align-items:center;
+  }
+  .navbar .name{
+    font-family:'Fraunces', serif; font-size:19px; font-weight:600;
+    text-decoration:none; color:var(--ink);
+  }
+  .navbar nav{display:flex; gap:26px;}
+  .navbar nav a{
+    color:var(--ink-soft); text-decoration:none; font-size:15px;
+  }
+  .navbar nav a:hover{color:var(--accent);}
+  .navbar .nav-toggle{display:none;}
+  @media (max-width:640px){
+    .navbar nav{
+      position:fixed; top:60px; left:0; right:0;
+      background:var(--paper); border-bottom:1px solid var(--line);
+      flex-direction:column; padding:18px 28px; gap:16px;
+      display:none;
+    }
+    .navbar nav.open{display:flex;}
+    .navbar .nav-toggle{
+      display:block; background:none; border:1px solid var(--line);
+      border-radius:3px; padding:6px 10px; font-size:15px; color:var(--ink);
+      cursor:pointer; font-family:'IBM Plex Sans',sans-serif;
+    }
+  }
+
+  /* Hero */
+  .hero{padding:76px 0 64px;}
+  .hero .kicker{
+    color:var(--accent); font-size:15px; font-weight:500; margin-bottom:18px;
+  }
+  .hero h1{
+    font-size:clamp(34px, 5.4vw, 54px);
+    max-width:15ch;
+    letter-spacing:-0.01em;
+  }
+  .hero .lede{
+    margin-top:22px; max-width:56ch; font-size:19px; color:var(--ink-soft);
+  }
+  .hero .contact-row{
+    margin-top:32px; display:flex; gap:22px; flex-wrap:wrap; align-items:center;
+  }
+  .hero .contact-row a{
+    text-decoration:none; border-bottom:1px solid var(--accent); padding-bottom:2px;
+    font-size:15px;
+  }
+  .btn-primary{
+    display:inline-block; background:var(--ink); color:var(--paper);
+    padding:11px 22px; border-radius:2px; text-decoration:none; font-size:15px;
+    border-bottom:none !important;
+  }
+  .btn-primary:hover{background:var(--accent); color:var(--paper);}
+
+  section{padding:58px 0;}
+  section.bordered{border-top:1px solid var(--line);}
+  .section-head{margin-bottom:38px;}
+  .section-head h2{font-size:clamp(26px,3.6vw,34px);}
+  .section-head .sub{color:var(--ink-faint); margin-top:8px; font-size:16px; max-width:60ch;}
+
+  /* What I Bring - definition-list style */
+  .bring-item{
+    display:grid; grid-template-columns: 220px 1fr; gap:28px;
+    padding:24px 0; border-top:1px solid var(--line-soft);
+  }
+  .bring-item:last-child{border-bottom:1px solid var(--line-soft);}
+  .bring-item h3{font-size:19px; font-weight:600; font-family:'IBM Plex Sans',sans-serif;}
+  .bring-item p{margin:0; color:var(--ink-soft); max-width:58ch;}
+  @media (max-width:680px){
+    .bring-item{grid-template-columns:1fr; gap:8px;}
+  }
+
+  /* Case studies */
+  .case{
+    border-top:1px solid var(--line);
+    padding:36px 0;
+  }
+  .case:last-of-type{border-bottom:1px solid var(--line);}
+  .case-top{
+    display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:10px;
+  }
+  .case-top h3{font-size:24px;}
+  .case-meta{color:var(--ink-faint); font-size:14.5px;}
+  .case-summary{margin-top:14px; max-width:68ch; color:var(--ink-soft);}
+  .case-facts{
+    margin-top:18px; display:flex; flex-wrap:wrap; gap:10px 28px;
+  }
+  .case-facts div{font-size:14px; color:var(--ink-faint);}
+  .case-facts strong{display:block; color:var(--ink); font-size:16px; font-weight:600; font-family:'IBM Plex Sans',sans-serif;}
+  .expand-btn{
+    margin-top:20px; background:none; border:1px solid var(--line);
+    padding:9px 16px; font-size:14.5px; cursor:pointer; border-radius:2px;
+    color:var(--ink); font-family:'IBM Plex Sans',sans-serif;
+  }
+  .expand-btn:hover{border-color:var(--accent); color:var(--accent);}
+  .case-full{
+    display:none; margin-top:26px; padding-top:26px; border-top:1px dashed var(--line);
+    max-width:70ch;
+  }
+  .case-full.open{display:block;}
+  .case-full h4{
+    font-size:15px; font-family:'IBM Plex Sans',sans-serif; font-weight:600;
+    margin-top:26px; margin-bottom:8px; color:var(--accent);
+  }
+  .case-full h4:first-child{margin-top:0;}
+  .case-full p{margin:0 0 12px; color:var(--ink-soft);}
+  .case-full ul{margin:8px 0 12px; padding-left:20px; color:var(--ink-soft);}
+  .case-full li{margin-bottom:4px;}
+  .case.progress{opacity:0.82;}
+  .tag-progress{
+    font-size:12.5px; text-transform:uppercase; letter-spacing:0.04em;
+    color:var(--ink-faint); border:1px solid var(--line); padding:3px 9px; border-radius:2px;
+  }
+
+  /* How I work */
+  .principle{
+    display:flex; gap:20px; padding:20px 0; border-top:1px solid var(--line-soft);
+  }
+  .principle:last-child{border-bottom:1px solid var(--line-soft);}
+  .principle .num{
+    font-family:'Fraunces', serif; font-size:22px; color:var(--accent); min-width:32px;
+  }
+  .principle h3{font-size:18px; font-family:'IBM Plex Sans',sans-serif; font-weight:600; margin-bottom:4px;}
+  .principle p{margin:0; color:var(--ink-soft); max-width:58ch;}
+
+  /* Experience timeline */
+  .timeline{border-left:1px solid var(--line); margin-left:6px;}
+  .tl-item{padding:0 0 34px 30px; position:relative;}
+  .tl-item::before{
+    content:''; position:absolute; left:-5px; top:6px; width:9px; height:9px;
+    border-radius:50%; background:var(--accent);
+  }
+  .tl-item .dates{color:var(--ink-faint); font-size:14px; margin-bottom:4px;}
+  .tl-item h3{font-size:19px; font-family:'IBM Plex Sans',sans-serif; font-weight:600;}
+  .tl-item .role-meta{color:var(--ink-faint); font-size:14.5px; margin:2px 0 10px;}
+  .tl-item p{margin:0; color:var(--ink-soft); max-width:64ch;}
+
+  /* Capabilities table */
+  table.cap{width:100%; border-collapse:collapse; margin-top:6px;}
+  table.cap th, table.cap td{
+    text-align:left; padding:12px 16px 12px 0; border-top:1px solid var(--line-soft);
+    font-size:15px;
+  }
+  table.cap th{color:var(--ink-faint); font-weight:500; font-size:13.5px; text-transform:none;}
+  table.cap td:first-child{color:var(--accent); font-weight:500; width:180px;}
+  .tools-line{margin-top:22px; color:var(--ink-soft); font-size:15px;}
+
+  /* Education */
+  .edu-grid{display:grid; grid-template-columns:1fr 1fr; gap:40px;}
+  @media (max-width:680px){.edu-grid{grid-template-columns:1fr;}}
+  .edu-grid h3{font-size:16px; font-family:'IBM Plex Sans',sans-serif; font-weight:600; margin-bottom:10px; color:var(--ink-faint);}
+  .edu-grid ul{margin:0; padding-left:18px; color:var(--ink-soft);}
+  .edu-grid li{margin-bottom:8px;}
+
+  /* Footer */
+  footer{
+    padding:56px 0 70px; border-top:1px solid var(--line);
+    background:var(--paper-alt);
+  }
+  footer h2{font-size:clamp(26px,4vw,36px); max-width:16ch;}
+  footer .contact-row{margin-top:24px; display:flex; gap:24px; flex-wrap:wrap;}
+  footer .contact-row a{text-decoration:none; font-size:16px; border-bottom:1px solid var(--accent); padding-bottom:2px;}
+  footer .fine{margin-top:44px; color:var(--ink-faint); font-size:13.5px;}
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="navbar">
+    <a href="#top" class="name">Inci Arici</a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">Menu</button>
+    <nav id="navLinks">
+      <a href="#work">Work</a>
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<div id="top" class="wrap hero">
+  <div class="kicker">Creative Operations · Production · Digital Transformation</div>
+  <h1>Creative operations, built to run at scale.</h1>
+  <p class="lede">Ten-plus years building and running creative delivery systems for global e-commerce campaigns — from adidas and Reebok's multi-market activations to independent consulting for Calvin Klein, Amazon, Diageo and Virgin Media. Now focused on where creative operations meets automation and AI.</p>
+  <div class="contact-row">
+    <a href="#work">See the work</a>
+    <a href="mailto:incinema@gmail.com">incinema@gmail.com</a>
+    <a href="https://www.linkedin.com/in/incia/" target="_blank" rel="noopener">LinkedIn</a>
+  </div>
+</div>
+
+<section class="bordered" id="about">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>What I bring</h2>
+    </div>
+
+    <div class="bring-item">
+      <h3>Creative Production &amp; Campaign Delivery</h3>
+      <p>Turning briefs into scalable multi-channel activations — from concept through launch — across ecommerce, email, paid, social and display.</p>
+    </div>
+    <div class="bring-item">
+      <h3>Creative Operations &amp; Workflow Design</h3>
+      <p>Building the blueprints, documentation and review structures that make campaign delivery repeatable instead of reinvented every time.</p>
+    </div>
+    <div class="bring-item">
+      <h3>Localization &amp; QA at Scale</h3>
+      <p>Managing creative quality and consistency across up to 9 languages and multiple regional markets simultaneously.</p>
+    </div>
+    <div class="bring-item">
+      <h3>Stakeholder Management &amp; Alignment</h3>
+      <p>Connecting HQ creative, marketing, UX/CX and regional teams — translating business briefs into executions everyone can act on.</p>
+    </div>
+    <div class="bring-item">
+      <h3>Cross-Functional Collaboration</h3>
+      <p>Working fluently across designers, producers, marketers, developers and external agency partners.</p>
+    </div>
+    <div class="bring-item">
+      <h3>AI-Enabled Creative Operations</h3>
+      <p>Exploring how AI tooling can compress production cycles, support QA, and free creative teams to focus on judgment calls machines can't make.</p>
+    </div>
+  </div>
+</section>
+
+<section class="bordered" id="work">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Selected work</h2>
+      <div class="sub">Case studies from in-house and freelance production roles, covering global campaign delivery, high-volume digital production and operational transformation.</div>
+    </div>
+
+    <!-- Case 1 -->
+    <div class="case">
+      <div class="case-top">
+        <h3>Building a Global Creative Production System</h3>
+        <div class="case-meta">Reebok · adidas Group · Amsterdam · 2015–2019</div>
+      </div>
+      <div class="case-facts">
+        <div><strong>EMEA · NA · LATAM · APAC</strong>global markets</div>
+        <div><strong>Up to 11</strong>languages</div>
+        <div><strong>Ecommerce · Email · Paid Social · Display</strong>channels</div>
+      </div>
+      <p class="case-summary">I worked within the Reebok digital ecommerce team at adidas HQ, supporting the delivery of global campaigns across multiple markets, channels and languages. My role evolved beyond creative execution into creative production, campaign operations and cross-functional coordination — helping structure how campaigns moved from brief and concept through production, localisation, QA and delivery, while working with Marketing, UX, CX, Analytics, local markets, agencies and freelance production partners. The work involved both delivering campaigns and improving the systems that allowed the creative team to deliver them more consistently.</p>
+      <button class="expand-btn" data-target="case1">Read the full case study</button>
+      <div class="case-full" id="case1">
+        <h4>At a glance</h4>
+        <ul>
+          <li>2015–2019 · Amsterdam · Reebok / adidas Group</li>
+          <li>Global ecommerce campaign delivery across EMEA, North America, LATAM and APAC</li>
+          <li>Up to 11 languages; ecommerce, email, paid social, display and other digital channels</li>
+          <li>Global and local market stakeholders; external agencies, studios, freelancers and localisation partners</li>
+          <li>Campaign production, localisation, QA and delivery</li>
+          <li>Creative forecasting, resource planning and workflow development</li>
+          <li>Senior Interactive Designer / Creative Production role</li>
+        </ul>
+
+        <h4>The assignment</h4>
+        <p>Reebok's global ecommerce campaigns required creative teams at adidas HQ to coordinate multiple campaign phases, markets, channels and production partners. The challenge was not simply creating the assets — a campaign had to move through a connected production system: Brief → Concept → Approval → Blueprint → Production → Localisation → QA → Delivery → Live → Learnings. Each stage involved different stakeholders, requirements and dependencies. My role was to help make that process work reliably while maintaining creative direction and brand consistency across markets.</p>
+
+        <h4>My role</h4>
+        <p>My official title was Senior Interactive Designer. Within the Reebok ecommerce team, my responsibilities extended across:</p>
+        <ul>
+          <li>Creative production and campaign delivery</li>
+          <li>Campaign planning and production forecasting</li>
+          <li>Creative resource management</li>
+          <li>Briefing and coordinating external agencies, studios and freelancers</li>
+          <li>Localisation and creative QA</li>
+          <li>Global brand guardianship</li>
+          <li>Stakeholder alignment</li>
+          <li>Workflow and process improvement</li>
+          <li>Team onboarding and handovers</li>
+          <li>Campaign documentation and toolkits</li>
+          <li>Collaboration with Marketing, UX, CX and Analytics</li>
+          <li>Supporting the development of the creative team as a strategic partner within the organisation</li>
+        </ul>
+        <p>The role sat between creative, production, marketing and operations.</p>
+
+        <h4>Campaign scale</h4>
+        <p>The Holiday campaign is a useful example of the operating model: global markets across EMEA, North America, LATAM and APAC; ecommerce, email, paid social, display and retail adaptations; up to 11 languages; and a production ecosystem spanning the HQ creative team, an external studio, freelance designers, a localisation agency and local market teams — producing hundreds of localised campaign assets across multiple campaign phases.</p>
+
+        <h4>From brief to live campaign</h4>
+        <p>Rather than treating each asset as an individual request, the campaign was structured as a connected production lifecycle:</p>
+        <ul>
+          <li><strong>01 — Brief.</strong> Clarify the business objective, campaign requirements, channels and market needs.</li>
+          <li><strong>02 — Concept.</strong> Develop the campaign concept and messaging structure.</li>
+          <li><strong>03 — Review.</strong> Present the concept to Marketing leadership, gather feedback and establish sign-off.</li>
+          <li><strong>04 — Blueprint.</strong> Translate the approved concept into a production framework covering campaign phases, channels and required outputs.</li>
+          <li><strong>05 — Production.</strong> Coordinate internal creative production and external production partners.</li>
+          <li><strong>06 — Localisation.</strong> Provide approved campaign materials, copy and production guidance to localisation partners and markets.</li>
+          <li><strong>07 — QA.</strong> Review localised outputs for brand consistency, copy accuracy, image quality and campaign requirements.</li>
+          <li><strong>08 — Delivery.</strong> Provide the completed campaign toolkit and assets to Marketing and local markets for activation.</li>
+        </ul>
+
+        <h4>The production ecosystem</h4>
+        <p>The work required coordination across several disciplines rather than a linear designer-to-client workflow — EU Marketing, Creative/Production, UX, CX and Analytics, regional markets, external agencies, studios and freelancers, and localisation. I often operated at the point where these groups needed to connect, which meant understanding creative requirements while also considering production capacity, dependencies, approval timing, market requirements and downstream delivery.</p>
+
+        <h4>Global → local</h4>
+        <p>A global campaign created at HQ had to work across different markets without losing the core campaign idea or brand expression, so the production process needed to separate what was globally fixed from what could be locally adapted: Global campaign blueprint → Creative assets + copy guidance → Localisation → Market-specific versions → Creative QA → Delivery. I supported the coordination of this process and acted as a brand guardian when reviewing local adaptations, working with localisation agencies, local marketing specialists and external production partners.</p>
+
+        <h4>Working with external production partners</h4>
+        <p>A significant part of the role involved extending the internal creative team's production capacity through external agencies, 3D studios, freelance designers and localisation agencies. The objective was not simply to outsource production — external partners needed to understand the approved creative direction, ecommerce requirements, brand guidelines and delivery expectations. I helped connect the approved concept with the production requirements and approval process, while keeping work aligned with the campaign direction.</p>
+
+        <h4>What I changed</h4>
+        <p>As campaign activity increased, some parts of the workflow became difficult to manage consistently. Before: briefing could be unclear; feedback was inconsistent; stakeholder expectations were difficult to manage; handovers were inefficient; new team members required significant onboarding; creative capacity was difficult to forecast; and learnings were not consistently fed back into the next campaign.</p>
+        <p>I introduced or supported:</p>
+        <ul>
+          <li>Campaign blueprints</li>
+          <li>More structured creative reviews</li>
+          <li>Stakeholder guidelines and management</li>
+          <li>Onboarding planning and documentation</li>
+          <li>Resource and forecasting sheets</li>
+          <li>Structured handovers</li>
+          <li>Campaign learning reports (Global Campaign Toolkits and metrics)</li>
+          <li>Clearer communication between Creative, Marketing and other functions</li>
+        </ul>
+        <p>The objective was to make the creative operation more predictable without adding unnecessary bureaucracy.</p>
+
+        <h4>Creative forecasting &amp; capacity</h4>
+        <p>As part of the operational work, I developed ways of making upcoming creative demand more visible — tracking upcoming campaigns, production requirements, available creative capacity, external production requirements, campaign phases and delivery dependencies. This gave internal stakeholders a clearer view of what the creative team was working on and helped create more realistic expectations around production, moving the conversation from "Can Creative make this?" towards "What needs to happen for Creative to deliver this reliably?"</p>
+
+        <h4>Continuous operations</h4>
+        <p>The work did not stop when a campaign went live. After activation, I supported a recurring process of gathering campaign results, local-market feedback and QA observations, brought together into campaign learning reports and shared with relevant teams — connecting campaign delivery → performance → learning → UX/CX → future campaign development. I also worked with local market teams across different time zones to review campaign performance, production issues and market-specific concerns.</p>
+
+        <h4>Retail is led by digital</h4>
+        <p>The ecommerce campaign system also influenced downstream retail activity. From the 2016 Holiday campaign onwards, the digital-first campaign approach was used as the basis for developing retail guidelines for campaign activations. I worked with external production partners to ensure the approved campaign concept and creative direction could be translated into the required retail applications, creating a more connected relationship between digital campaign production and broader brand activation.</p>
+
+        <h4>Operational impact</h4>
+        <p>The changes helped establish a more repeatable campaign delivery process across multiple activations:</p>
+        <ul>
+          <li>Standardised campaign documentation</li>
+          <li>More consistent creative reviews</li>
+          <li>Clearer stakeholder communication</li>
+          <li>Faster and more structured localisation handovers</li>
+          <li>More predictable approval processes</li>
+          <li>Reduced onboarding effort</li>
+          <li>Increased visibility of creative workload</li>
+          <li>Greater internal creative capacity</li>
+          <li>Better documentation of campaign learnings</li>
+        </ul>
+        <p>I also helped strengthen the role of the Creative team within the wider organisation by making its workload, production requirements and dependencies more visible to other departments.</p>
+
+        <h4>Before → after</h4>
+        <ul>
+          <li>Unclear briefing and stakeholder engagement → Campaign development plan and blueprint</li>
+          <li>Inconsistent feedback → Structured creative reviews</li>
+          <li>No stakeholder guidelines → Documented stakeholder guidelines</li>
+          <li>Onboarding took months → Onboarding documentation</li>
+          <li>Unpredictable approvals → Predictable approvals via clear conversation structure</li>
+        </ul>
+        <p><strong>Tools used:</strong> Jira, InVision, Sketch, Microsoft Teams, Adobe Creative Suite, Adobe Analytics, Google Drive</p>
+
+        <h4>What this experience added</h4>
+        <p>This experience moved my work beyond individual creative delivery. I learned how to operate inside a large, distributed creative ecosystem, where successful delivery depends on the relationship between people, processes, information, technology and timing. It strengthened my ability to coordinate complex creative production, work across global and local teams, manage internal and external production capacity, translate creative direction into production systems, establish clearer workflows, build documentation and onboarding structures, forecast creative demand, connect creative decisions with business and campaign performance, and use operational learnings to improve future work.</p>
+        <p>Most importantly, it showed me that creative operations is not separate from creativity. The operating system around creative work directly affects the team's ability to produce good work, at the right quality, at the right time and at the required scale.</p>
+      </div>
+    </div>
+
+    <!-- Case 2 -->
+    <div class="case">
+      <div class="case-top">
+        <h3>Calvin Klein — Digital Campaign Production</h3>
+        <div class="case-meta">Freelance · Amsterdam · June 2022</div>
+      </div>
+      <div class="case-facts">
+        <div><strong>300+</strong>EOSS assets produced &amp; exported</div>
+        <div><strong>~2 weeks</strong>production period</div>
+        <div><strong>5 campaigns</strong>supported</div>
+      </div>
+      <p class="case-summary">A short-term freelance assignment covering for a senior art director, stepping into Calvin Klein's already-running creative and production system. Focused on digital asset production and campaign delivery support across EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments — with EOSS alone accounting for 300+ digital assets personally produced and exported in roughly two weeks.</p>
+      <button class="expand-btn" data-target="case2">Read the full case study</button>
+      <div class="case-full" id="case2">
+        <h4>The assignment</h4>
+        <p>This wasn't a project to create a new visual direction or production process — the creative direction and campaign material were already established. My job was to take approved material and turn it into the digital outputs the briefs required, across web, ecommerce, email, paid social and Instagram Stories, working closely with the Production Manager, Creative Producer, the Creative/Art Direction team and Marketing stakeholders.</p>
+
+        <h4>The production environment</h4>
+        <p>Calvin Klein already had a structured digital production environment — predefined templates, established campaign structures and automation that helped the team produce assets consistently at volume. Tools included Adobe XD, Photoshop Actions, automated resizing/exporting, and existing campaign and live assets. I worked within Calvin Klein's Wrike project-management system to track updates, and cross-referenced Slack conversations and the original brief to make sure I was working from the latest requirement rather than an earlier version.</p>
+
+        <h4>EOSS — 300+ assets in ~2 weeks</h4>
+        <p>End of Season Sale was the clearest example of production volume: 300+ digital assets personally produced and exported across web, ecommerce, email, paid social and Instagram Stories. The campaign moved through stages — Main Sale → Further Reductions → Final Reductions → Last Chance → Final Hours — so the challenge combined volume, variation and timing: the underlying creative had to stay consistent while individual assets were adapted to placement and promotion stage.</p>
+
+        <h4>One creative, many formats</h4>
+        <p>Desktop landing pages, mobile layouts, ecommerce, email/newsletter, Instagram feed and Stories, paid social and collection advertising each had different requirements. The scale came from working systematically with approved material, existing templates and production methods — not from designing hundreds of unrelated pieces from scratch.</p>
+
+        <h4>Quality assurance, built into production</h4>
+        <p>Before sending assets for review, I checked requirements had been followed, platform requirements met, files correctly named, feedback addressed, and sign-off in place before delivery. There's no reliable error-rate or rework percentage from the assignment, so I wouldn't attach a number to it — what I can say is that checking source information again before calling an asset "ready" became a habit.</p>
+
+        <h4>A small production issue</h4>
+        <p>I noticed some existing social-media templates followed outdated platform requirements. Rather than changing them unilaterally, I raised it with the Production Manager, discussed the deadline impact, then updated the templates while retaining the previous versions and communicating the change at a production meeting — so the wider team understood the difference once assets went live.</p>
+
+        <h4>Beyond EOSS</h4>
+        <p>The same production environment supported CK Jeans Spring Campaign (landing pages, email and other formats), June Refresh, CK Pride Photo Booth, and Geofencing Local Pride Moments — each with different requirements but the same attention to production detail.</p>
+
+        <h4>Handoff</h4>
+        <p>For EOSS, once assets were reviewed and signed off, I supplied master assets to Calvin Klein's localization agencies — my responsibility was making sure those assets were correct, on-brief and signed off; localization itself was handled downstream. I wasn't responsible for campaign strategy, creative direction or localization — my responsibility was accurate production, keeping work moving through the process, and a clean handover.</p>
+      </div>
+    </div>
+
+    <!-- Case 3 - in progress -->
+    <div class="case progress">
+      <div class="case-top">
+        <h3>AI Creative Operations OS</h3>
+        <span class="tag-progress">In progress</span>
+      </div>
+      <p class="case-summary">An independent, prototype concept — not a system built at a past employer. Currently developing the problem statement, proposed AI-enabled workflow, human-vs-automation responsibilities, and governance model for how AI tooling could compress creative production cycles without losing quality control. Full write-up coming soon.</p>
+    </div>
+
+  </div>
+</section>
+
+<section class="bordered">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>How I work</h2>
+    </div>
+    <div class="principle">
+      <div class="num">1</div>
+      <div><h3>Blueprint before build</h3><p>A clear process map prevents more problems than any amount of firefighting fixes.</p></div>
+    </div>
+    <div class="principle">
+      <div class="num">2</div>
+      <div><h3>Structure protects creativity</h3><p>Good operations create the space for good creative work, not the opposite.</p></div>
+    </div>
+    <div class="principle">
+      <div class="num">3</div>
+      <div><h3>Stakeholders need translation, not just updates</h3><p>Briefs, feedback and approvals move faster when everyone's speaking the same language.</p></div>
+    </div>
+    <div class="principle">
+      <div class="num">4</div>
+      <div><h3>Quality is a gate, not an afterthought</h3><p>QA belongs earlier in the process than most teams put it.</p></div>
+    </div>
+    <div class="principle">
+      <div class="num">5</div>
+      <div><h3>Document the handover</h3><p>A process only scales if the next person can run it without you.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="bordered" id="experience">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Experience</h2>
+    </div>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="dates">2024 – present</div>
+        <h3>Career Break — Family Care &amp; Professional Development</h3>
+        <div class="role-meta">Amsterdam</div>
+        <p>Maintained professional development through Digital Leadership, AI and industry training while focused on family responsibilities.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2020 – 2023</div>
+        <h3>Creative Manager / Creative Production Consultant</h3>
+        <div class="role-meta">Freelance &amp; Contract · Amsterdam / EU</div>
+        <p>Supported in-house teams and agencies on ecommerce, campaign delivery, creative production and localization for Calvin Klein, adidas, Reebok, Amazon, Diageo, Virgin Media, Liberty Global and Philips. Led creative production and campaign delivery across digital, ecommerce, social, video and integrated marketing; coordinated designers, producers, marketers, developers and external stakeholders from brief through delivery; improved workflows and documentation to increase delivery efficiency.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2015 – 2019</div>
+        <h3>Senior Designer — Creative Production &amp; Campaign Delivery</h3>
+        <div class="role-meta">adidas Group · Amsterdam</div>
+        <p>Supported global ecommerce campaign delivery for Reebok and adidas across EMEA, APAC, LATAM and North America. Developed campaign concepts and activation frameworks; led concept presentations with EU Marketing; acted as creative quality gate before stakeholder sign-off; directed freelancers and junior designers; supported localization/QA across 9 European languages; introduced blueprint and onboarding documentation; established recurring global campaign toolkit sessions.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2013 – 2014</div>
+        <h3>Senior Digital Designer</h3>
+        <div class="role-meta">NewAngle Agency · London</div>
+        <p>Client: Kuwait Ahmad Al-Jaber Oil &amp; Gas Museum. Led design &amp; illustration for mobile and large-format (19"–72") interactive touch-screen motion exhibits, collaborating with 3D artists, illustrators, a creative director and motion designers.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2011 – 2012</div>
+        <h3>Product Designer</h3>
+        <div class="role-meta">TWC Apps · Amsterdam</div>
+        <p>Clients: Samsung, LG. Lead digital product designer for interactive TV widget apps on Philips, LG and Samsung Smart TV platforms; consulted on new design concepts for iPad/iPhone.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2009 – 2012</div>
+        <h3>Interactive Designer</h3>
+        <div class="role-meta">Liberty Global · Amsterdam</div>
+        <p>External clients: Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax. Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.</p>
+      </div>
+      <div class="tl-item">
+        <div class="dates">2006 – 2009</div>
+        <h3>Web Designer / Content Creator</h3>
+        <div class="role-meta">Various companies · Amsterdam</div>
+        <p>TimeOut Magazine Amsterdam website adaptation; Snel Architectural Design website; Grablog (graphic design students' portal); website, photography, video, advertising and print for Amsterdam cafés &amp; Ranchos restaurants (5 years).</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bordered">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Capabilities</h2>
+    </div>
+    <table class="cap">
+      <tr><th>Area</th><th>Capability</th></tr>
+      <tr><td>Production</td><td>Creative Production, Ecommerce Campaigns, Multi-market Campaign Execution</td></tr>
+      <tr><td>Operations</td><td>Creative Operations, Creative Workflow Improvement, Creative Briefing &amp; Review Processes</td></tr>
+      <tr><td>Quality</td><td>Localization &amp; QA, Creative Quality Assurance</td></tr>
+      <tr><td>People</td><td>Stakeholder Management, Cross-functional Collaboration, Team Mentoring &amp; Stakeholder Alignment</td></tr>
+      <tr><td>Delivery</td><td>Campaign Planning &amp; Activation, Agency &amp; Vendor Coordination</td></tr>
+    </table>
+    <p class="tools-line"><strong>Tools:</strong> Asana, Jira, Trello, Monday.com, Wrike, Basecamp, Adobe Creative Suite, Figma, Sketch, InVision, MS Office, Google Workspace</p>
+  </div>
+</section>
+
+<section class="bordered">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Education &amp; awards</h2>
+    </div>
+    <div class="edu-grid">
+      <div>
+        <h3>Education</h3>
+        <ul>
+          <li>BA Graphic Design — Gerrit Rietveld Academie, Amsterdam</li>
+          <li>BA Film &amp; TV Production — Mimar Sinan University, Istanbul</li>
+        </ul>
+        <h3 style="margin-top:24px;">Professional development</h3>
+        <ul>
+          <li>Digital Leadership — Growth Tribe (2024)</li>
+          <li>Digital Marketing Institute Certificate (2017–2018)</li>
+          <li>User Centred Design — Liberty Global</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Awards</h3>
+        <ul>
+          <li>Dutch Interactive Awards Winner (2013) — Interactive Product Designer, NOS Sport Smart App</li>
+          <li>Afdesi Awards Winner (2010) — UI Designer, Haiti Domain TV App</li>
+        </ul>
+        <h3 style="margin-top:24px;">Selected film festival recognition</h3>
+        <ul>
+          <li>Cannes Short Film Festival</li>
+          <li>Venice Film Festival</li>
+          <li>Sheffield Adventure Film Festival</li>
+          <li>All Sports Los Angeles Film Festival</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="contact">
+  <div class="wrap">
+    <h2>Let's talk about what your creative team needs.</h2>
+    <div class="contact-row">
+      <a href="mailto:incinema@gmail.com">incinema@gmail.com</a>
+      <a href="https://www.linkedin.com/in/incia/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+    <div class="fine">Inci Arici — Amsterdam</div>
+  </div>
+</footer>
+
+<script>
+  document.querySelectorAll('.expand-btn').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var target = document.getElementById(btn.getAttribute('data-target'));
+      var isOpen = target.classList.toggle('open');
+      btn.textContent = isOpen ? 'Show less' : 'Read the full case study';
+    });
+  });
+  var navToggle = document.getElementById('navToggle');
+  var navLinks = document.getElementById('navLinks');
+  if(navToggle){
+    navToggle.addEventListener('click', function(){
+      navLinks.classList.toggle('open');
+    });
+    navLinks.querySelectorAll('a').forEach(function(a){
+      a.addEventListener('click', function(){ navLinks.classList.remove('open'); });
+    });
+  }
+</script>
+
+</body>
+</html>
