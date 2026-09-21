@@ -19,6 +19,8 @@ I worked within the Reebok digital ecommerce team at adidas HQ, supporting the d
 - Creative forecasting, resource planning and workflow development
 - Senior Interactive Designer / Creative Production role
 
+![Test image](https://www.reebok.com/cdn/shop/files/story4_desk_garment.jpg?v=1789086762&width=2400)
+
 ## The Assignment
 Reebok's global ecommerce campaigns required creative teams at adidas HQ to coordinate multiple campaign phases, markets, channels and production partners. The challenge was not simply creating the assets — a campaign had to move through a connected production system: Brief → Concept → Approval → Blueprint → Production → Localisation → QA → Delivery → Live → Learnings. Each stage involved different stakeholders, requirements and dependencies. My role was to help make that process work reliably while maintaining creative direction and brand consistency across markets.
 
