@@ -2,10 +2,7 @@
 ## CASE STUDY INDEX
 ###### **<a href="javascript:void(0)" onclick="document.getElementById('the-assignment').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">THE ROLE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('eoss').scrollIntoView({behavior:'smooth'})">THE SCALE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-environment').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('across-the-digital-ecosystem').scrollIntoView({behavior:'smooth'})">THE OUTPUT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('from-brief-to-production').scrollIntoView({behavior:'smooth'})">THE WORKING METHOD</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('a-template-issue-during-production').scrollIntoView({behavior:'smooth'})">THE PRODUCTION JUDGEMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('beyond-eoss').scrollIntoView({behavior:'smooth'})">THE CAMPAIGNS</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('delivery').scrollIntoView({behavior:'smooth'})">THE HAND-OFF</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('working-independently').scrollIntoView({behavior:'smooth'})">THE EXPERIENCE</a>**
 
-<a href="javascript:void(0)" onclick="window.scrollTo({top:0, behavior:'smooth'})" 
-   style="position:fixed; bottom:24px; right:24px; z-index:999; background:#111; color:#fff; padding:10px 18px; border-radius:999px; font-size:13px; text-decoration:none; font-family:inherit; box-shadow:0 2px 10px rgba(0,0,0,0.25);">
-  ↑ Index
-</a>
+
 
 <a id="the-assignment"></a>
 ## Digital Campaign Production
