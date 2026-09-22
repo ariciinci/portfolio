@@ -1,310 +1,198 @@
-# GLOBAL ECOMMERCE CAMPAIGN DELIVERY
+# Reebok Case Study
 
-<a id="page-index"></a>
-<div style="padding: 10px 0; font-size: 0.9em;">
-<strong><a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">The Role</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('the-campaign').scrollIntoView({behavior:'smooth'})">The Campaign</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('global-campaign-scope').scrollIntoView({behavior:'smooth'})">Global Campaign Scope</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth'})">Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('my-contribution').scrollIntoView({behavior:'smooth'})">My Contribution</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('localization-qa').scrollIntoView({behavior:'smooth'})">Localization & QA</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('stakeholder-collaboration').scrollIntoView({behavior:'smooth'})">Stakeholder Collaboration</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('extended-campaign-delivery').scrollIntoView({behavior:'smooth'})">Extended Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('live-campaign-governance').scrollIntoView({behavior:'smooth'})">Live Campaign Governance</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('continuous-improvement').scrollIntoView({behavior:'smooth'})">Continuous Improvement</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth'})">Workflow Improvement</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('repeatable-campaign-delivery').scrollIntoView({behavior:'smooth'})">Repeatable Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('creative-as-a-strategic-partner').scrollIntoView({behavior:'smooth'})">Creative as a Strategic Partner</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('additional-scope').scrollIntoView({behavior:'smooth'})">Additional Scope</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('capabilities-demonstrated').scrollIntoView({behavior:'smooth'})">Capabilities Demonstrated</a></strong>
-</div>
+## Index
+
+- [1. From Digital Design to Creative Production](#section-1)
+- [2. Global Campaign Delivery](#section-2)
+- [3. Building a More Structured Creative Operation](#section-3)
+- [4. Connecting Creative with Global Teams](#section-4)
+- [5. From Campaign Delivery to a Reliable Creative Function](#section-5)
+
+---
+
+<a id="section-1"></a>
+# 1. FROM DIGITAL DESIGN TO CREATIVE PRODUCTION
+
+## Role Evolution
+
+I joined the Reebok ecommerce team at adidas HQ Amsterdam as a Senior Interactive Designer. While my official background was in digital design, my role expanded into a broader Creative Production and Campaign Delivery function.
+
+I became involved not only in developing creative work, but also in planning campaigns, coordinating production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
+
+## Establishing Creative as a Strategic Partner
+
+A key part of my role was helping establish the Reebok Creative team as a reliable partner within the wider adidas organisation.
+
+This meant connecting creative output with business goals, campaign planning, production requirements and the needs of Marketing, UX/CX, Production, Localization and regional markets.
+
+My responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment and Campaign Reporting.
+
+## Scope of the Role
+
+The work covered Holiday, Seasonal, New Arrivals, Category and Gifting campaigns, product launches, commercial campaigns such as EOSS and Back to School, collaborations, tactical launches and sponsored events.
+
+The role also extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
+
+**[SLIDE — My Role / Strategic Partner]**
+
+**[SLIDE — Projects Handled]**
+
+---
+
+<a id="section-2"></a>
+# 2. GLOBAL CAMPAIGN DELIVERY
 
 ## Reebok Holiday Campaign
 
-**adidas Group · Amsterdam · 2015–2019**
+The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC.
 
-I joined the Reebok ecommerce team at adidas HQ Amsterdam as a Senior Interactive Designer, supporting global ecommerce campaigns and digital activations.
+The campaign covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
-My role expanded into Creative Production, Campaign Delivery, Localization, QA, Stakeholder Alignment, Creative Resource Management, Workflow Improvement and Brand Governance.
+Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
-I worked across Creative, Marketing, Production, Localization, UX/CX and regional markets to support the delivery of global campaigns from concept through launch.
+## From Brief to Live Campaign
 
-**Scope**
+I supported the campaign throughout the production lifecycle:
 
-Global markets\
-Ecommerce · Email · Paid · Social · Retail\
-Up to 11 languages\
-Core Creative team + external studio, freelancers and localization agency
+**Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live**
 
-**Campaign Lifecycle**
+I presented creative concepts to EU Marketing leadership, supported the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
-Brief → Concept → Review → Localisation → QA → Delivery
+The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-**[SLIDE 4 — Case Overview / My Role]**
+**[SLIDE — Campaign Scope]**
 
-**[SLIDE 5 — Campaign Scope]**
+**[SLIDE — Campaign Strategy]**
 
----
+**[SLIDE — Campaign Lifecycle]**
 
-<a id="the-role"></a>
-## THE ROLE
+## Multi-Channel Campaign Outputs
 
-My responsibilities included Creative Production & Delivery, Brand Governance, business-goal alignment for campaign briefs and yearly creative forecasting, external agency and freelancer production, creative resource management, workflow improvement, systems thinking, team building, creative forecasting, junior development and supervision, team onboarding and handovers, creative process development, global campaign alignment with local markets, campaign analytics and toolkit reporting, and collaboration with UX and CX teams on marketing-stack issues.
+The campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
 
-**[SLIDE 1 — My Role / Strategic Partner]**
+Localized versions were then produced for the different markets.
 
-**[SLIDE 3 — Projects Handled]**
-
+**[SLIDE — Campaign Outputs]**
 
 ---
 
-<a id="the-campaign"></a>
-## THE CAMPAIGN
+<a id="section-3"></a>
+# 3. BUILDING A MORE STRUCTURED CREATIVE OPERATION
 
-### Reebok Holiday Campaign
+## Identifying Operational Needs
 
-The Holiday Campaign was designed as a phased ecommerce campaign for Reebok's global markets.
+As campaign delivery became more complex, I became increasingly involved in improving the way Creative worked with the wider organisation.
 
-Each phase introduced new business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
+Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
-The campaign covered multiple customer touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising, with localized versions for different markets.
+## Creating Repeatable Workflows
 
-**[SLIDE 7 — Campaign Strategy]**
+I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
 
-**[SLIDE 16 OR 17 — Campaign Outputs]**
+These systems developed over time and supported repeated campaign delivery rather than a single activation.
 
+The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
 
----
+## Team Enablement
 
-<a id="global-campaign-scope"></a>
-## GLOBAL CAMPAIGN SCOPE
+I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
-The campaign operated across global markets including EMEA, North America, LATAM and APAC.
+Creative resource management and forecasting provided greater visibility of upcoming work and capacity requirements.
 
-The delivery environment included up to 11 languages, multiple campaign phases, hundreds of localized assets, ecommerce, email, paid and social channels, and a core Creative team working with external studio production, freelance designers and a localization agency.
+**[SLIDE — Workflow Improvements]**
 
-**[SLIDE 6 — Global Scope]**
-
-
----
-
-<a id="campaign-delivery"></a>
-## CAMPAIGN DELIVERY
-
-The campaign moved through a structured production lifecycle:
-
-Brief → Brief Refinement → Concept Development → Pitch Presentation → Feedback and Concept Update → Creative Concept Sign-off → Blueprint Creation → Localization → QA → Approval → Full Toolkit and Campaign Guidelines Delivery → Live
-
-The campaign blueprint connected the approved creative concept with the production, localization and delivery stages.
-
-**[SLIDE 10 — Campaign Lifecycle]**
-
+**[SLIDE — Operational Results]**
 
 ---
 
-<a id="my-contribution"></a>
-## MY CONTRIBUTION
+<a id="section-4"></a>
+# 4. CONNECTING CREATIVE WITH GLOBAL TEAMS
 
-My contribution covered Creative Leadership, Production and Delivery, Team Alignment and Culture, and Cross-Functional Learning.
+## Stakeholder & Cross-Functional Collaboration
 
-I presented creative concepts to EU Marketing leadership and introduced briefing and production systems across the campaign pipeline.
+Global campaign delivery required coordination between EU Marketing, Creative, Production, UX, CX, regional markets, Analytics, Localization, external agencies and freelancers.
 
-I worked with the Creative team to build capacity and confidence across creative production and delivery, supported localization and creative QA across markets, and provided global brand guidance to local teams, external agencies and freelancers.
+I acted as a connecting point between these teams throughout the campaign lifecycle, supporting communication, creative reviews, approvals, production and delivery.
 
-I also aligned the Creative team to operate as one creative engine across different campaign scales and supported team confidence and cohesion.
+**[SLIDE — Stakeholder Collaboration]**
 
-Campaign learnings were documented and shared with UX and CX teams and included in Global Campaign Toolkit reports alongside KPI and other measurements from the Analytics team.
+## Localization & Quality Assurance
 
-**[SLIDE 9 — My Contribution]**
+The campaign required coordination across multiple markets and languages.
 
+The localization workflow included the approved campaign blueprint, copy sheet and localization brief, followed by localization agency production, copy approval, campaign asset production, localized copy approval and final delivery.
 
----
+I supported localization and creative QA across markets while maintaining brand consistency and alignment with the approved campaign direction.
 
-<a id="localization-qa"></a>
-## LOCALIZATION & QA
+**[SLIDE — Localization Process]**
 
-The global campaign required coordination between Creative, Copy, Production, Localization and regional teams.
+## Digital-to-Retail Production
 
-The localization process included:
+From 2016, the digital-first approach also informed retail guidelines.
 
-Approved Campaign Blueprint + Copy Sheet + Localization Brief
+I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
-→ Localization Agency\
-→ Copy Approval\
-→ Campaign Assets\
-→ Localized Copy Approval\
-→ Delivery
+**[SLIDE — Digital-to-Retail Production]**
 
-The process addressed copy sign-off, brand consistency, brand roadmap accuracy and image quality.
+## Campaign Learning & UX/CX
 
-**[SLIDE 15 — Localization Process]**
+My involvement continued after campaigns went live.
 
+Campaign results were gathered from the Analytics team together with feedback from local marketing specialists across EMEA, North America, LATAM and APAC.
 
----
+These learnings were documented in monthly campaign reports and discussed with regional teams. Relevant observations were then shared with UX and CX teams to inform future marketing-stack updates and subsequent campaign activity.
 
-<a id="stakeholder-collaboration"></a>
-## STAKEHOLDER COLLABORATION
+**[SLIDE — Live Campaign Governance]**
 
-Campaign delivery involved multiple teams across the organization:
-
-EU Marketing\
-Creative Team\
-Producer\
-UX\
-CX\
-Regional Markets\
-Asset Creation\
-Localization\
-Analytics\
-External Agency & Freelancers
-
-I supported communication and alignment between these teams throughout the campaign lifecycle.
-
-**[SLIDE 13 — Stakeholder Collaboration]**
-
+**[SLIDE — Continuous Campaign Learning]**
 
 ---
 
-<a id="extended-campaign-delivery"></a>
-## EXTENDED CAMPAIGN DELIVERY
+<a id="section-5"></a>
+# 5. FROM CAMPAIGN DELIVERY TO A RELIABLE CREATIVE FUNCTION
 
-Starting from 2016, the digital-first approach used for global ecommerce campaigns also informed retail guidelines.
+## Operational Results
 
-The Creative team worked with external agencies and studios to adapt the approved digital campaign direction and overarching campaign concept for retail.
+The work supported a more repeatable campaign delivery process across multiple activations.
 
-The process involved briefing external partners, ensuring the signed-off concept was applied according to brand and ecommerce guidelines, and coordinating approvals within the production cycle.
+Key improvements included:
 
-**[SLIDE 14 — Digital-to-Retail Production]**
+- Standardized campaign documentation
+- More consistent creative reviews
+- Clearer stakeholder alignment
+- More structured campaign conversations
+- Faster localization handovers
+- More predictable approval processes
+- Reduced onboarding effort
+- Greater visibility of creative capacity and upcoming work
 
+**[SLIDE — Operational Results]**
 
----
+## Building Trust in Creative
 
-<a id="live-campaign-governance"></a>
-## LIVE CAMPAIGN GOVERNANCE
-
-Once campaigns went live, campaign learnings continued to feed into subsequent activations.
-
-Results were gathered from the Analytics team together with learnings from local marketing specialists across EMEA, North America, LATAM and APAC.
-
-Monthly reports brought together campaign activations, results and QA observations.
-
-Two meetings per month were set up across different local-market time zones to review the reports and QA.
-
-The outcomes were summarized and translated into points for the UX and CX teams, supporting future marketing-stack updates and campaign improvements.
-
-**[SLIDE 11 — Live Campaign Governance]**
-
-
----
-
-<a id="continuous-improvement"></a>
-## CONTINUOUS IMPROVEMENT
-
-The campaign process created a recurring feedback loop:
-
-Campaign\
-→ Live Performance\
-→ Analytics & Market Feedback\
-→ Campaign Learnings\
-→ UX/CX Input\
-→ Future Campaign and Platform Improvements
-
-Campaign learnings were gathered from Analytics and regional markets, documented and shared across teams.
-
-**[SLIDE 12 — Continuous Work / Campaign Learning]**
-
-
----
-
-<a id="workflow-improvement"></a>
-## WORKFLOW IMPROVEMENT
-
-The campaign environment highlighted several areas where greater structure was needed:
-
-- Briefing clarity
-- Consistent feedback
-- Stakeholder management
-- Team handovers
-- Onboarding
-- Alignment between Marketing, Creative and UX/CX
-
-I introduced and developed structures including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation and resource planning.
-
-**[SLIDE 18 — Workflow Improvements]**
-
-
----
-
-<a id="repeatable-campaign-delivery"></a>
-## REPEATABLE CAMPAIGN DELIVERY
-
-The improvements supported a more repeatable campaign delivery process across multiple activations.
-
-This included:
-
-Standardized campaign documentation
-
-Consistent creative reviews
-
-Faster localization handovers
-
-Clearer stakeholder alignment and campaign conversations
-
-Repeatable campaign processes
-
-Reduced onboarding effort
-
-**[SLIDE 19 — Operational Results]**
-
-
----
-
-<a id="creative-as-a-strategic-partner"></a>
-## CREATIVE AS A STRATEGIC PARTNER
-
-The broader role combined creative production with campaign planning, stakeholder alignment, resource management, process development and cross-functional collaboration.
-
-The Creative team became more visible within the wider organization, with clearer expectations around creative capacity, campaign planning and delivery.
+By combining creative production with structured workflows, resource visibility, campaign reporting and cross-functional communication, the Creative team became more visible and predictable within the wider organisation.
 
 The work supported stronger relationships between Creative, Marketing, Production, Localization, UX/CX and regional teams.
 
-**[SLIDE 21 — Capabilities / Creative as Strategic Partner]**
+Creative could contribute not only to the development of campaign assets, but also to the planning, coordination and continuous improvement of the campaign operation.
 
+**[SLIDE — Creative as Strategic Partner]**
 
----
+## Broader Capability
 
-<a id="additional-scope"></a>
-## ADDITIONAL SCOPE
+This role brought together the areas that became central to my professional development:
 
-### Creative Production & Brand Governance
+**Creative Production**
+**Campaign Delivery**
+**Global Ecommerce**
+**Creative Operations**
+**Workflow Development**
+**Resource Planning**
+**Localization & QA**
+**Stakeholder Management**
+**Brand Governance**
+**Cross-Functional Collaboration**
+**Team Development**
+**Campaign Reporting**
 
-Creative production oversight and brand guardianship, with alignment of creative output with broader business goals.
-
-### Stakeholder & Cross-Functional Relations
-
-Cross-functional stakeholder alignment, campaign reporting and knowledge-sharing.
-
-### Team Development & Operational Systems
-
-Junior-to-senior progression frameworks, onboarding systems, systems-thinking approaches, process standardization and documentation.
-
-### Creative Resourcing & Capacity Planning
-
-Creative resource management and capacity planning across upcoming campaign requirements.
-
-### Visibility & Forecasting
-
-Creative forecasting to give internal teams greater visibility of creative work across the organization.
-
-Development of automation methods and resource-tracking sheets to support planning.
-
-**[SLIDE 22 — Additional Scope]**
-
-
----
-
-<a id="capabilities-demonstrated"></a>
-## CAPABILITIES DEMONSTRATED
-
-Creative Production\
-Campaign Delivery\
-Global Ecommerce Campaigns\
-Multi-Market Campaign Execution\
-Localization & QA\
-Stakeholder Management\
-Creative Operations\
-Workflow Improvement\
-Resource Management\
-Creative Forecasting\
-Brand Governance\
-Cross-Functional Collaboration\
-Team Development\
-Campaign Reporting\
-UX/CX Collaboration\
-Agency & Freelancer Management
+**[SLIDE — Additional Scope / Capabilities]**
