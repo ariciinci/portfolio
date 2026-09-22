@@ -1,12 +1,17 @@
+---
+indexButton: true
+---
 # Reebok Case Study
 
 ## Index
 
-- [1. From Digital Design to Creative Production](#section-1)
-- [2. Global Campaign Delivery](#section-2)
-- [3. Building a More Structured Creative Operation](#section-3)
-- [4. Connecting Creative with Global Teams](#section-4)
-- [5. From Campaign Delivery to a Reliable Creative Function](#section-5)
+<ul class="case-index-list">
+<li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">1. From Digital Design to Creative Production</a></li>
+<li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">2. Global Campaign Delivery</a></li>
+<li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">3. Building a More Structured Creative Operation</a></li>
+<li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">4. Connecting Creative with Global Teams</a></li>
+<li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">5. From Campaign Delivery to a Reliable Creative Function</a></li>
+</ul>
 
 ---
 
