@@ -1,6 +1,24 @@
 # GLOBAL ECOMMERCE CAMPAIGN DELIVERY
+### Index
+
+- [The Role](#the-role)
+- [The Campaign](#the-campaign)
+- [Global Campaign Scope](#global-campaign-scope)
+- [Campaign Delivery](#campaign-delivery)
+- [My Contribution](#my-contribution)
+- [Localization & QA](#localization--qa)
+- [Stakeholder Collaboration](#stakeholder-collaboration)
+- [Extended Campaign Delivery](#extended-campaign-delivery)
+- [Live Campaign Governance](#live-campaign-governance)
+- [Continuous Improvement](#continuous-improvement)
+- [Workflow Improvement](#workflow-improvement)
+- [Repeatable Campaign Delivery](#repeatable-campaign-delivery)
+- [Creative as a Strategic Partner](#creative-as-a-strategic-partner)
+- [Additional Scope](#additional-scope)
+- [Capabilities Demonstrated](#capabilities-demonstrated)
 
 ## Reebok Holiday Campaign
+
 **adidas Group · Amsterdam · 2015–2019**
 
 I joined the Reebok ecommerce team at adidas HQ Amsterdam as a Senior Interactive Designer, supporting global ecommerce campaigns and digital activations.
@@ -11,9 +29,9 @@ I worked across Creative, Marketing, Production, Localization, UX/CX and regiona
 
 **Scope**
 
-Global markets  
-Ecommerce · Email · Paid · Social · Retail  
-Up to 11 languages  
+Global markets\
+Ecommerce · Email · Paid · Social · Retail\
+Up to 11 languages\
 Core Creative team + external studio, freelancers and localization agency
 
 **Campaign Lifecycle**
@@ -98,10 +116,10 @@ The localization process included:
 
 Approved Campaign Blueprint + Copy Sheet + Localization Brief
 
-→ Localization Agency  
-→ Copy Approval  
-→ Campaign Assets  
-→ Localized Copy Approval  
+→ Localization Agency\
+→ Copy Approval\
+→ Campaign Assets\
+→ Localized Copy Approval\
 → Delivery
 
 The process addressed copy sign-off, brand consistency, brand roadmap accuracy and image quality.
@@ -114,15 +132,15 @@ The process addressed copy sign-off, brand consistency, brand roadmap accuracy a
 
 Campaign delivery involved multiple teams across the organization:
 
-EU Marketing  
-Creative Team  
-Producer  
-UX  
-CX  
-Regional Markets  
-Asset Creation  
-Localization  
-Analytics  
+EU Marketing\
+Creative Team\
+Producer\
+UX\
+CX\
+Regional Markets\
+Asset Creation\
+Localization\
+Analytics\
 External Agency & Freelancers
 
 I supported communication and alignment between these teams throughout the campaign lifecycle.
@@ -163,11 +181,11 @@ The outcomes were summarized and translated into points for the UX and CX teams,
 
 The campaign process created a recurring feedback loop:
 
-Campaign  
-→ Live Performance  
-→ Analytics & Market Feedback  
-→ Campaign Learnings  
-→ UX/CX Input  
+Campaign\
+→ Live Performance\
+→ Analytics & Market Feedback\
+→ Campaign Learnings\
+→ UX/CX Input\
 → Future Campaign and Platform Improvements
 
 Campaign learnings were gathered from Analytics and regional markets, documented and shared across teams.
@@ -257,19 +275,19 @@ Development of automation methods and resource-tracking sheets to support planni
 
 # CAPABILITIES DEMONSTRATED
 
-Creative Production  
-Campaign Delivery  
-Global Ecommerce Campaigns  
-Multi-Market Campaign Execution  
-Localization & QA  
-Stakeholder Management  
-Creative Operations  
-Workflow Improvement  
-Resource Management  
-Creative Forecasting  
-Brand Governance  
-Cross-Functional Collaboration  
-Team Development  
-Campaign Reporting  
-UX/CX Collaboration  
+Creative Production\
+Campaign Delivery\
+Global Ecommerce Campaigns\
+Multi-Market Campaign Execution\
+Localization & QA\
+Stakeholder Management\
+Creative Operations\
+Workflow Improvement\
+Resource Management\
+Creative Forecasting\
+Brand Governance\
+Cross-Functional Collaboration\
+Team Development\
+Campaign Reporting\
+UX/CX Collaboration\
 Agency & Freelancer Management
