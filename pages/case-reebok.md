@@ -1,4 +1,7 @@
 GLOBAL ECOMMERCE CAMPAIGN DELIVERY
+
+<a id="index"></a>
+
 Index
 
 <a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">The Role</a> ● <a href="javascript:void(0)" onclick="document.getElementById('the-campaign').scrollIntoView({behavior:'smooth'})">The Campaign</a> ● <a href="javascript:void(0)" onclick="document.getElementById('global-campaign-scope').scrollIntoView({behavior:'smooth'})">Global Campaign Scope</a> ● <a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth'})">Campaign Delivery</a> ● <a href="javascript:void(0)" onclick="document.getElementById('my-contribution').scrollIntoView({behavior:'smooth'})">My Contribution</a> ● <a href="javascript:void(0)" onclick="document.getElementById('localization-qa').scrollIntoView({behavior:'smooth'})">Localization & QA</a> ● <a href="javascript:void(0)" onclick="document.getElementById('stakeholder-collaboration').scrollIntoView({behavior:'smooth'})">Stakeholder Collaboration</a> ● <a href="javascript:void(0)" onclick="document.getElementById('extended-campaign-delivery').scrollIntoView({behavior:'smooth'})">Extended Campaign Delivery</a> ● <a href="javascript:void(0)" onclick="document.getElementById('live-campaign-governance').scrollIntoView({behavior:'smooth'})">Live Campaign Governance</a> ● <a href="javascript:void(0)" onclick="document.getElementById('continuous-improvement').scrollIntoView({behavior:'smooth'})">Continuous Improvement</a> ● <a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth'})">Workflow Improvement</a> ● <a href="javascript:void(0)" onclick="document.getElementById('repeatable-campaign-delivery').scrollIntoView({behavior:'smooth'})">Repeatable Campaign Delivery</a> ● <a href="javascript:void(0)" onclick="document.getElementById('creative-as-a-strategic-partner').scrollIntoView({behavior:'smooth'})">Creative as a Strategic Partner</a> ● <a href="javascript:void(0)" onclick="document.getElementById('additional-scope').scrollIntoView({behavior:'smooth'})">Additional Scope</a> ● <a href="javascript:void(0)" onclick="document.getElementById('capabilities-demonstrated').scrollIntoView({behavior:'smooth'})">Capabilities Demonstrated</a>
@@ -38,6 +41,8 @@ My responsibilities included Creative Production & Delivery, Brand Governance, b
 
 [SLIDE 3 — Projects Handled]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="the-campaign"></a>
 
 THE CAMPAIGN
@@ -53,6 +58,8 @@ The campaign covered multiple customer touchpoints, including homepage, landing 
 
 [SLIDE 16 OR 17 — Campaign Outputs]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="global-campaign-scope"></a>
 
 GLOBAL CAMPAIGN SCOPE
@@ -62,6 +69,8 @@ The campaign operated across global markets including EMEA, North America, LATAM
 The delivery environment included up to 11 languages, multiple campaign phases, hundreds of localized assets, ecommerce, email, paid and social channels, and a core Creative team working with external studio production, freelance designers and a localization agency.
 
 [SLIDE 6 — Global Scope]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="campaign-delivery"></a>
 
@@ -74,6 +83,8 @@ Brief → Brief Refinement → Concept Development → Pitch Presentation → Fe
 The campaign blueprint connected the approved creative concept with the production, localization and delivery stages.
 
 [SLIDE 10 — Campaign Lifecycle]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="my-contribution"></a>
 
@@ -90,6 +101,8 @@ I also aligned the Creative team to operate as one creative engine across differ
 Campaign learnings were documented and shared with UX and CX teams and included in Global Campaign Toolkit reports alongside KPI and other measurements from the Analytics team.
 
 [SLIDE 9 — My Contribution]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="localization-qa"></a>
 
@@ -110,6 +123,8 @@ Approved Campaign Blueprint + Copy Sheet + Localization Brief
 The process addressed copy sign-off, brand consistency, brand roadmap accuracy and image quality.
 
 [SLIDE 15 — Localization Process]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="stakeholder-collaboration"></a>
 
@@ -132,6 +147,8 @@ I supported communication and alignment between these teams throughout the campa
 
 [SLIDE 13 — Stakeholder Collaboration]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="extended-campaign-delivery"></a>
 
 EXTENDED CAMPAIGN DELIVERY
@@ -143,6 +160,8 @@ The Creative team worked with external agencies and studios to adapt the approve
 The process involved briefing external partners, ensuring the signed-off concept was applied according to brand and ecommerce guidelines, and coordinating approvals within the production cycle.
 
 [SLIDE 14 — Digital-to-Retail Production]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="live-campaign-governance"></a>
 
@@ -159,6 +178,8 @@ Two meetings per month were set up across different local-market time zones to r
 The outcomes were summarized and translated into points for the UX and CX teams, supporting future marketing-stack updates and campaign improvements.
 
 [SLIDE 11 — Live Campaign Governance]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="continuous-improvement"></a>
 
@@ -177,6 +198,8 @@ Campaign learnings were gathered from Analytics and regional markets, documented
 
 [SLIDE 12 — Continuous Work / Campaign Learning]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="workflow-improvement"></a>
 
 WORKFLOW IMPROVEMENT
@@ -193,6 +216,8 @@ Alignment between Marketing, Creative and UX/CX
 I introduced and developed structures including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation and resource planning.
 
 [SLIDE 18 — Workflow Improvements]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="repeatable-campaign-delivery"></a>
 
@@ -216,6 +241,8 @@ Reduced onboarding effort
 
 [SLIDE 19 — Operational Results]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="creative-as-a-strategic-partner"></a>
 
 CREATIVE AS A STRATEGIC PARTNER
@@ -227,6 +254,8 @@ The Creative team became more visible within the wider organization, with cleare
 The work supported stronger relationships between Creative, Marketing, Production, Localization, UX/CX and regional teams.
 
 [SLIDE 21 — Capabilities / Creative as Strategic Partner]
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 <a id="additional-scope"></a>
 
@@ -255,6 +284,8 @@ Development of automation methods and resource-tracking sheets to support planni
 
 [SLIDE 22 — Additional Scope]
 
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
+
 <a id="capabilities-demonstrated"></a>
 
 CAPABILITIES DEMONSTRATED
@@ -275,3 +306,5 @@ Team Development
 Campaign Reporting
 UX/CX Collaboration
 Agency & Freelancer Management
+
+<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
