@@ -1,9 +1,9 @@
 # GLOBAL ECOMMERCE CAMPAIGN DELIVERY
 
 <a id="index"></a>
-### Index
-
-**<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">The Role</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-campaign').scrollIntoView({behavior:'smooth'})">The Campaign</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('global-campaign-scope').scrollIntoView({behavior:'smooth'})">Global Campaign Scope</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth'})">Campaign Delivery</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('my-contribution').scrollIntoView({behavior:'smooth'})">My Contribution</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('localization-qa').scrollIntoView({behavior:'smooth'})">Localization & QA</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('stakeholder-collaboration').scrollIntoView({behavior:'smooth'})">Stakeholder Collaboration</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('extended-campaign-delivery').scrollIntoView({behavior:'smooth'})">Extended Campaign Delivery</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('live-campaign-governance').scrollIntoView({behavior:'smooth'})">Live Campaign Governance</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('continuous-improvement').scrollIntoView({behavior:'smooth'})">Continuous Improvement</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth'})">Workflow Improvement</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('repeatable-campaign-delivery').scrollIntoView({behavior:'smooth'})">Repeatable Campaign Delivery</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('creative-as-a-strategic-partner').scrollIntoView({behavior:'smooth'})">Creative as a Strategic Partner</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('additional-scope').scrollIntoView({behavior:'smooth'})">Additional Scope</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('capabilities-demonstrated').scrollIntoView({behavior:'smooth'})">Capabilities Demonstrated</a>**
+<div style="position: sticky; top: 0; z-index: 100; background-color: #ffffff; padding: 14px 0; border-bottom: 1px solid #e5e5e5; font-size: 0.9em;">
+<strong>INDEX</strong> &nbsp;&nbsp; <strong><a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">The Role</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('the-campaign').scrollIntoView({behavior:'smooth'})">The Campaign</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('global-campaign-scope').scrollIntoView({behavior:'smooth'})">Global Campaign Scope</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth'})">Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('my-contribution').scrollIntoView({behavior:'smooth'})">My Contribution</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('localization-qa').scrollIntoView({behavior:'smooth'})">Localization & QA</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('stakeholder-collaboration').scrollIntoView({behavior:'smooth'})">Stakeholder Collaboration</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('extended-campaign-delivery').scrollIntoView({behavior:'smooth'})">Extended Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('live-campaign-governance').scrollIntoView({behavior:'smooth'})">Live Campaign Governance</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('continuous-improvement').scrollIntoView({behavior:'smooth'})">Continuous Improvement</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth'})">Workflow Improvement</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('repeatable-campaign-delivery').scrollIntoView({behavior:'smooth'})">Repeatable Campaign Delivery</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('creative-as-a-strategic-partner').scrollIntoView({behavior:'smooth'})">Creative as a Strategic Partner</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('additional-scope').scrollIntoView({behavior:'smooth'})">Additional Scope</a></strong> ● <strong><a href="javascript:void(0)" onclick="document.getElementById('capabilities-demonstrated').scrollIntoView({behavior:'smooth'})">Capabilities Demonstrated</a></strong>
+</div>
 
 ## Reebok Holiday Campaign
 
@@ -41,7 +41,6 @@ My responsibilities included Creative Production & Delivery, Brand Governance, b
 
 **[SLIDE 3 — Projects Handled]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -60,7 +59,6 @@ The campaign covered multiple customer touchpoints, including homepage, landing 
 
 **[SLIDE 16 OR 17 — Campaign Outputs]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -73,7 +71,6 @@ The delivery environment included up to 11 languages, multiple campaign phases, 
 
 **[SLIDE 6 — Global Scope]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -88,7 +85,6 @@ The campaign blueprint connected the approved creative concept with the producti
 
 **[SLIDE 10 — Campaign Lifecycle]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -107,7 +103,6 @@ Campaign learnings were documented and shared with UX and CX teams and included 
 
 **[SLIDE 9 — My Contribution]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -130,7 +125,6 @@ The process addressed copy sign-off, brand consistency, brand roadmap accuracy a
 
 **[SLIDE 15 — Localization Process]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -154,7 +148,6 @@ I supported communication and alignment between these teams throughout the campa
 
 **[SLIDE 13 — Stakeholder Collaboration]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -169,7 +162,6 @@ The process involved briefing external partners, ensuring the signed-off concept
 
 **[SLIDE 14 — Digital-to-Retail Production]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -188,7 +180,6 @@ The outcomes were summarized and translated into points for the UX and CX teams,
 
 **[SLIDE 11 — Live Campaign Governance]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -208,7 +199,6 @@ Campaign learnings were gathered from Analytics and regional markets, documented
 
 **[SLIDE 12 — Continuous Work / Campaign Learning]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -228,7 +218,6 @@ I introduced and developed structures including campaign blueprints, structured 
 
 **[SLIDE 18 — Workflow Improvements]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -253,7 +242,6 @@ Reduced onboarding effort
 
 **[SLIDE 19 — Operational Results]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -268,7 +256,6 @@ The work supported stronger relationships between Creative, Marketing, Productio
 
 **[SLIDE 21 — Capabilities / Creative as Strategic Partner]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -299,7 +286,6 @@ Development of automation methods and resource-tracking sheets to support planni
 
 **[SLIDE 22 — Additional Scope]**
 
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
 
 ---
 
@@ -322,5 +308,3 @@ Team Development\
 Campaign Reporting\
 UX/CX Collaboration\
 Agency & Freelancer Management
-
-<a href="javascript:void(0)" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'})">↑ Back to index</a>
