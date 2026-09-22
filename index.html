@@ -152,10 +152,17 @@
   var navLinks = document.getElementById('navLinks');
   var manifest = [];
 
+  // Sticky "↑ Index" button visibility is driven by a per-page frontmatter flag
+  // (indexButton: true) rather than any page-specific element ID, so any case
+  // study page — Calvin Klein, Reebok, or future ones — can opt in the same way.
   function alignIndexButton(){
     var btn = document.getElementById('case-index-back-btn');
+    if(content.dataset.hasIndex !== '1'){
+      btn.style.display = 'none';
+      return;
+    }
     var paragraphs = content.querySelectorAll('.prose p');
-    if(!paragraphs.length || !document.getElementById('page-index')){
+    if(!paragraphs.length){
       btn.style.display = 'none';
       return;
     }
@@ -199,9 +206,13 @@
     var entry = manifest.find(function(p){ return p.slug === slug; });
     if(!entry){
       content.innerHTML = '<div class="prose"><h1>Page not found</h1><p>That page doesn\'t exist yet.</p></div>';
+      content.dataset.hasIndex = '0';
+      alignIndexButton();
       return;
     }
     content.innerHTML = '<div id="loading">Loading…</div>';
+    content.dataset.hasIndex = '0';
+    alignIndexButton();
     fetch('pages/' + entry.file, {cache:'no-store'})
       .then(function(r){
         if(!r.ok) throw new Error('Could not load ' + entry.file);
@@ -214,6 +225,7 @@
         var wrapClass = isHero ? 'page-hero' : 'prose';
         var kickerHtml = (isHero && parsed.meta.kicker) ? '<div class="kicker">' + parsed.meta.kicker + '</div>' : '';
         content.innerHTML = '<div class="' + wrapClass + '">' + kickerHtml + html + '</div>';
+        content.dataset.hasIndex = (parsed.meta.indexButton === 'true') ? '1' : '0';
         document.title = (parsed.meta.title || entry.label) + ' — Inci Arici';
         setActiveNav(slug);
         window.scrollTo(0, 0);
@@ -221,6 +233,8 @@
       })
       .catch(function(err){
         content.innerHTML = '<div class="prose"><h1>Something went wrong</h1><p>' + err.message + '</p></div>';
+        content.dataset.hasIndex = '0';
+        alignIndexButton();
       });
   }
 
