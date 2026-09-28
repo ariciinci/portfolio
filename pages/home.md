@@ -19,8 +19,7 @@ Ten-plus years building and running creative delivery systems for global e-comme
 ## Selected case studies:
 
 ### [Building a Global Creative Production System →](#/case-reebok)
-
-I worked within the Reebok digital ecommerce team at adidas HQ, supporting the delivery of global campaigns across multiple markets, channels and languages. 
+Delivery of global campaigns across multiple markets, channels and languages for the Reebok digital ecommerce team at adidas HQ. 
 
 ### [Digital Campaign Production →](#/case-calvin-klein)
 
