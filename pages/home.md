@@ -19,12 +19,10 @@ Ten-plus years building and running creative delivery systems for global e-comme
 ## Selected case studies:
 
 ### [Building a Global Creative Production System →](#/case-reebok)
-**Reebok · adidas Group · Amsterdam · 2015–2019**
 
 I worked within the Reebok digital ecommerce team at adidas HQ, supporting the delivery of global campaigns across multiple markets, channels and languages. 
 
 ### [Digital Campaign Production →](#/case-calvin-klein)
-**Calvin Klein · Freelance · Amsterdam · June 2022**
 
 A short-term freelance assignment stepping into Calvin Klein's already-running creative and production system.
 
