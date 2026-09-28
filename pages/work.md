@@ -16,8 +16,3 @@ I worked within the Reebok digital ecommerce team at adidas HQ, supporting the d
 **Calvin Klein · Freelance · Amsterdam · June 2022**
 
 A short-term freelance assignment stepping into Calvin Klein's already-running creative and production system — 300+ EOSS digital assets personally produced and exported in roughly two weeks.
-
-## [AI Creative Ops OS →](#/case-ai-ops)
-**Independent concept · In progress**
-
-An independent, prototype concept exploring how AI tooling could compress creative production cycles without losing quality control.
