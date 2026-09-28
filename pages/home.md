@@ -11,9 +11,6 @@ Ten-plus years building and running creative delivery systems for global e-comme
 [incinema@gmail.com](mailto:incinema@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/)
 
 ---
-title: Selected Work
-layout: page
----
 
 # Selected Work
 
