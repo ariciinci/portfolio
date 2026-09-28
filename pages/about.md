@@ -36,9 +36,6 @@ Exploring how AI tooling can compress production cycles, support QA, and free cr
 
 
 ---
-title: Experience
-layout: page
----
 
 # Experience
 
