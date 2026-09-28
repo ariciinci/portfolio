@@ -12,7 +12,7 @@ Ten-plus years building and running creative delivery systems for global e-comme
 
 ---
 
-# Selected Work
+### Selected Work
 
 Case studies from in-house and freelance production roles, covering global campaign delivery, high-volume digital production and operational transformation.
 
