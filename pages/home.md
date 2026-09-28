@@ -12,7 +12,7 @@ Ten-plus years building and running creative delivery systems for global e-comme
 
 ---
 
-## Selected case studies from in-house and freelance production roles, covering global campaign delivery, high-volume digital production and operational transformation.
+## Selected case studies:
 
 ### [Building a Global Creative Production System →](#/case-reebok)
 **Reebok · adidas Group · Amsterdam · 2015–2019**
