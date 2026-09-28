@@ -8,7 +8,6 @@ layout: page
 Case studies from in-house and freelance production roles, covering global campaign delivery, high-volume digital production and operational transformation.
 
 ## [Building a Global Creative Production System →](#/case-reebok)
-**Reebok · adidas Group · Amsterdam · 2015–2019**
 
 I worked within the Reebok digital ecommerce team at adidas HQ, supporting the delivery of global campaigns across multiple markets, channels and languages. My role evolved beyond creative execution into creative production, campaign operations and cross-functional coordination.
 
