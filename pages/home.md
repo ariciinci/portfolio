@@ -1,14 +1,12 @@
 ---
 title: Inci Arici
 layout: hero
-kicker: [incinema@gmail.com](mailto:incinema@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/)
+kicker: [[incinema@gmail.com](mailto:incinema@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/) ]
 ---
 
 # Creative operations, built to run at scale.
 
 Ten-plus years building and running creative delivery systems for global e-commerce campaigns — from adidas and Reebok's multi-market activations to independent consulting for Calvin Klein, Amazon, Diageo and Virgin Media. Now focused on where creative operations meets automation and AI: designing the workflows, governance and tooling that let creative teams scale without losing quality.
-
-
 
 
 ---
