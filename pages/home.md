@@ -1,7 +1,6 @@
 ---
 title: Inci Arici
 layout: hero
-kicker: [[incinema@gmail.com](mailto:incinema@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/) ]
 ---
 
 # Creative operations, built to run at scale.
