@@ -110,6 +110,23 @@
   .prose td:first-child{color:var(--accent); font-weight:500;}
   .prose a{text-decoration:none; border-bottom:1px solid var(--accent); padding-bottom:1px;}
 
+  /* "Label and text" layout: used by pages with "layout: sections" in their frontmatter.
+     Each ## heading becomes a small label in the left column, its content sits beside it. */
+  .prose .sec-row{
+    display:grid; grid-template-columns:150px minmax(0,1fr); gap:6px 32px;
+    padding:22px 0; border-top:1px solid var(--line-soft);
+  }
+  .prose .sec-row h2{
+    font-family:'IBM Plex Sans', sans-serif; font-size:14px; font-weight:400;
+    color:var(--ink-faint); margin:0; padding:2px 0 0; border:none;
+  }
+  .prose .sec-body > :first-child{margin-top:0;}
+  .prose .sec-body > :last-child{margin-bottom:0;}
+  .prose .sec-body p{max-width:62ch;}
+  @media (max-width:640px){
+    .prose .sec-row{grid-template-columns:1fr; gap:8px;}
+  }
+
   /* Images: sensible default, plus size/alignment utility classes for use in <img class="..."> */
   .prose img{
     max-width:100%; height:auto; display:block;
@@ -208,6 +225,32 @@
     return { meta: meta, body: body };
   }
 
+  // "Label and text" layout: wraps each <h2> and the content that follows it
+  // into a two-column row. Anything before the first <h2> (like the <h1>) is left alone.
+  function buildSections(prose){
+    if(!prose) return;
+    var kids = Array.prototype.slice.call(prose.children);
+    var frag = document.createDocumentFragment();
+    var body = null;
+    kids.forEach(function(el){
+      if(el.tagName === 'H2'){
+        var row = document.createElement('div');
+        row.className = 'sec-row';
+        body = document.createElement('div');
+        body.className = 'sec-body';
+        row.appendChild(el);
+        row.appendChild(body);
+        frag.appendChild(row);
+      } else if(body){
+        body.appendChild(el);
+      } else {
+        frag.appendChild(el);
+      }
+    });
+    prose.innerHTML = '';
+    prose.appendChild(frag);
+  }
+
   function setActiveNav(slug){
     navLinks.querySelectorAll('a').forEach(function(a){
       a.classList.toggle('active', a.getAttribute('data-link') === slug);
@@ -237,6 +280,9 @@
         var wrapClass = isHero ? 'page-hero' : 'prose';
         var kickerHtml = (isHero && parsed.meta.kicker) ? '<div class="kicker">' + parsed.meta.kicker + '</div>' : '';
         content.innerHTML = '<div class="' + wrapClass + '">' + kickerHtml + html + '</div>';
+        if(parsed.meta.layout === 'sections'){
+          buildSections(content.querySelector('.prose'));
+        }
         content.dataset.hasIndex = (parsed.meta.indexButton === 'true') ? '1' : '0';
         document.title = (parsed.meta.title || entry.label) + ' — Inci Arici';
         setActiveNav(slug);
