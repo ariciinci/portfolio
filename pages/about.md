@@ -28,18 +28,16 @@ Exploring how AI tooling can compress production cycles, support QA, and free cr
 # How I Work
 
 1. **Blueprint before build** — a clear process map prevents more problems than any amount of firefighting fixes.
-2. **Structure protects creativity** — good operations create the space for good creative work, not the opposite.
+2. **Structure protects creativity** — good operations create the space for good creative work.
 3. **Stakeholders need translation, not just updates** — briefs, feedback and approvals move faster when everyone's speaking the same language.
 4. **Quality is a gate, not an afterthought** — QA belongs earlier in the process than most teams put it.
 5. **Document the handover** — a process only scales if the next person can run it without you.
-
-
 
 ---
 
 # Experience
 
-**2020 – 2023 · Creative Manager / Production / Consultant — Freelance & Contract, Amsterdam / EU**
+**Creative Manager / Production / Consultant — Freelance & Contract, Amsterdam / EU**
 Supported in-house teams and agencies on ecommerce, campaign delivery, creative production and localization for ***Calvin Klein, adidas, Reebok, Amazon, Diageo, Virgin Media, Liberty Global and Philips.*** Led creative production and campaign delivery across digital, ecommerce, social, video and integrated marketing; coordinated designers, producers, marketers, developers and external stakeholders from brief through delivery; improved workflows and documentation to increase delivery efficiency.
 
 **2015 – 2019 · Senior Designer (Creative Production & Campaign Delivery) — adidas Group, Amsterdam**
@@ -55,10 +53,8 @@ Clients:**Samsung,LG** Lead digital product designer for interactive TV widget a
 External clients: ***Disney, Discovery Channel, National Geographic, AMC, Film1, Ajax*** Digital product design for cross-platform TV and web applications; extended brand guidelines and design specifications for internal/external stakeholders and developers; graphic design and video production for in-house branded material.
 
 
-# Capabilities
+# Skills
 
-| Area | Capability |
-|---|---|
 | Production | Creative Production, Ecommerce Campaigns, Multi-market Campaign Execution |
 | Operations | Creative Operations, Creative Workflow Improvement, Creative Briefing & Review Processes |
 | Quality | Localization & QA, Creative Quality Assurance |
@@ -85,4 +81,4 @@ External clients: ***Disney, Discovery Channel, National Geographic, AMC, Film1,
 - Afdesi Awards Winner (2010) — UI Designer, Haiti Domain TV App
 
 **Selected Film Festival Recognition**
-Cannes Short Film Festival, Venice Film Festival, Sheffield Adventure Film Festival, All Sports Los Angeles Film Festival
+- Cannes Short Film Festival, Venice Film Festival, Sheffield Adventure Film Festival, All Sports Los Angeles Film Festival
