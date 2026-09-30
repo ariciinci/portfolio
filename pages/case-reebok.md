@@ -129,7 +129,7 @@ The localization workflow included the approved campaign blueprint, copy sheet a
 
 I supported localization and creative QA across markets while maintaining brand consistency and alignment with the approved campaign direction.
 
-**[SLIDE — Localization Process]**
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_localisation.jpg?raw=true)
 
 ## Digital-to-Retail Production
 
