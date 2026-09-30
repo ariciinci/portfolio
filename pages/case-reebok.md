@@ -147,7 +147,10 @@ Campaign results were gathered from the Analytics team together with feedback fr
 
 These learnings were documented in monthly campaign reports and discussed with regional teams. Relevant observations were then shared with UX and CX teams to inform future marketing-stack updates and subsequent campaign activity.
 
-**[SLIDE — Live Campaign Governance]**
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_campaigngovernance01.jpg?raw=true)
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_campaigngovernance02.jpg?raw=true)
 
 **[SLIDE — Continuous Campaign Learning]**
 
