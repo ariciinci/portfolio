@@ -33,8 +33,7 @@ My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns
 **![Reebok Campaign](https://github.com/ariciinci/portfolio/blob/main/images/role_strategicpartner.jpg)**
 
 
-**[SLIDE — Projects Handled]**
-
+**![Reebok Campaign](https://github.com/ariciinci/portfolio/blob/main/images/projects_handled.jpg)**
 ---
 
 <a id="section-2"></a>
