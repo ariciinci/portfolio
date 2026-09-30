@@ -36,7 +36,6 @@ My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns
 
 ---
 
-
 <a id="section-2"></a>
 # 2. GLOBAL CAMPAIGN DELIVERY
 
@@ -99,9 +98,15 @@ I also supported team onboarding, handovers and junior development, helping redu
 
 Creative resource management and forecasting provided greater visibility of upcoming work and capacity requirements.
 
-**[SLIDE — Workflow Improvements]**
 
-**[SLIDE — Operational Results]**
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_workflowimprovements.jpg?raw=true)
+
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_operationalresults01.jpg?raw=true)
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_operationalresults02.jpg?raw=true)
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_operationalresults03.jpg?raw=true)
 
 ---
 
