@@ -30,7 +30,7 @@ Connecting creative output with business goals and the production requirements o
 
 My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns; product launches; commercial campaigns such as EOSS and Back to School; collaborations; tactical launches; and sponsored events. It also extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
 
-![My role as a strategic partner](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/role_strategicpartner.jpg)
+![My role as a strategic partner](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/reebok_role.jpg)
 
 ![Projects handled](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/projects_handled.jpg)
 
