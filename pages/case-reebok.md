@@ -20,23 +20,15 @@ indexButton: true
 
 ## Role Evolution
 
-I joined the Reebok ecommerce team at adidas HQ Amsterdam as a Senior Interactive Designer. While my official background was in digital design, my role expanded into a broader Creative Production and Campaign Delivery function.
+I joined the Reebok ecommerce team at adidas HQ Amsterdam as a replacement of Creative Manerger's maternity leave. While my official title was Senior Interactive Designer, my role expanded into a broader Creative Production and Campaign Delivery function.
 
-I became involved not only in developing creative work, but also in planning campaigns, coordinating production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
+I became involved with developing creative work, planning campaigns, coordinating asset production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
 
-## Establishing Creative as a Strategic Partner
+A key part of my role was helping **establishing the Reebok Creative team as a strategic and reliable partner** within the wider adidas organisation.
 
-A key part of my role was helping establish the Reebok Creative team as a reliable partner within the wider adidas organisation.
+While connecting creative output with business goals, production requirements of Marketing, UX/CX teams, Localization and regional markets; my responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment and Campaign Reporting.
 
-This meant connecting creative output with business goals, campaign planning, production requirements and the needs of Marketing, UX/CX, Production, Localization and regional markets.
-
-My responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment and Campaign Reporting.
-
-## Scope of the Role
-
-The work covered Holiday, Seasonal, New Arrivals, Category and Gifting campaigns, product launches, commercial campaigns such as EOSS and Back to School, collaborations, tactical launches and sponsored events.
-
-The role also extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
+My work covered Holiday, Seasonal, New Arrivals, Category and Gifting campaigns, product launches, commercial campaigns such as EOSS and Back to School, collaborations, tactical launches and sponsored events and extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
 
 **[SLIDE — My Role / Strategic Partner]**
 
