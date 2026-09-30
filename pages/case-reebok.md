@@ -57,7 +57,7 @@ I presented creative concepts to EU Marketing leadership together with my intern
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-**[SLIDE — Campaign Scope](https://github.com/ariciinci/portfolio/blob/main/images/reebokteam_strategicpartner.jpg_)**
+**![SLIDE — Campaign Scope](https://github.com/ariciinci/portfolio/blob/main/images/reebokteam_strategicpartner.jpg_)**
 
 **[SLIDE — Campaign Strategy]**
 
