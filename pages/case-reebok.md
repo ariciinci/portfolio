@@ -20,7 +20,7 @@ indexButton: true
 
 ## Role Evolution
 
-I joined the Reebok ecommerce team at adidas HQ in Amsterdam to cover the Creative Manager’s maternity leave. While my official title was Senior Interactive Designer, my role expanded into a broader Creative Production and Campaign Delivery function.
+I joined the Reebok ecommerce team at adidas HQ in Amsterdam to cover the Creative Manager’s maternity leave. While my official title was Senior Interactive Designer, my role expanded into a broader Creative Production and Campaign Delivery function, working very close with the Production Manager and the marketing team.
 
 I became involved in developing creative work, planning campaigns, coordinating asset production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
 
@@ -43,7 +43,7 @@ My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns
 
 The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC.
 
-The campaign covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
+It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
 Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
@@ -53,11 +53,11 @@ I supported the campaign throughout the production lifecycle:
 
 **Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live**
 
-I presented creative concepts to EU Marketing leadership, supported the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
+I presented creative concepts to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer. I also created the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-**[SLIDE — Campaign Scope]**
+**[SLIDE — Campaign Scope](https://github.com/ariciinci/portfolio/blob/main/images/reebokteam_strategicpartner.jpg_)**
 
 **[SLIDE — Campaign Strategy]**
 
