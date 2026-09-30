@@ -137,8 +137,8 @@ From 2016, the digital-first approach also informed retail guidelines.
 
 I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
-**[SLIDE — Digital-to-Retail Production]**
 
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_retailtodigital.jpg?raw=true)
 ## Campaign Learning & UX/CX
 
 My involvement continued after campaigns went live.
