@@ -60,9 +60,9 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 
 **![Campaign scope](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/reebokteam_strategicpartner.jpg)**
 
-**[SLIDE — Campaign Strategy]**
+**![SLIDE — Campaign Strategy](https://github.com/ariciinci/portfolio/blob/main/images/reebok_strategy.jpg)**
 
-**[SLIDE — Campaign Lifecycle]**
+**![SLIDE — Campaign Lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_campaignlifecycle.jpg)**
 
 ## Multi-Channel Campaign Outputs
 
