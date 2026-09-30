@@ -119,7 +119,7 @@ Global campaign delivery required coordination between EU Marketing, Creative, P
 
 I acted as a connecting point between these teams throughout the campaign lifecycle, supporting communication, creative reviews, approvals, production and delivery.
 
-**[SLIDE — Stakeholder Collaboration]**
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_stakeholder.jpg?raw=true)
 
 ## Localization & Quality Assurance
 
