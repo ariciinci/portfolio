@@ -69,7 +69,10 @@ The campaign translated the central creative direction across multiple digital t
 
 Localized versions were then produced for the different markets.
 
-**[SLIDE — Campaign Outputs]**
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_outputs01.jpg?raw=true)
+
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_outputs02.jpg?raw=true)
 
 ---
 
