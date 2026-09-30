@@ -57,12 +57,11 @@ I supported the campaign throughout the production lifecycle:
 I presented creative concepts to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer. I also created the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
+![Campaign scope](https://github.com/ariciinci/portfolio/blob/main/images/reebokteam_strategicpartner.jpg?raw=true)
 
-**![Campaign scope](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/reebokteam_strategicpartner.jpg)**
+![Campaign strategy](https://github.com/ariciinci/portfolio/blob/main/images/reebok_strategy.jpg?raw=true)
 
-**![SLIDE — Campaign Strategy](https://github.com/ariciinci/portfolio/blob/main/images/reebok_strategy.jpg)**
-
-**![SLIDE — Campaign Lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_campaignlifecycle.jpg)**
+![Campaign lifecycle](https://github.com/ariciinci/portfolio/blob/main/images/reebok_campaignlifecycle.jpg?raw=true)
 
 ## Multi-Channel Campaign Outputs
 
