@@ -111,6 +111,11 @@ The aim was to make campaign information easier to understand, responsibilities 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
 
+![Page 10 — Before → After](images/Reebok_page-010.jpg)
+*Concept to live*
+
+
+
 ### Team Enablement
 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
@@ -156,7 +161,8 @@ These learnings were documented in monthly campaign reports and discussed with r
 ---
 
 ## 5. From Campaign Delivery to a Reliable Creative Function
-
+![Page 12 — Live Campaign Governance](images/Reebok_page-012.jpg)
+*Learnings registered*
 
 ### Operational Results
 
