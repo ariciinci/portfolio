@@ -32,7 +32,6 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ---
 
-
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
 
@@ -42,6 +41,7 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC. 
 It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
+
 ![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
 *Digital Concept / Phases*
 
@@ -63,6 +63,16 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
+
+### Digital-to-Retail Production
+
+From 2016, the digital-first approach also informed retail guidelines.
+
+I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
+
+![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
+*Retail Workflow*
+
 
 ### Multi-Channel Campaign Outputs
 
@@ -89,14 +99,6 @@ Reebok's marketing operations were used as pilot operations to establish digtial
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
 
-### Digital-to-Retail Production
-
-From 2016, the digital-first approach also informed retail guidelines.
-
-I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
-
-![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
-*Retail Workflow*
 
 
 ### Creating Repeatable Workflows
