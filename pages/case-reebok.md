@@ -11,6 +11,19 @@
 ---
 
 ## 1. From Digital Design to Creative Production
+# Reebok Case Study
+
+## Index
+
+1. [From Digital Design to Creative Production](#1-from-digital-design-to-creative-production)
+2. [Global Campaign Delivery](#2-global-campaign-delivery)
+3. [Building a More Structured Creative Operation](#3-building-a-more-structured-creative-operation)
+4. [Connecting Creative with Global Teams](#4-connecting-creative-with-global-teams)
+5. [From Campaign Delivery to a Reliable Creative Function](#5-from-campaign-delivery-to-a-reliable-creative-function)
+
+---
+
+## 1. From Digital Design to Creative Production
 
 ### Role Evolution
 
@@ -25,10 +38,10 @@ Connecting creative output with business goals and the production requirements o
 My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns; product launches; commercial campaigns such as EOSS and Back to School; collaborations; tactical launches; and sponsored events. It also extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
 
 ![Page 1 — My Role](images/Reebok_page-001.jpg)
-*Page 1 — My Role*
+*My Role*
 
 ![Page 3 — Projects Handled](images/Reebok_page-003.jpg)
-*Page 3 — Projects Handled*
+*Projects Handled*
 
 ---
 
@@ -53,16 +66,16 @@ We presented creative concepts to EU Marketing leadership together with my inter
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
-*Page 9 — My Contribution*
+*My Contribution*
 
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
-*Page 6 — Global Scope*
+*Global Scope*
 
 ![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
-*Page 7 — Digital Concept / Phases*
+*Digital Concept / Phases*
 
 ![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
-*Page 10 — Concept to Live*
+*Concept to Live*
 
 ### Multi-Channel Campaign Outputs
 
@@ -71,10 +84,10 @@ The campaign translated the central creative direction across multiple digital t
 Localized versions were then produced for the different markets.
 
 ![Page 16 — Ecommerce / CRM](images/Reebok_page-016.jpg)
-*Page 16 — Ecommerce / CRM*
+*Ecommerce / CRM*
 
 ![Page 17 — Paid / Social](images/Reebok_page-017.jpg)
-*Page 17 — Paid / Social*
+*Paid / Social*
 
 ---
 
@@ -95,7 +108,7 @@ These systems developed over time and supported repeated campaign delivery rathe
 The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
-*Page 18 — Before → After*
+*Before → After*
 
 ### Team Enablement
 
@@ -114,7 +127,7 @@ Global campaign delivery required coordination between EU Marketing, Creative, P
 I acted as a connecting point between these teams throughout the campaign lifecycle, supporting communication, creative reviews, approvals, production and delivery.
 
 ![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
-*Page 13 — Collaboration Map*
+*Collaboration Map*
 
 ### Localization & Quality Assurance
 
@@ -125,7 +138,7 @@ The localization workflow included the approved campaign blueprint, copy sheet a
 I supported localization and creative QA across markets while maintaining brand consistency and alignment with the approved campaign direction.
 
 ![Page 15 — Localization Workflow](images/Reebok_page-015.jpg)
-*Page 15 — Localization Workflow*
+*Localization Workflow*
 
 ### Digital-to-Retail Production
 
@@ -134,7 +147,7 @@ From 2016, the digital-first approach also informed retail guidelines.
 I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
 ![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
-*Page 14 — Retail Workflow*
+*Retail Workflow*
 
 ### Campaign Learning & UX/CX
 
@@ -145,7 +158,7 @@ Campaign results were gathered from the Analytics team together with feedback fr
 These learnings were documented in monthly campaign reports and discussed with regional teams. Relevant observations were then shared with UX and CX teams to inform future marketing-stack updates and subsequent campaign activity.
 
 ![Page 11 — Live Campaign Governance](images/Reebok_page-011.jpg)
-*Page 11 — Live Campaign Governance*
+*Live Campaign Governance*
 
 ---
 
@@ -167,7 +180,7 @@ Key improvements included:
 - Greater visibility of creative capacity and upcoming work
 
 ![Page 19 — Operational Results](images/Reebok_page-019.jpg)
-*Page 19 — Operational Results*
+*Operational Results*
 
 ### Building Trust in Creative
 
@@ -178,10 +191,10 @@ The work supported stronger relationships between Creative, Marketing, Productio
 Creative could contribute not only to the development of campaign assets, but also to the planning, coordination and continuous improvement of the campaign operation.
 
 ![Page 2 — Strategic Partner](images/Reebok_page-002.jpg)
-*Page 2 — Strategic Partner*
+*Strategic Partner*
 
 ### Broader Capability
 
 This role brought together the areas that became central to my professional development:
 
-Creative Production · Campaign Delivery · Global Ecommerce · Creative Operations · Workflow Development · Resource Planning · Localization & QA · Stakeholder Management · Brand Governance · Cross-Functional Collaboration · Team Development · Campaign Reporting
+**Creative Production · Campaign Delivery · Global Ecommerce · Creative Operations · Workflow Development · Resource Planning · Localization & QA · Stakeholder Management · Brand Governance · Cross-Functional Collaboration · Team Development · Campaign Reporting**
