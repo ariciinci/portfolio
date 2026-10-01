@@ -20,12 +20,12 @@ I became involved in developing creative work, planning campaigns, coordinating 
 
 A key part of my role was helping establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.
 
-Connecting creative output with business goals and the production requirements of Marketing, UX/CX teams, Localisation, and regional markets, my responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment, and Campaign Reporting.
-
-My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns; product launches; commercial campaigns such as EOSS and Back to School; collaborations; tactical launches; and sponsored events. It also extended into UX/CX brand alignment for new marketing stacks, external agency and studio assignments, and internal branding and documentation projects.
-
 ![Page 1 — My Role](images/Reebok_page-001.jpg)
 *My Role*
+
+Connecting creative output with business goals and the production requirements of Marketing, UX/CX teams, Localisation, and regional markets, my responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment, and Campaign Reporting.
+
+My work spanned seasonal, category, gifting and commercial campaigns, product and tactical launches, collaborations and sponsored events, as well as UX/CX brand alignment, agency assignments and internal branding projects.
 
 ![Page 3 — Projects Handled](images/Reebok_page-003.jpg)
 *Projects Handled*
@@ -34,7 +34,6 @@ My work covered Holiday, Seasonal, New Arrivals, Category, and Gifting campaigns
 
 ## 2. Global Campaign Delivery
 
-### Reebok Holiday Campaign
 
 The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC.
 
@@ -42,9 +41,7 @@ It covered ecommerce, email, paid and social channels, with up to 11 languages a
 
 Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
-### From Brief to Live Campaign
-
-I supported the campaign throughout the production lifecycle:
+### From Brief to Live Campaign, I supported the campaign throughout the production lifecycle:
 
 **Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live**
 
