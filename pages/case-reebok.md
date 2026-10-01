@@ -2,11 +2,11 @@
 
 ## Index
 
-1. [From Digital Design to Creative Production](#1-from-digital-design-to-creative-production)
-2. [Global Campaign Delivery](#2-global-campaign-delivery)
-3. [Building a More Structured Creative Operation](#3-building-a-more-structured-creative-operation)
-4. [Connecting Creative with Global Teams](#4-connecting-creative-with-global-teams)
-5. [From Campaign Delivery to a Reliable Creative Function](#5-from-campaign-delivery-to-a-reliable-creative-function)
+1. [From Digital Design to Creative Production]
+2. [Global Campaign Delivery]
+3. [Building a More Structured Creative Operation]
+4. [Connecting Creative with Global Teams]
+5. [From Campaign Delivery to a Reliable Creative Function]
 
 ---
 
@@ -34,38 +34,39 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ## 2. Global Campaign Delivery
 
-
 The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC.
+![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
+*Digital Concept / Phases*
 
-It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
+Holidaiy Campaign covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
 Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
 ### From Brief to Live Campaign, I supported the campaign throughout the production lifecycle:
 
-**Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live**
+*Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
+
+![Page 6 — Global Scope](images/Reebok_page-008.jpg)
+*Campaign development plan* 
+
+![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
+*Concept to Live*
 
 We presented creative concepts to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer. I also created the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-![Page 9 — My Contribution](images/Reebok_page-009.jpg)
-*My Contribution*
-
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
-
-![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
-*Digital Concept / Phases*
-
-![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
-*Concept to Live*
 
 ### Multi-Channel Campaign Outputs
 
 The campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
 
 Localized versions were then produced for the different markets.
+
+![Page 16 — Ecommerce / CRM](images/Reebok_page-007.jpg)
+*Ecommerce / CRM*
 
 ![Page 16 — Ecommerce / CRM](images/Reebok_page-016.jpg)
 *Ecommerce / CRM*
@@ -83,6 +84,9 @@ As campaign delivery became more complex, I became increasingly involved in impr
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
+![Page 9 — My Contribution](images/Reebok_page-009.jpg)
+*My Contribution*
+
 ### Creating Repeatable Workflows
 
 I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
@@ -93,6 +97,8 @@ The aim was to make campaign information easier to understand, responsibilities 
 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
+
+
 
 ### Team Enablement
 
@@ -148,6 +154,7 @@ These learnings were documented in monthly campaign reports and discussed with r
 
 ## 5. From Campaign Delivery to a Reliable Creative Function
 
+
 ### Operational Results
 
 The work supported a more repeatable campaign delivery process across multiple activations.
@@ -178,6 +185,7 @@ Creative could contribute not only to the development of campaign assets, but al
 *Strategic Partner*
 
 ### Broader Capability
+
 
 This role brought together the areas that became central to my professional development:
 
