@@ -32,13 +32,18 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ---
 
+
+![Page 9 — My Contribution](images/Reebok_page-009.jpg)
+*My Contribution*
+
+# HOW? 
+
 ## 2. Global Campaign Delivery
 
-The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC.
+The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC. 
+It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 ![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
 *Digital Concept / Phases*
-
-Holidaiy Campaign covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
 Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
@@ -61,7 +66,7 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 
 ### Multi-Channel Campaign Outputs
 
-The campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
+The holiday campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
 
 Localized versions were then produced for the different markets.
 
@@ -79,13 +84,20 @@ Localized versions were then produced for the different markets.
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
-
-As campaign delivery became more complex, I became increasingly involved in improving the way Creative worked with the wider organisation.
+Reebok's marketing operations were used as pilot operations to establish digtial first (followed by retail) approach for global campaigns. As digital touchpoints diversified, non linear in this fast phased environment, campaign delivery became more complex. And I became increasingly involved in improving the way Creative worked with the wider organisation.
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
-![Page 9 — My Contribution](images/Reebok_page-009.jpg)
-*My Contribution*
+
+### Digital-to-Retail Production
+
+From 2016, the digital-first approach also informed retail guidelines.
+
+I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
+
+![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
+*Retail Workflow*
+
 
 ### Creating Repeatable Workflows
 
@@ -97,8 +109,6 @@ The aim was to make campaign information easier to understand, responsibilities 
 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
-
-
 
 ### Team Enablement
 
@@ -123,21 +133,13 @@ I acted as a connecting point between these teams throughout the campaign lifecy
 
 The campaign required coordination across multiple markets and languages.
 
-The localization workflow included the approved campaign blueprint, copy sheet and localization brief, followed by localization agency production, copy approval, campaign asset production, localized copy approval and final delivery.
+The localization workflow included the approved campaign blueprint, copy sheet and localization brief, followed by localization agency production, copy approval, campaign asset production, localized copy approval and final delivery to the local markets.
 
 I supported localization and creative QA across markets while maintaining brand consistency and alignment with the approved campaign direction.
 
 ![Page 15 — Localization Workflow](images/Reebok_page-015.jpg)
 *Localization Workflow*
 
-### Digital-to-Retail Production
-
-From 2016, the digital-first approach also informed retail guidelines.
-
-I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
-
-![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
-*Retail Workflow*
 
 ### Campaign Learning & UX/CX
 
