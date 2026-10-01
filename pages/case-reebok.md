@@ -63,16 +63,6 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
 
-### Digital-to-Retail Production
-
-From 2016, the digital-first approach also informed retail guidelines.
-
-I worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
-
-![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
-*Retail Workflow*
-
-
 ### Multi-Channel Campaign Outputs
 
 The holiday campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
@@ -93,12 +83,12 @@ Localized versions were then produced for the different markets.
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
-Reebok's marketing operations were used as pilot operations to establish digtial first (followed by retail) approach for global campaigns. As digital touchpoints diversified, non linear in this fast phased environment, campaign delivery became more complex. And I became increasingly involved in improving the way Creative worked with the wider organisation.
+Reebok's marketing operations were used as pilot operations to establish digtial first (followed by retail) approach for global campaigns. As digital touchpoints diversified, non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
-
-
+![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
+*Retail Workflow*
 
 ### Creating Repeatable Workflows
 
