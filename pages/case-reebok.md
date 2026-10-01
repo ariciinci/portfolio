@@ -35,7 +35,6 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
 
-# HOW? 
 
 ## 2. Global Campaign Delivery
 
@@ -189,7 +188,6 @@ Creative could contribute not only to the development of campaign assets, but al
 *Strategic Partner*
 
 ### Broader Capability
-
 
 This role brought together the areas that became central to my professional development:
 
