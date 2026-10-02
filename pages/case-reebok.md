@@ -65,7 +65,6 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives.**
 
-
 ### Multi-Channel Campaign Outputs
 
 Holiday campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
@@ -89,8 +88,8 @@ As digital touchpoints were diversified and non linear in this fast phased envir
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
-![Page 14 — Retail Workflow](images/Reebok_page-014.jpg)
-*Retail Workflow*
+![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
+*Production Workflow*
 
 ### Creating Repeatable Workflows
 
@@ -102,7 +101,6 @@ The aim was to make campaign information easier to understand, responsibilities 
 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
-
 
 
 ### Team Enablement
@@ -121,8 +119,6 @@ Global campaign delivery required coordination between EU Marketing, Creative, P
 
 I acted as a connecting point between these teams throughout the campaign lifecycle, supporting communication, creative reviews, approvals, production and delivery.
 
-![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
-*Collaboration Map*
 
 ### Localization & Quality Assurance
 
