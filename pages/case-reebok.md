@@ -34,7 +34,7 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
-
+---
 
 ## 2. Global Campaign Delivery
 
@@ -104,7 +104,7 @@ The aim was to make campaign information easier to understand, responsibilities 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
 **Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
-
+---
 ## 4. Connecting Creative with Global Teams
 
 ### Stakeholder & Cross-Functional Collaboration
@@ -140,7 +140,7 @@ These learnings were documented in monthly campaign reports and discussed with r
 ![Page 11 — Live Campaign Governance](images/Reebok_page-011.jpg)
 *Live Campaign Governance*
 
-
+---
 ## 5. From Campaign Delivery to a Reliable Creative Function
 ![Page 12 — Live Campaign Governance](images/Reebok_page-012.jpg)
 *Learnings registered*
