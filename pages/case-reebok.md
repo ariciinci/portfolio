@@ -72,9 +72,6 @@ Holiday campaign translated the central creative direction across multiple digit
 
 Localized versions were then produced for the different markets.
 
-![Page 07 — Ecommerce / CRM](images/Reebok_page-007.jpg)
-*Ecommerce / CRM*
-
 ![Page 16 — Ecommerce / CRM](images/Reebok_page-016.jpg)
 *Ecommerce / CRM*
 
