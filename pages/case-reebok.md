@@ -59,7 +59,7 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 *Concept to Live*
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
-![Blueprint page example](images/reebok_workflowimprovements.jpg)
+![Blueprint page example](images/00-FW16-HolidayCampaign-GUIDELINES copy-images-14.jpg.jpg)
 *Concept to Live*
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives.**
