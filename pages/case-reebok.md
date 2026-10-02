@@ -48,15 +48,14 @@ Each campaign phase introduced different business objectives, messaging prioriti
 
 ### From Brief to Live Campaign, I supported the campaign throughout the production lifecycle:
 
-*Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
-
 ![Page 6 — Global Scope](images/Reebok_page-008.jpg)
 *Campaign development plan* 
-
 
 After finalising the brief and the concepts presented to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer, I initiated the development and first craft of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
+
+*Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
 
 ![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
 *Concept to Live*
@@ -64,13 +63,16 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
 
+**By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives.**
+
+
 ### Multi-Channel Campaign Outputs
 
-The holiday campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
+Holiday campaign translated the central creative direction across multiple digital touchpoints, including homepage, landing pages, email, SEM, paid social and display advertising.
 
 Localized versions were then produced for the different markets.
 
-![Page 16 — Ecommerce / CRM](images/Reebok_page-007.jpg)
+![Page 07 — Ecommerce / CRM](images/Reebok_page-007.jpg)
 *Ecommerce / CRM*
 
 ![Page 16 — Ecommerce / CRM](images/Reebok_page-016.jpg)
