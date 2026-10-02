@@ -83,7 +83,9 @@ Localized versions were then produced for the different markets.
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
-Reebok's marketing operations were used as pilot operations to establish digtial first (followed by retail) approach for global campaigns. As digital touchpoints diversified, non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
+Reebok’s digital-first, retail-following production principles served as a pilot for Adidas’ global campaigns. Each project generated learnings that helped refine the approach and adapt it to Adidas’ specific brand activations.
+
+As digital touchpoints were diversified and non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
@@ -100,9 +102,6 @@ The aim was to make campaign information easier to understand, responsibilities 
 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
-
-![Page 10 — Before → After](images/Reebok_page-010.jpg)
-*Concept to live*
 
 
 
