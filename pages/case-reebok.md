@@ -60,9 +60,9 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 ![Blueprint page example](images/00-FW16-HolidayCampaign-GUIDELINES copy-images-14.jpg.jpg)
-*Concept to Live*
+*page frpom the Blueprint. presentation*
 
-**By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives.**
+**By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives**
 
 ### Multi-Channel Campaign Outputs
 
@@ -91,6 +91,7 @@ Areas that required greater structure included briefing, feedback, stakeholder m
 
 I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
 
+![Creative pipeline](images/reebokteam_strategicpartner.jpg)
 These systems developed over time and supported repeated campaign delivery rather than a single activation.
 
 The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
