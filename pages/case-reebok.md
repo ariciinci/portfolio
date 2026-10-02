@@ -36,7 +36,7 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ## 2. Global Campaign Delivery
 
-The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across **EMEA, North America, LATAM and APAC**. 
+The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across **EMEA, NA, LATAM** and **APAC**. 
 It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
 Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
@@ -74,7 +74,7 @@ Localized versions were then produced for the different markets.
 
 ![Page 17 — Paid / Social](images/Reebok_page-017.jpg)
 *Paid / Social*
----
+
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
@@ -101,7 +101,9 @@ The aim was to make campaign information easier to understand, responsibilities 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
 **Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
+
 ---
+
 ## 4. Connecting Creative with Global Teams
 
 ### Stakeholder & Cross-Functional Collaboration
