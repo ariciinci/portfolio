@@ -18,8 +18,8 @@ I joined the Reebok ecommerce team at adidas HQ in Amsterdam to cover the Creati
 
 I became involved in developing creative work, planning campaigns, coordinating asset production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
 
-A key part of my role was helping establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.
-
+A key part of my role was helping **establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.
+**
 ![Page 1 — My Role](images/Reebok_page-001.jpg)
 *My Role*
 
