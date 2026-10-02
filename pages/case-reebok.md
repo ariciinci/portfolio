@@ -53,15 +53,15 @@ Each campaign phase introduced different business objectives, messaging prioriti
 
 After finalising the brief and the concepts presented to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer, I initiated the development and first craft of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
-The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
-
 *Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
 
 ![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
 *Concept to Live*
 
-![Page 6 — Global Scope](images/Reebok_page-006.jpg)
-*Global Scope*
+
+
+The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
+
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives.**
 
@@ -86,9 +86,6 @@ Reebok’s digital-first, retail-following production principles served as a pil
 
 As digital touchpoints were diversified and non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
-![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
-*Production Workflow*
-
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
 ### Creating Repeatable Workflows
@@ -102,14 +99,11 @@ The aim was to make campaign information easier to understand, responsibilities 
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
 
-
 ### Team Enablement
 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
 **Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
-
----
 
 ## 4. Connecting Creative with Global Teams
 
@@ -119,6 +113,8 @@ Global campaign delivery required coordination between EU Marketing, Creative, P
 
 I acted as a connecting point between these teams throughout the campaign lifecycle, supporting communication, creative reviews, approvals, production and delivery.
 
+![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
+*Production Workflow*
 
 ### Localization & Quality Assurance
 
@@ -130,7 +126,8 @@ I supported localization and creative QA across markets while maintaining brand 
 
 ![Page 15 — Localization Workflow](images/Reebok_page-015.jpg)
 *Localization Workflow*
-
+![Page 6 — Global Scope](images/Reebok_page-006.jpg)
+*Global Scope*
 
 ### Campaign Learning & UX/CX
 
@@ -143,7 +140,6 @@ These learnings were documented in monthly campaign reports and discussed with r
 ![Page 11 — Live Campaign Governance](images/Reebok_page-011.jpg)
 *Live Campaign Governance*
 
----
 
 ## 5. From Campaign Delivery to a Reliable Creative Function
 ![Page 12 — Live Campaign Governance](images/Reebok_page-012.jpg)
