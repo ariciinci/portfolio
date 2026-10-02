@@ -74,9 +74,7 @@ Localized versions were then produced for the different markets.
 
 ![Page 17 — Paid / Social](images/Reebok_page-017.jpg)
 *Paid / Social*
-
 ---
-
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
