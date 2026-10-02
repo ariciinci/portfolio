@@ -41,10 +41,10 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 The Reebok Holiday Campaign was a global, phased ecommerce activation delivered across EMEA, North America, LATAM and APAC. 
 It covered ecommerce, email, paid and social channels, with up to 11 languages and hundreds of localized assets. Delivery involved the HQ Creative team together with external studio production, freelance designers and a localization agency.
 
+Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
+
 ![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
 *Digital Concept / Phases*
-
-Each campaign phase introduced different business objectives, messaging priorities and creative outputs while maintaining a consistent campaign identity.
 
 ### From Brief to Live Campaign, I supported the campaign throughout the production lifecycle:
 
