@@ -47,18 +47,17 @@ Each campaign phase introduced different business objectives, messaging prioriti
 *Digital Concept / Phases*
 
 ### From Brief to Live Campaign, I supported the campaign throughout the production lifecycle:
-
-*Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
-
 ![Page 6 — Global Scope](images/Reebok_page-008.jpg)
 *Campaign development plan* 
 
-![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
-*Concept to Live*
+*Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
 
-We presented creative concepts to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer. I also created the development of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
+After finalising the brief and the concepts presented to EU Marketing leadership together with my internal team: junior designer, copywriter and the producer, I initiated the development and first craft of the campaign blueprint and coordinated the transition from approved concept into production and delivery.
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
+
+![Page 10 — Concept to Live](images/Reebok_page-010.jpg)
+*Concept to Live*
 
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
