@@ -8,7 +8,7 @@
 4. [Connecting Creative with Global Teams](#4-connecting-creative-with-global-teams)
 5. [From Campaign Delivery to a Reliable Creative Function](#5-from-campaign-delivery-to-a-reliable-creative-function)
 
----
+
 
 ## 1. From Digital Design to Creative Production
 
@@ -32,7 +32,7 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
 
----
+
 
 ## 2. Global Campaign Delivery
 
@@ -58,7 +58,7 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-![Blueprint page example](images/00-FW16-HolidayCampaign-GUIDELINES copy-images-14.jpg.jpg)
+![Blueprint page example](images/00-FW16-HolidayCampaign-GUIDELINES copy-images-14.jpg.)
 *page from the Blueprint presentation*
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives**
