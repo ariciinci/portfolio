@@ -8,15 +8,13 @@
 4. [Connecting Creative with Global Teams](#4-connecting-creative-with-global-teams)
 5. [From Campaign Delivery to a Reliable Creative Function](#5-from-campaign-delivery-to-a-reliable-creative-function)
 
-
-
 ## 1. From Digital Design to Creative Production
 
 ### Role Evolution
 
 I joined the Reebok ecommerce team at adidas HQ in Amsterdam to cover the Creative Manager's maternity leave. While my official title was Senior Interactive Designer, my role expanded into a broader Creative Production and Campaign Delivery function, working very close with the Production Manager and the marketing team.
 
-I became involved in developing creative work, planning campaigns, coordinating asset production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
+I became involved in developing creative work, planning campaign production, coordinating asset generation, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
 
 A key part of my role was helping **establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.**
 
@@ -31,8 +29,6 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 *Projects Handled*
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
-
-
 
 ## 2. Global Campaign Delivery
 
@@ -102,8 +98,6 @@ I also supported team onboarding, handovers and junior development, helping redu
 
 **Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
 
----
-
 ## 4. Connecting Creative with Global Teams
 
 ### Stakeholder & Cross-Functional Collaboration
@@ -139,7 +133,6 @@ These learnings were documented in monthly campaign reports and discussed with r
 ![Page 11 — Live Campaign Governance](images/Reebok_page-011.jpg)
 *Live Campaign Governance*
 
----
 ## 5. From Campaign Delivery to a Reliable Creative Function
 ![Page 12 — Live Campaign Governance](images/Reebok_page-012.jpg)
 *Learnings registered*
