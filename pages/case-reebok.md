@@ -18,8 +18,8 @@ I joined the Reebok ecommerce team at adidas HQ in Amsterdam to cover the Creati
 
 I became involved in developing creative work, planning campaigns, coordinating asset production, managing creative resources, supporting external agencies and freelancers, aligning stakeholders, developing workflows, and supporting the growth of the Creative team.
 
-A key part of my role was helping **establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.
-**
+A key part of my role was helping **establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.**
+
 ![Page 1 — My Role](images/Reebok_page-001.jpg)
 *My Role*
 
@@ -86,10 +86,10 @@ Reebok’s digital-first, retail-following production principles served as a pil
 
 As digital touchpoints were diversified and non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
-Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
-
 ![Page 13 — Collaboration Map](images/Reebok_page-013.jpg)
 *Production Workflow*
+
+Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
 ### Creating Repeatable Workflows
 
@@ -107,7 +107,7 @@ The aim was to make campaign information easier to understand, responsibilities 
 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
-Creative resource management and forecasting provided greater visibility of upcoming work and capacity requirements.
+**Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
 
 ---
 
