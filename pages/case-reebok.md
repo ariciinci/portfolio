@@ -84,7 +84,6 @@ Areas that required greater structure included briefing, feedback, stakeholder m
 
 I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
 
-![Creative pipeline](images/reebokteam_strategicpartner.jpg)
 These systems developed over time and supported repeated campaign delivery rather than a single activation.
 
 The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
