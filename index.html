@@ -10,16 +10,19 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 <style>
+  /* Warm Ash palette
+     Charcoal #1A1917 · Bone #F2EFE9 · Sand #D8D0C0 · Smoke #9B968C · Burnt Umber #6B5B4A */
   :root{
-    --paper:#EDE8DE;
-    --paper-alt:#E1DBCA;
-    --ink:#1C1A16;
-    --ink-soft:#4A453C;
-    --ink-faint:#726B5C;
-    --accent:#6E2A28;
-    --accent-soft:#8B4A42;
-    --line:#C7BFAE;
-    --line-soft:#D9D2C0;
+    --paper:#F2EFE9;        /* Bone: main background */
+    --paper-alt:#D8D0C0;    /* Sand: footer, section backgrounds */
+    --ink:#1A1917;          /* Charcoal: headings, primary text */
+    --ink-soft:#47433C;     /* darkened Charcoal tint: body text */
+    --ink-faint:#6F6A60;    /* darkened Smoke: captions, taglines (readable on Bone) */
+    --accent:#6B5B4A;       /* Burnt Umber: links, buttons, highlights */
+    --accent-soft:#8A7762;  /* lighter Umber: hover */
+    --smoke:#9B968C;        /* Smoke: borders, secondary elements */
+    --line:#D8D0C0;         /* Sand: main dividers */
+    --line-soft:#E6E0D4;    /* lighter Sand: hairlines */
     --max:920px;
   }
   *{box-sizing:border-box;}
@@ -35,8 +38,8 @@
 
   header.site{
     position:sticky; top:0; z-index:50;
-    background:rgba(233,228,216,0.92); backdrop-filter:blur(6px);
-    border-bottom:1px solid var(--line-soft);
+    background:rgba(242,239,233,0.92); backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line);
   }
   .navbar{
     max-width:var(--max); margin:0 auto; padding:16px 20px 16px 0px;
@@ -66,7 +69,7 @@
     }
     .navbar nav.open{display:flex;}
     .navbar .nav-toggle{
-      display:block; background:none; border:1px solid var(--line); border-radius:3px;
+      display:block; background:none; border:1px solid var(--smoke); border-radius:3px;
       padding:6px 10px; font-size:15px; color:var(--ink); cursor:pointer;
       font-family:'IBM Plex Sans',sans-serif;
     }
@@ -101,7 +104,7 @@
   .prose ul, .prose ol{margin:0 0 16px; padding-left:22px; color:var(--ink-soft); max-width:68ch;}
   .prose li{margin-bottom:6px;}
   .prose em{color:var(--ink-faint);}
-  .prose hr{border:none; border-top:1px solid var(--line); margin:34px 0;}
+  .prose hr{border:none; border-top:1px solid var(--smoke); opacity:0.5; margin:34px 0;}
   .prose table{border-collapse:collapse; width:100%; margin:10px 0 20px;}
   .prose th, .prose td{
     text-align:left; padding:10px 16px 10px 0; border-top:1px solid var(--line-soft); font-size:15px;
@@ -114,7 +117,7 @@
      Each ## heading becomes a small label in the left column, its content sits beside it. */
   .prose .sec-row{
     display:grid; grid-template-columns:150px minmax(0,1fr); gap:6px 32px;
-    padding:22px 0; border-top:1px solid var(--line-soft);
+    padding:22px 0; border-top:1px solid var(--line);
   }
   .prose .sec-row h2{
     font-family:'IBM Plex Sans', sans-serif; font-size:14px; font-weight:400;
@@ -130,7 +133,7 @@
   /* Images: sensible default, plus size/alignment utility classes for use in <img class="..."> */
   .prose img{
     max-width:100%; height:auto; display:block;
-    margin:20px 0; border:1px solid var(--line-soft);
+    margin:20px 0; border:1px solid var(--line);
   }
   .prose img.img-small{max-width:320px;}
   .prose img.img-medium{max-width:520px;}
@@ -141,10 +144,10 @@
   .prose figcaption{font-size:13.5px; color:var(--ink-faint); font-style:italic;}
 
   footer.site-footer{
-    padding:40px 0; border-top:1px solid var(--line); background:var(--paper-alt);
+    padding:40px 0; border-top:1px solid var(--smoke); background:var(--paper-alt);
     text-align:left;
   }
-  footer.site-footer .fine{color:var(--ink-faint); font-size:13.5px;}
+  footer.site-footer .fine{color:var(--ink-soft); font-size:13.5px;}
 </style>
 </head>
 <body>
@@ -171,7 +174,7 @@
 </footer>
 
 <a id="case-index-back-btn" href="javascript:void(0)" onclick="window.scrollTo({top:0, behavior:'smooth'})"
-   style="position:fixed; bottom:24px; z-index:999; background:#111; color:#fff; padding:10px 18px; border-radius:999px; font-size:13px; text-decoration:none; font-family:inherit; box-shadow:0 2px 10px rgba(0,0,0,0.25); display:none;">
+   style="position:fixed; bottom:24px; z-index:999; background:#1A1917; color:#F2EFE9; padding:10px 18px; border-radius:999px; font-size:13px; text-decoration:none; font-family:inherit; box-shadow:0 2px 10px rgba(26,25,23,0.25); display:none;">
   ↑ Index
 </a>
 
