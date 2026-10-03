@@ -80,22 +80,6 @@ As digital touchpoints were diversified and non linear in this fast phased envir
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
-### Creating Repeatable Workflows
-
-I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
-
-These systems developed over time and supported repeated campaign delivery rather than a single activation.
-
-The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
-
-![Page 18 — Before → After](images/Reebok_page-018.jpg)
-*Before → After*
-
-### Team Enablement
-
-I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
-
-**Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
 
 ## 4. Connecting Creative with Global Teams
 
@@ -121,6 +105,22 @@ I supported localization and creative QA across markets while maintaining brand 
 ![Page 6 — Global Scope](images/Reebok_page-006.jpg)
 *Global Scope*
 
+### Creating Repeatable Workflows
+
+I introduced and developed practical structures around the campaign process, including campaign blueprints, structured reviews, stakeholder guidelines, onboarding documentation, resource planning and creative forecasting.
+
+These systems developed over time and supported repeated campaign delivery rather than a single activation.
+
+The aim was to make campaign information easier to understand, responsibilities clearer, and the Creative team's work more visible and repeatable across the organisation.
+
+![Page 18 — Before → After](images/Reebok_page-018.jpg)
+*Before → After*
+
+### Team Enablement
+
+I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
+
+**Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
 ### Campaign Learning & UX/CX
 
 My involvement continued after campaigns went live.
