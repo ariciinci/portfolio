@@ -123,6 +123,10 @@ I also supported team onboarding, handovers and junior development, helping redu
 My involvement continued after campaigns went live.
 
 Campaign results were gathered from the Analytics team together with feedback from local marketing specialists across EMEA, NA, LATAM and APAC.
+![Page 10 — Concept to Live](images/2015-08-GlobalCommercialToolkit-colombia.jpg)
+![Page 10 — Concept to Live](images/2015-08-GlobalCommercialToolkit-overview.jpg)
+![Page 10 — Concept to Live](images/2015-08-GlobalCommercialToolkit-colombia.jpg)
+
 
 These learnings were documented in monthly campaign reports and discussed with regional teams. Relevant observations were then shared with UX and CX teams to inform future marketing-stack updates and subsequent campaign activity.
 
