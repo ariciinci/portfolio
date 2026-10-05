@@ -51,7 +51,7 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-!(images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
+![Page 6 — Global Scope](images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
 *page from the Blueprint presentation*
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives**
