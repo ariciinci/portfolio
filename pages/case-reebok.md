@@ -49,12 +49,9 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 
 *Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
 
-![Page 10 — Concept to Live](images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
-*Concept to Live*
-
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
 
-![Blueprint example](images/00-FW16-HolidayCampaign-GUIDELINES copy-images-14.jpg)
+!(images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
 *page from the Blueprint presentation*
 
 **By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives**
@@ -125,7 +122,7 @@ I also supported team onboarding, handovers and junior development, helping redu
 
 My involvement continued after campaigns went live.
 
-Campaign results were gathered from the Analytics team together with feedback from local marketing specialists across EMEA, North America, LATAM and APAC.
+Campaign results were gathered from the Analytics team together with feedback from local marketing specialists across EMEA, NA, LATAM and APAC.
 
 These learnings were documented in monthly campaign reports and discussed with regional teams. Relevant observations were then shared with UX and CX teams to inform future marketing-stack updates and subsequent campaign activity.
 
