@@ -49,7 +49,7 @@ After finalising the brief and the concepts presented to EU Marketing leadership
 
 *Brief → Brief Refinement → Concept Development → Presentation → Feedback → Creative Sign-off → Blueprint → Localization → QA → Approval → Toolkit Delivery → Live*
 
-![Page 10 — Concept to Live]([images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg))
+![Page 10 — Concept to Live](images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
 *Concept to Live*
 
 The blueprint provided a shared reference for the teams involved in adapting, producing, localizing and launching the campaign.
