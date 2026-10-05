@@ -144,11 +144,11 @@ The work supported a more repeatable campaign delivery process across multiple a
 Key improvements included:
 
 - Standardized campaign documentation
-- More consistent creative reviews
+- Consistent creative reviews
 - Clearer stakeholder alignment
-- More structured campaign conversations
+- Structured campaign conversations
 - Faster localization handovers
-- More predictable approval processes
+- Predictable approval processes
 - Reduced onboarding effort
 - Greater visibility of creative capacity and upcoming work
 
