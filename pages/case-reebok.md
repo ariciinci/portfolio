@@ -19,14 +19,15 @@ I became involved in developing creative work, planning campaign production, coo
 A key part of my role was helping **establish the Reebok Creative team as a strategic and reliable partner within the wider adidas organisation.**
 
 ![Page 1 — My Role](images/Reebok_page-001.jpg)
-*My Role*
+**MY ROLE**
 
 Connecting creative output with business goals and the production requirements of Marketing, UX/CX teams, Localisation, and regional markets, my responsibilities included Creative Production and Delivery, Brand Governance, Creative Resource Management, Workflow Improvement, Systems Thinking, Creative Forecasting, Team Onboarding and Handovers, Junior Development, Global Campaign Alignment, and Campaign Reporting.
 
 My work spanned seasonal, category, gifting and commercial campaigns, product and tactical launches, collaborations and sponsored events, as well as UX/CX brand alignment, agency assignments and internal branding projects.
 
 ![Page 3 — Projects Handled](images/Reebok_page-003.jpg)
-*Projects Handled*
+**Projects Handled**
+
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
 
