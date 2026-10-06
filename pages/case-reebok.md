@@ -2,11 +2,13 @@
 
 ## Index
 
-1. [From Digital Design to Creative Production](#1-from-digital-design-to-creative-production)
-2. [Global Campaign Delivery](#2-global-campaign-delivery)
-3. [Building a More Structured Creative Operation](#3-building-a-more-structured-creative-operation)
-4. [Connecting Creative with Global Teams](#4-connecting-creative-with-global-teams)
-5. [From Campaign Delivery to a Reliable Creative Function](#5-from-campaign-delivery-to-a-reliable-creative-function)
+1. [From Digital Design to Creative Production](#section-1)
+2. [Global Campaign Delivery](#section-2)
+3. [Building a More Structured Creative Operation](#section-3)
+4. [Connecting Creative with Global Teams](#section-4)
+5. [From Campaign Delivery to a Reliable Creative Function](#section-5)
+
+<a id="section-1"></a>
 
 ## 1. From Digital Design to Creative Production
 
@@ -30,6 +32,8 @@ My work spanned seasonal, category, gifting and commercial campaigns, product an
 
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
+
+<a id="section-2"></a>
 
 ## 2. Global Campaign Delivery
 
@@ -55,7 +59,7 @@ The blueprint provided a shared reference for the teams involved in adapting, pr
 ![Page 6 — Global Scope](images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
 *page from the Blueprint presentation*
 
-**By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign’s core objectives**
+**By creating a strong foundation and clarifying the brief for all stakeholders from the outset, we streamlined the production process, eliminated unnecessary discussions, and kept everyone focused on the campaign's core objectives**
 
 ### Multi-Channel Campaign Outputs
 
@@ -69,15 +73,18 @@ Localized versions were then produced for the different markets.
 ![Page 17 — Paid / Social](images/Reebok_page-017.jpg)
 *Paid / Social*
 
+<a id="section-3"></a>
+
 ## 3. Building a More Structured Creative Operation
 
 ### Identifying Operational Needs
-Reebok’s digital-first, retail-following production principles served as a pilot for Adidas’ global campaigns. Each project generated learnings that helped refine the approach and adapt it to Adidas’ specific brand activations.
+Reebok's digital-first, retail-following production principles served as a pilot for Adidas' global campaigns. Each project generated learnings that helped refine the approach and adapt it to Adidas' specific brand activations.
 
 As digital touchpoints were diversified and non linear in this fast phased environment, campaign delivery became more complex. I became increasingly involved in improving the way Creative worked with the wider organisation and worked with external agencies and studios to adapt approved digital campaign concepts for retail, briefing external partners and coordinating production and approvals within the campaign cycle.
 
 Areas that required greater structure included briefing, feedback, stakeholder management, handovers, onboarding and alignment between Marketing, Creative and UX/CX.
 
+<a id="section-4"></a>
 
 ## 4. Connecting Creative with Global Teams
 
@@ -119,6 +126,7 @@ The aim was to make campaign information easier to understand, responsibilities 
 I also supported team onboarding, handovers and junior development, helping reduce dependency on informal knowledge and making it easier for team members to understand the campaign process and their responsibilities.
 
 **Creative resource management and forecasting** provided greater visibility of upcoming work and capacity requirements.
+
 ### Campaign Learning & UX/CX
 
 My involvement continued after campaigns went live.
@@ -134,7 +142,10 @@ These learnings were documented in monthly campaign reports and discussed with r
 ![Page 11 — Live Campaign Governance](images/Reebok_page-011.jpg)
 *Live Campaign Governance*
 
+<a id="section-5"></a>
+
 ## 5. From Campaign Delivery to a Reliable Creative Function
+
 ![Page 12 — Live Campaign Governance](images/Reebok_page-012.jpg)
 *Learnings registered*
 
