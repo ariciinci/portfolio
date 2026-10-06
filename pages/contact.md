@@ -3,8 +3,8 @@ title: Contact
 layout: page
 ---
 
-# Let's talk about what your creative team needs.
+# Lets talk.
 
-[incinema@gmail.com](mailto:incinema@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/)
+[inciarici.work@gmail.com](mailto:inciarici.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/incia/)
 
-Inci Arici — Amsterdam
+Inci Arici — 2026 - Amsterdam
