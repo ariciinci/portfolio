@@ -1,26 +1,28 @@
+<a href="#" onclick="document.getElementById('index').scrollIntoView({behavior:'smooth'});return false;" style="position:fixed;bottom:24px;right:24px;z-index:999;background:#000;color:#fff;border:1px solid #000;border-radius:0;padding:14px 20px;font-family:inherit;font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;line-height:1;">↑ Index</a>
+
 # REEBOK
 
-<a id="index"></a>
+<div id="index" style="scroll-margin-top:90px"></div>
 
 ## Index
 
-1. [From Digital Design to Creative Production](#section-1)
-   - [Role Evolution](#section-1-1)
-2. [Global Campaign Delivery](#section-2)
-   - [From Concept to Production](#section-2-1)
-   - [Multi-Channel Delivery](#section-2-2)
-3. [Building a More Structured Creative Operation](#section-3)
-   - [Connecting Global Teams](#section-3-1)
-   - [Learning Beyond Launch](#section-3-2)
-4. [From Campaign Delivery to a More Reliable Creative Function](#section-4)
+1. <a href="#" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'});return false;">From Digital Design to Creative Production</a>
+   - <a href="#" onclick="document.getElementById('section-1-1').scrollIntoView({behavior:'smooth'});return false;">Role Evolution</a>
+2. <a href="#" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'});return false;">Global Campaign Delivery</a>
+   - <a href="#" onclick="document.getElementById('section-2-1').scrollIntoView({behavior:'smooth'});return false;">From Concept to Production</a>
+   - <a href="#" onclick="document.getElementById('section-2-2').scrollIntoView({behavior:'smooth'});return false;">Multi-Channel Delivery</a>
+3. <a href="#" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'});return false;">Building a More Structured Creative Operation</a>
+   - <a href="#" onclick="document.getElementById('section-3-1').scrollIntoView({behavior:'smooth'});return false;">Connecting Global Teams</a>
+   - <a href="#" onclick="document.getElementById('section-3-2').scrollIntoView({behavior:'smooth'});return false;">Learning Beyond Launch</a>
+4. <a href="#" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'});return false;">From Campaign Delivery to a More Reliable Creative Function</a>
 
 ---
 
-<a id="section-1"></a>
+<div id="section-1" style="scroll-margin-top:90px"></div>
 
 ## FROM DIGITAL DESIGN TO CREATIVE PRODUCTION
 
-<a id="section-1-1"></a>
+<div id="section-1-1" style="scroll-margin-top:90px"></div>
 
 ### Role Evolution
 
@@ -39,11 +41,9 @@ The role increasingly became about connecting creative work with the wider opera
 ![Page 9 — My Contribution](images/Reebok_page-009.jpg)
 *My Contribution*
 
-[↑ Back to index](#index)
-
 ---
 
-<a id="section-2"></a>
+<div id="section-2" style="scroll-margin-top:90px"></div>
 
 ## GLOBAL CAMPAIGN DELIVERY
 
@@ -57,7 +57,7 @@ Working with the internal Creative, Production and Marketing teams, external stu
 ![Page 7 — Digital Concept / Phases](images/Reebok_page-007.jpg)
 *Digital Concept / Phases*
 
-<a id="section-2-1"></a>
+<div id="section-2-1" style="scroll-margin-top:90px"></div>
 
 ### From Concept to Production
 
@@ -71,7 +71,7 @@ The blueprint became a shared reference for creative direction, messaging, asset
 ![Blueprint presentation page](images/00-FW16-HolidayCampaign-GUIDELINES%20copy-images-14.jpg)
 *Page from the Blueprint presentation*
 
-<a id="section-2-2"></a>
+<div id="section-2-2" style="scroll-margin-top:90px"></div>
 
 ### Multi-Channel Delivery
 
@@ -85,11 +85,9 @@ My involvement covered creative review, production coordination, localisation an
 ![Page 17 — Paid / Social](images/Reebok_page-017.jpg)
 *Paid / Social*
 
-[↑ Back to index](#index)
-
 ---
 
-<a id="section-3"></a>
+<div id="section-3" style="scroll-margin-top:90px"></div>
 
 ## BUILDING A MORE STRUCTURED CREATIVE OPERATION
 
@@ -102,7 +100,7 @@ Rather than supporting a single activation, these structures evolved across camp
 ![Page 18 — Before → After](images/Reebok_page-018.jpg)
 *Before → After*
 
-<a id="section-3-1"></a>
+<div id="section-3-1" style="scroll-margin-top:90px"></div>
 
 ### Connecting Global Teams
 
@@ -118,7 +116,7 @@ For localisation, this meant coordinating the movement from approved campaign di
 ![Page 15 — Localization Workflow](images/Reebok_page-015.jpg)
 *Localization Workflow*
 
-<a id="section-3-2"></a>
+<div id="section-3-2" style="scroll-margin-top:90px"></div>
 
 ### Learning Beyond Launch
 
@@ -138,11 +136,9 @@ Campaign performance and regional feedback were consolidated into monthly report
 ![Page 12 — Learnings Registered](images/Reebok_page-012.jpg)
 *Learnings registered*
 
-[↑ Back to index](#index)
-
 ---
 
-<a id="section-4"></a>
+<div id="section-4" style="scroll-margin-top:90px"></div>
 
 ## FROM CAMPAIGN DELIVERY TO A MORE RELIABLE CREATIVE FUNCTION
 
@@ -157,5 +153,3 @@ For me, the role marked a shift from primarily creating digital work to understa
 
 ![Page 2 — Strategic Partner](images/Reebok_page-002.jpg)
 *Strategic Partner*
-
-[↑ Back to index](#index)
