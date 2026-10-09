@@ -24,9 +24,11 @@ Ten-plus years building and running creative delivery systems for global e-comme
 
 ## Experience
 
-**adidas Group** · 2015–2019 · Sr Interactive Designer, Creative Production, Campaign Delivery Systems and Stakeholder Management
+**Freelance** · 2020–2024 · Creative Production, Campaign Delivery, Brand Operations, Localisation and Workflow Improvement for Calvin Klein, Amazon, Diageo, Virgin Media, Liberty Global, Philips and Cruyff
 
-**Freelance** · 2020–2023 · Creative Manager and Consultant for Calvin Klein, Amazon, Diageo, Virgin Media, Cruyff
+**Caperock** · 2019 · Senior Designer, Creative Production and Campaign Delivery for Broadcast and Digital Media
+
+**adidas Group (adidas & Reebok)** · 2015–2019 · Digital Art Direction, Creative Production, Global Ecommerce Campaign Delivery, Workflow Development and Stakeholder Management
 
 ## Education
 
