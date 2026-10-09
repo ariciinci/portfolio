@@ -32,9 +32,9 @@ Ten-plus years building and running creative delivery systems for global e-comme
 
 ## Education
 
-**Gerrit Rietveld Academie** · BA Graphic Design
+**Gerrit Rietveld Academie, Amsterdam** · BA Graphic Design
 
-**Mimar Sinan University** · BA Film and TV Production
+**Mimar Sinan University, Istanbul** · BA Film and TV Production
 
 ## Recognition
 
