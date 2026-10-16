@@ -38,7 +38,7 @@ The January 2017 team presentation documented a workload of **12 marketing activ
 
 These figures describe the documented team environment, rather than my individual output.
 
-![Reebok creative production environment: 12 campaigns and 3 medium projects per month, involving 7 teams plus local markets.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree-Issues%20%26%20Impacts_21.%2024-slide%201.png "Delivering within a complex production environment")
+![Reebok creative production environment: 12 campaigns and 3 medium projects per month, involving 7 teams plus local markets.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree-IssuesImpacts_2124-section_3.png "Delivering within a complex production environment")
 
 *Documented team workload and collaboration scope. Source: January 2017 UX, CX & Creative Teams Collaboration presentation, PDF pages 21 and 24.*
 
