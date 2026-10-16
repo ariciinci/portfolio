@@ -4,7 +4,7 @@
 
 **Global Ecommerce Creative Production · Campaign Delivery · Workflow Improvement**
 
-**adidas HQ, Amsterdam | July 2015 – August 2018**
+**adidas HQ, Amsterdam | July 2015 – February 2019**
 
 I combined hands-on creative production with workflow improvement, helping Reebok deliver international ecommerce campaigns while strengthening the processes behind them.
 
