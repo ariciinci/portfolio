@@ -149,6 +149,8 @@ Do not label it as an implemented before/after.
 Add the Markdown image immediately below this comment when the image is uploaded.
 -->
 
+![Reebok creative production workflow documenting briefing, creative development, review, quality assurance and delivery.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree_Cross_Functional.jpg "Workflow and Documentation")
+
 *Existing masthead limitations and proposed desktop/mobile requirements. These documents demonstrate problem definition and cross-functional briefing; they do not independently establish implementation or measured uplift.*
 
 I also gathered campaign performance information from Analytics to support creative reviews and future planning discussions.
