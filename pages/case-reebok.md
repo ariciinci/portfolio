@@ -117,15 +117,10 @@ My April 2016 handover records this work, including campaign deliverables docume
 
 The documented processes connected brief clarification, creative development, feedback, design and copy checks, file preparation and delivery.
 
-<!-- SLIDE 2 — INSERT IMAGE HERE
-Suggested title: Making Creative Delivery More Structured
-Source: HANDOVER RUXANDRA.pdf, PDF pages 4–6.
-Show selected initiatives from page 4 and enlarged process diagrams from pages 5–6.
-Preserve the distinction between completed work, ongoing initiatives and WIP.
-Add the Markdown image immediately below this comment when the image is uploaded.
--->
+![Reebok creative production workflow documenting briefing, creative development, review, quality assurance and delivery.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree_Process%20-%20slide%204.png "Workflow & Documentation")
 
-*April 2016 handover excerpts documenting delivery initiatives and CRM, onsite and banner production processes. Some initiatives were recorded as ongoing or work in progress.*
+*April 2016 handover excerpts documenting delivery initiatives and creative production processes. Some initiatives were recorded as ongoing or work in progress.*
+
 
 ### Production & Team Alignment
 
