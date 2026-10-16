@@ -117,7 +117,7 @@ My April 2016 handover records this work, including campaign deliverables docume
 
 The documented processes connected brief clarification, creative development, feedback, design and copy checks, file preparation and delivery.
 
-![Reebok creative production workflow documenting briefing, creative development, review, quality assurance and delivery.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree_Process%20-%20slide%204.png "Workflow & Documentation")
+![Reebok creative production workflow documenting briefing, creative development, review, quality assurance and delivery.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree-IssuesImpacts_2124-section_3.png "Workflow & Documentation")
 
 *April 2016 handover excerpts documenting delivery initiatives and creative production processes. Some initiatives were recorded as ongoing or work in progress.*
 
