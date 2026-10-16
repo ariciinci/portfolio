@@ -119,19 +119,6 @@ The documented processes connected brief clarification, creative development, fe
 
 ![Reebok creative production workflow documenting briefing, creative development, review, quality assurance and delivery.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree_Process-slide_4V02.jpg "Workflow and Documentation")
 
-
-
-![Reebok creative production environment: 12 campaigns and 3 medium projects per month, involving 7 teams plus local markets.](https://raw.githubusercontent.com/ariciinci/portfolio/main/images/Ree-IssuesImpacts_2124-section_3.png "Delivering within a complex production environment")
-
-
-
-
-
-
-
-
-
-
 *April 2016 handover excerpts documenting delivery initiatives and creative production processes. Some initiatives were recorded as ongoing or work in progress.*
 
 
