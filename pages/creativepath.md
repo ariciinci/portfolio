@@ -1,1 +1,1 @@
-In the last 3 decades, I tried to explain what I am doing for work exactly. While it is a very visual work, to see the decisions behind a one small radio button for an app, can take a day of sign off returns. 
+In the last 3 decades, I tried to explain what I am doing for work exactly. While it is a very visual work, to see the decisions behind a one small radio button for an app, can take a day of sign off returns.  
