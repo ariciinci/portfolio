@@ -39,6 +39,9 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 <![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 -->
 
+<![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+-->
+
 ---
 
 <a id="02-creative-production--campaign-delivery"></a>
