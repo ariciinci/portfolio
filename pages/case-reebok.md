@@ -36,11 +36,7 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 **My focus:** making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets.
 
-<!-- SLIDE 1 — ROLE & CAMPAIGN SCOPE OVERVIEW
-Create the new overview slide using the dedicated image prompt.
-Suggested filename: reebok-slide-01-role-scope.png
-Upload the image to the images/ directory, then replace this comment with:
-![Global Ecommerce Creative Production — role and campaign scope](images/reebok-slide-01-role-scope.png)
+<![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 -->
 
 ---
