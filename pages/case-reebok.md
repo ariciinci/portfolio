@@ -32,7 +32,7 @@ The work involved seasonal campaigns, product launches, commercial promotions an
 
 My role combined creative development and delivery with coordination across stakeholders, external agencies and freelancers. I contributed to creative direction, campaign documentation, production planning, brand consistency, workflow improvement and the development of clearer ways of working.
 
-I worked closely with the Producer and wider team. Responsibilities were shared: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
+I worked closely with the Producer and the wider team. Responsibilities were shared, as follows: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
 
 **My focus:** making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets.
 
@@ -74,11 +74,11 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
 
-I contributed to improving the materials and practices used to support production, including campaign guidelines, templates, creative documentation and handover information. I also worked with the Producer and wider team on clearer workflows and stronger coordination between Creative, Marketing, UX/CX and other stakeholders.
+I contributed to improving the materials and practices used to support production, including campaign guidelines, templates, creative documentation and handover information. I also worked with the Producer and the wider team on clearer workflows and stronger coordination between Creative, Marketing, UX/CX and other stakeholders.
 
 The goal was to make requirements easier to understand, feedback more actionable and the transition from creative approval to production more predictable.
 
-These improvements were collaborative rather than the result of a single person working in isolation. My contribution combined hands-on creative experience with identifying where better documentation, communication and alignment could support the team's delivery.
+These improvements were collaborative rather than the work of a single person. My contribution combined hands-on creative experience with identifying where better documentation, communication and alignment could support the team's delivery.
 
 <!-- SLIDE 3 — CAMPAIGN DELIVERY WORKFLOW
 Create the redesigned six-stage workflow slide.
@@ -148,7 +148,7 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
-The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes. I therefore present them as operational contributions rather than quantified business results.
+The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
 <!-- SLIDE 7 — WORKFLOW IMPROVEMENTS
 Redesign the existing before/after slide to show the challenges and your contributions.
