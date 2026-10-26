@@ -36,10 +36,10 @@ My role combined creative development and delivery with coordination across stak
 
 I worked closely with the Producer and the wider team. Responsibilities were shared, as follows: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
 
-#### My focus: making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets. #### 
+ My focus: #### making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets. #### 
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_13.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
 ---
 <a id="02-creative-production--campaign-delivery"></a>
 
@@ -62,8 +62,8 @@ Upload the image to the images/ directory, then replace this comment with:
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_13.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
 
 ---
 
