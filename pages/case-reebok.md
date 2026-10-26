@@ -54,18 +54,10 @@ I also contributed to campaign planning from the creative side, working with the
 
 This required balancing creative quality with practical production needs: clear feedback, agreed requirements, timely sign-off and assets that could be used consistently across the campaign.
 
-<!-- SLIDE 2 — CAMPAIGN BLUEPRINT
-Use the existing Holiday 2016 campaign blueprint slide, edited for legibility and confidentiality.
-Suggested filename: reebok-slide-02-campaign-blueprint.png
-Upload the image to the images/ directory, then replace this comment with:
-![Holiday 2016 — campaign strategy and creative blueprint](images/reebok-slide-02-campaign-blueprint.png)
--->
-
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_13.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
-
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_30.jpg)
 ---
 
 <a id="03-workflow-improvement--production-coordination"></a>
