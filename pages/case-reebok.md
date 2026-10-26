@@ -3,7 +3,7 @@
 **Global Ecommerce Creative Production**  
 *Campaign Delivery · Creative Operations · Workflow Improvement*
 
-**adidas HQ, Amsterdam | July 2015 – August 2018**
+**adidas HQ, Amsterdam | July 2015 – November 2018**
 
 My work at Adidas group has included certain responsiblities and operational qualities that led the Reebok's creative team to be a strategic partner rather than execution department in the company.
 
@@ -57,7 +57,9 @@ This required balancing creative quality with practical production needs: clear 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_30.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_05.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_06.jpg)
+
 ---
 
 <a id="03-workflow-improvement--production-coordination"></a>
