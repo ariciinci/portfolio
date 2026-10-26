@@ -36,10 +36,6 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 **My focus:** making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
-
-<a id="02-creative-production--campaign-delivery"></a>
 
 ## 02 — Creative Production & Campaign Delivery
 
@@ -60,6 +56,10 @@ Upload the image to the images/ directory, then replace this comment with:
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+
+<a id="02-creative-production--campaign-delivery"></a>
 ---
 
 <a id="03-workflow-improvement--production-coordination"></a>
