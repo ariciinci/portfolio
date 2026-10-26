@@ -7,7 +7,7 @@
 
 I combined hands-on creative expertise with global ecommerce campaign delivery and workflow improvement for Reebok within adidas Group. Working with Creative, Marketing, Production, UX/CX, regional teams and external partners, I helped translate campaign direction into digital creative assets and clearer production processes across international markets.
 
-This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with the Holiday 2016 campaign as a featured example.
+This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
 
 ---
 
@@ -35,7 +35,10 @@ My role combined creative development and delivery with coordination across stak
 I worked closely with the Producer and the wider team. Responsibilities were shared, as follows: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
 
 **My focus:** making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets.
-
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+---
+<a id="02-creative-production--campaign-delivery"></a>
 
 ## 02 — Creative Production & Campaign Delivery
 
@@ -59,7 +62,6 @@ The campaign blueprint helped connect the creative concept with the requirements
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 
-<a id="02-creative-production--campaign-delivery"></a>
 ---
 
 <a id="03-workflow-improvement--production-coordination"></a>
@@ -82,7 +84,8 @@ Upload the image to the images/ directory, then replace this comment with:
 -->
 
 The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process.
-
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 ---
 
 <a id="04-global-collaboration-localisation--quality"></a>
@@ -113,6 +116,8 @@ Localisation required attention to visual consistency, image quality, brand requ
 
 I also worked with UX/CX and Analytics colleagues to share campaign learnings and creative considerations that could inform future work. Analytics information was provided by the relevant team; I did not own campaign KPIs or claim that creative changes alone caused business performance outcomes.
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 ---
 
 <a id="05-featured-campaign-holiday-2016"></a>
@@ -134,6 +139,8 @@ The selected outputs demonstrate how the campaign's creative direction was appli
 
 The aim is to show the relationship between the campaign concept, the creative execution and the practical requirements of multi-channel delivery.
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 ---
 
 <a id="06-outcomes--professional-contribution"></a>
@@ -165,3 +172,7 @@ The work also reflects the direction in which my responsibilities developed: fro
 - **International ecommerce:** supporting creative delivery across multiple regions, channels and language requirements.
 
 The common thread is the connection between creative quality and reliable delivery: helping teams produce work that is not only visually strong, but also clear to brief, practical to produce and consistent across markets.
+
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+---
