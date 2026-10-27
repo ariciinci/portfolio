@@ -138,7 +138,6 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_36.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/2015Dec-Nov-GCT_LARGE_EOSS.jpg)
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
