@@ -123,13 +123,6 @@ The Holiday 2016 campaign provides a concrete example of this work. It used a ph
 
 My contribution connected creative direction, campaign documentation, agency collaboration and asset review. The campaign illustrates how I worked across the creative and delivery stages rather than focusing on design in isolation.
 
-<!-- SLIDE 6 — SELECTED CAMPAIGN OUTPUTS
-Create one compact gallery from approved, existing Holiday 2016 campaign assets.
-Suggested filename: reebok-slide-06-campaign-outputs.png
-Upload the image to the images/ directory, then replace this comment with:
-![Holiday 2016 — selected ecommerce, email and digital campaign outputs](images/reebok-slide-06-campaign-outputs.png)
--->
-
 The selected outputs demonstrate how the campaign's creative direction was applied across different digital formats. The gallery should focus on a small number of clear examples rather than attempting to show every deliverable.
 
 The aim is to show the relationship between the campaign concept, the creative execution and the practical requirements of multi-channel delivery.
@@ -137,6 +130,8 @@ The aim is to show the relationship between the campaign concept, the creative e
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p3.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p4.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p5.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p25.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p17.jpg)
 
 ---
 
