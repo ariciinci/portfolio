@@ -40,6 +40,8 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 #### Making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local markets of Reebok. #### 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_29.jpg)
+
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
 ---
 <a id="02-creative-production--campaign-delivery"></a>
 
@@ -55,12 +57,11 @@ This required balancing creative quality with practical production needs: clear 
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_05.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_06.jpg)
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-09.jpg)
+
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-11.jpg)
 ---
-
 <a id="03-workflow-improvement--production-coordination"></a>
 
 ## 03 — Workflow Improvement & Production Coordination
