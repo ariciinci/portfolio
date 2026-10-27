@@ -2,6 +2,7 @@
 
 **Global Ecommerce Creative Production**  
 *Campaign Delivery · Creative Operations · Workflow Improvement*
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Presentation-Campaign-Newsletters-Short.jpg)
 
 **adidas HQ, Amsterdam | July 2015 – November 2018**
 
@@ -173,4 +174,3 @@ The common thread is the connection between creative quality and reliable delive
 
 
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Presentation-Campaign-Newsletters-Short.jpg)
