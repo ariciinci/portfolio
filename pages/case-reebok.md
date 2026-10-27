@@ -143,6 +143,8 @@ My contribution helped support a more structured approach to creative delivery, 
 
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p17.jpg)
+
 <!-- SLIDE 7 — WORKFLOW IMPROVEMENTS
 Redesign the existing before/after slide to show the challenges and your contributions.
 Suggested filename: reebok-slide-07-workflow-improvements.png
@@ -168,3 +170,7 @@ The common thread is the connection between creative quality and reliable delive
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 ---
+
+
+
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Presentation-Campaign-Newsletters-Short.jpg)
