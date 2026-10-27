@@ -73,16 +73,7 @@ The goal was to make requirements easier to understand, feedback more actionable
 
 These improvements were collaborative rather than the work of a single person. My contribution combined hands-on creative experience with identifying where better documentation, communication and alignment could support the team's delivery.
 
-<!-- SLIDE 3 — CAMPAIGN DELIVERY WORKFLOW
-Create the redesigned six-stage workflow slide.
-Suggested filename: reebok-slide-03-delivery-workflow.png
-Upload the image to the images/ directory, then replace this comment with:
-![Campaign delivery — from brief to live](images/reebok-slide-03-delivery-workflow.png)
--->
-
-The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process.
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
+#### The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process. ####
 ---
 
 <a id="04-global-collaboration-localisation--quality"></a>
