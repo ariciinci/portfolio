@@ -55,7 +55,7 @@ This required balancing creative quality with practical production needs: clear 
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-11.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-09.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
 ---
 <a id="03-workflow-improvement--production-coordination"></a>
