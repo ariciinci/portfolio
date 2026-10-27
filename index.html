@@ -30,6 +30,7 @@
     --max:1440px;
     --pad:clamp(20px,3vw,56px);
     --notch:10px;             /* clipped corner on black buttons */
+    --measure:70ch;           /* text column width: images scale down to this */
     --font:'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     --font-display:'Inter Tight', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
@@ -129,7 +130,7 @@
     font-family:var(--font); font-size:12px; font-weight:600; text-transform:uppercase;
     letter-spacing:0.2em; color:var(--ink); margin:32px 0 8px;
   }
-  .prose p{margin:0 0 18px; color:var(--ink-soft); max-width:70ch; font-weight:300;}
+  .prose p{margin:0 0 18px; color:var(--ink-soft); max-width:var(--measure); font-weight:300;}
   .prose strong{color:var(--ink); font-weight:500;}
   .prose ul, .prose ol{margin:0 0 20px; padding-left:20px; color:var(--ink-soft); max-width:68ch;}
   .prose li{margin-bottom:8px;}
@@ -159,23 +160,29 @@
     letter-spacing:0.3em; line-height:1.4;
     color:var(--ink-faint); margin:0; padding:6px 0 0; border:none;
   }
+  .prose .sec-body{--measure:64ch;}   /* narrower text column in sections layout; images follow it */
   .prose .sec-body > :first-child{margin-top:0;}
   .prose .sec-body > :last-child{margin-bottom:0;}
-  .prose .sec-body p{max-width:64ch;}
+  .prose .sec-body p{max-width:var(--measure);}
   @media (max-width:760px){
     .prose .sec-row{grid-template-columns:1fr; gap:14px; padding:32px 0;}
   }
 
-  /* ---------- Images: square, borderless, on a pale panel while loading ---------- */
+  /* ---------- Images: scaled down automatically to the paragraph width ----------
+     Any image wider than the text column shrinks to it (aspect ratio kept);
+     smaller images keep their natural size. The size classes can only make
+     an image narrower than the text column, never wider. */
   .prose img{
-    max-width:100%; height:auto; display:block;
+    width:auto; height:auto;
+    max-width:min(100%, var(--measure));
+    display:block;
     margin:32px 0; border:none; border-radius:0; background:var(--paper-alt);
   }
-  .prose img.img-small{max-width:320px;}
-  .prose img.img-medium{max-width:520px;}
-  .prose img.img-full{max-width:100%;}
+  .prose img.img-small{max-width:min(100%, 320px, var(--measure));}
+  .prose img.img-medium{max-width:min(100%, 520px, var(--measure));}
+  .prose img.img-full{max-width:min(100%, var(--measure));}
   .prose img.img-center{margin-left:auto; margin-right:auto;}
-  .prose figure{margin:32px 0;}
+  .prose figure{margin:32px 0; max-width:var(--measure);}
   .prose figure img{margin:0 0 12px;}
   .prose figcaption{
     font-size:11px; color:var(--ink-faint); font-style:normal; font-weight:500;
