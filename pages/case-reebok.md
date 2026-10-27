@@ -135,6 +135,8 @@ The selected outputs demonstrate how the campaign's creative direction was appli
 The aim is to show the relationship between the campaign concept, the creative execution and the practical requirements of multi-channel delivery.
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p3.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p4.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p5.jpg)
 
 ---
 
