@@ -171,7 +171,6 @@ The work also reflects the direction in which my responsibilities developed: fro
 
 The common thread is the connection between creative quality and reliable delivery: helping teams produce work that is not only visually strong, but also clear to brief, practical to produce and consistent across markets.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
 ---
 
 
