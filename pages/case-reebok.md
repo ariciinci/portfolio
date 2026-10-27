@@ -89,7 +89,7 @@ International delivery required collaboration across regional marketing teams, e
 I contributed by improving the clarity of briefs and supporting documentation, reviewing design and brand consistency, and checking localised creative assets. Copy approval and the operational coordination of localisation involved other team members and stakeholders; my role focused on the creative and visual requirements.
 
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_15.jpg)
 
 <!-- SLIDE 4 — STAKEHOLDER COLLABORATION
 Use the existing stakeholder collaboration slide, simplified to make the key relationships clear.
