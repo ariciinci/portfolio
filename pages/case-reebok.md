@@ -140,11 +140,14 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 ## 06 — Outcomes & Professional Contribution
 
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p17.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/2015Dec-Nov-GCT_LARGE_EOSS.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/2015Dec-Nov-GCT_LARGE_P08.jpg)
+ 
 
 <!-- SLIDE 7 — WORKFLOW IMPROVEMENTS
 Redesign the existing before/after slide to show the challenges and your contributions.
@@ -170,6 +173,5 @@ The common thread is the connection between creative quality and reliable delive
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
 ---
-
 
 
