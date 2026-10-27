@@ -40,7 +40,6 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 #### Making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local markets of Reebok. #### 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_29.jpg)
-
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
 ---
 <a id="02-creative-production--campaign-delivery"></a>
