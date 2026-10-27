@@ -30,7 +30,9 @@
     --max:1440px;
     --pad:clamp(20px,3vw,56px);
     --notch:10px;             /* clipped corner on black buttons */
-    --measure:70ch;           /* text column width: text blocks and images are capped to this */
+    /* Text column width. Deliberately in rem (not ch): ch depends on the font size of the
+       element it is used on, so inside headings it became far wider than the paragraphs. */
+    --measure:44rem;
     --font:'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     --font-display:'Inter Tight', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
@@ -130,6 +132,10 @@
     font-family:var(--font); font-size:12px; font-weight:600; text-transform:uppercase;
     letter-spacing:0.2em; color:var(--ink); margin:32px 0 8px;
   }
+  .prose h4{
+    font-family:var(--font); font-size:16px; font-weight:500; line-height:1.7;
+    color:var(--ink); margin:0 0 18px;
+  }
   .prose p{margin:0 0 18px; color:var(--ink-soft); font-weight:300;}
   .prose strong{color:var(--ink); font-weight:500;}
   .prose ul, .prose ol{margin:0 0 20px; padding-left:20px; color:var(--ink-soft);}
@@ -148,10 +154,10 @@
   .prose a{text-decoration:none; border-bottom:1px solid var(--smoke); padding-bottom:1px; font-weight:400;}
   .prose a:hover{border-bottom-color:var(--ink); color:var(--ink);}
 
-  /* ---------- One text column: every block (and image) stays within the paragraph width ----------
-     !important is deliberate: pages often contain raw HTML with inline widths
-     (style="width:100%", max-width:none, etc.), which would otherwise break out of the column. */
-  .prose :is(p, div, blockquote, section, article, figure, ul, ol, pre, details, video, iframe):not(.sec-row){
+  /* ---------- One text column: body text and images share the same width ----------
+     Titles (h1, h2, h3) are NOT capped, only body content.
+     !important is deliberate: raw HTML in the markdown may carry inline widths. */
+  .prose :is(p, h4, h5, h6, div, blockquote, section, article, figure, ul, ol, pre, details, video, iframe):not(.sec-row):not(.sec-body){
     max-width:var(--measure) !important;
   }
 
@@ -167,17 +173,16 @@
     letter-spacing:0.3em; line-height:1.4;
     color:var(--ink-faint); margin:0; padding:6px 0 0; border:none;
   }
-  .prose .sec-body{--measure:64ch;}   /* narrower text column in sections layout; text and images follow it */
+  .prose .sec-body{--measure:38rem;}   /* narrower column in sections layout; text and images follow it */
   .prose .sec-body > :first-child{margin-top:0;}
   .prose .sec-body > :last-child{margin-bottom:0;}
   @media (max-width:760px){
     .prose .sec-row{grid-template-columns:1fr; gap:14px; padding:32px 0;}
   }
 
-  /* ---------- Images: always scaled down to the paragraph width ----------
+  /* ---------- Images: never wider than the paragraphs ----------
      Larger images shrink to the text column (aspect ratio kept); smaller images
-     keep their natural size. The size classes can only make an image narrower,
-     never wider than the text column. */
+     keep their natural size. Size classes can only make an image narrower. */
   .prose img{
     width:auto; height:auto !important;
     max-width:min(100%, var(--measure)) !important;
