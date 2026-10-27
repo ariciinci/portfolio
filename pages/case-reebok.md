@@ -74,6 +74,8 @@ These improvements were collaborative rather than the work of a single person. M
 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_31.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_32.jpg)
+
 ![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_page_05.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_Page_06.jpg)
 ---
