@@ -37,7 +37,7 @@ My role combined creative development and delivery with coordination across stak
 I worked closely with the Producer and the wider team. Responsibilities were shared, as follows: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
 
  My focus: 
-#### making sure that creative intent could be translated into clear, usable production requirements and delivered consistently across channels and markets #### 
+#### Making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local markets of Reebok. #### 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_29.jpg)
 ---
