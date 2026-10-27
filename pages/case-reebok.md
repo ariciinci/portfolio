@@ -56,8 +56,8 @@ This required balancing creative quality with practical production needs: clear 
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-09.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-11.jpg)
+(images/Ree-SiteCollate-170124-09.jpg)
+(images/Ree-SiteCollate-170124-11.jpg)
 ---
 <a id="03-workflow-improvement--production-coordination"></a>
 
@@ -73,8 +73,8 @@ These improvements were collaborative rather than the work of a single person. M
 
 #### The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process. ####
 
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_06.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER RUXANDRA_Page_06.jpg)
+(images/HANDOVER_RUXANDRA_Page_05.jpg)
+(images/HANDOVER_RUXANDRA_Page_06.jpg)
 ---
 
 <a id="04-global-collaboration-localisation--quality"></a>
