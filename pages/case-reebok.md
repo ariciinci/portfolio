@@ -73,6 +73,7 @@ These improvements were collaborative rather than the work of a single person. M
 #### The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process. ####
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16Holiday_phases.jpg)
+
 ![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_Page_06.jpg)
 ---
 
