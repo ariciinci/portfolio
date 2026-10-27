@@ -130,7 +130,7 @@ The aim is to show the relationship between the campaign concept, the creative e
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p3.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p4.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p5.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p25.jpg)
+![Global Ecommerce Creative Production — role and campaign scope](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p17.jpg)
 
 ---
