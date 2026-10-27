@@ -100,6 +100,9 @@ Upload the image to the images/ directory, then replace this comment with:
 
 Working across functions required shared understanding of the campaign direction, responsibilities, requirements and feedback. My contribution helped connect creative needs with the wider delivery process.
 
+
+![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
+
 <!-- SLIDE 5 — LOCALISATION & CREATIVE QA
 Use the existing localisation slide, revised to clarify the distinction between copy approval, operational coordination and creative quality review.
 Suggested filename: reebok-slide-05-localisation-qa.png
