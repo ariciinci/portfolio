@@ -105,10 +105,7 @@ Localisation required attention to visual consistency, image quality, brand requ
 
 I also worked with UX/CX and Analytics colleagues to share campaign learnings and creative considerations that could inform future work. Analytics information was provided by the relevant team; I did not own campaign KPIs or claim that creative changes alone caused business performance outcomes.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-IssuesImpacts_2124-section_3.png)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_Impacts_P02.jpg)
 ---
-
 <a id="05-featured-campaign-holiday-2016"></a>
 
 ## 05 — Featured Campaign: Holiday 2016
