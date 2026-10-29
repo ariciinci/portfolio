@@ -2,17 +2,37 @@
 
 **Global Ecommerce Creative Production**  
 *Campaign Delivery · Creative Operations · Workflow Improvement*
+
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Presentation-Campaign-Newsletters-Short.jpg)
 
 **adidas HQ, Amsterdam | July 2015 – November 2018**
 
-My work at Adidas group has included certain responsiblities and operational qualities that led the Reebok's creative team to be a strategic partner rather than execution department in the company.
+My work at adidas Group included responsibilities and operational contributions that helped position Reebok's Creative Team as a strategic partner rather than solely an execution department.
 
 I combined hands-on creative expertise with global ecommerce campaign delivery and workflow improvement for Reebok within adidas Group. Working with Creative, Marketing, Production, UX/CX, regional teams and external partners, I helped translate campaign direction into digital creative assets and clearer production processes across international markets.
 
 This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
 
-## 01 — Business Context & My Role
+---
+
+<a id="case-index"></a>
+
+## Explore this case study
+
+Choose a section to explore. Each link takes you directly to that part of the page.
+
+1. [Business Context & Creative Production Role](#business-context)
+2. [Global Campaign Delivery](#campaign-delivery)
+3. [Workflow Improvement & Production Coordination](#workflow-improvement)
+4. [International Collaboration & Localisation](#international-collaboration)
+5. [Featured Campaign: Holiday 2016](#holiday-campaign)
+6. [Operational Outcomes & Professional Contribution](#professional-outcomes)
+
+---
+
+<a id="business-context"></a>
+
+## 01 — Business Context & Creative Production Role
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
 
@@ -20,14 +40,19 @@ The work involved seasonal campaigns, product launches, commercial promotions an
 
 My role combined creative development and delivery with coordination across stakeholders, external agencies and freelancers. I contributed to creative direction, campaign documentation, production planning, brand consistency, workflow improvement and the development of clearer ways of working.
 
-I worked closely with the Producer and the wider team. Responsibilities were shared, as follows: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
+I worked closely with the Producer and the wider team. Responsibilities were shared: the Producer handled operational production coordination, while I contributed creative leadership, production requirements, agency direction and design and brand-quality reviews.
 
- My focus: 
-#### Making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local markets of Reebok. #### 
+**My focus:** making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local Reebok markets.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_29.jpg)
+![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
 
-## 02 — Creative Production & Campaign Delivery
+[↑ Back to index](#case-index)
+
+---
+
+<a id="campaign-delivery"></a>
+
+## 02 — Global Campaign Delivery
 
 Campaign delivery involved more than creating individual assets. Creative direction had to be translated into a coherent set of requirements, reviewed with stakeholders, prepared for production and adapted for different channels and markets.
 
@@ -39,8 +64,15 @@ This required balancing creative quality with practical production needs: clear 
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-09.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
+![Global ecommerce campaign overview](images/Ree-SiteCollate-170124-09.jpg)
+
+![Campaign requirements and cross-functional alignment](images/Reebok-Stack-Issues_Impacts_20.jpg)
+
+[↑ Back to index](#case-index)
+
+---
+
+<a id="workflow-improvement"></a>
 
 ## 03 — Workflow Improvement & Production Coordination
 
@@ -52,35 +84,43 @@ The goal was to make requirements easier to understand, feedback more actionable
 
 These improvements were collaborative rather than the work of a single person. My contribution combined hands-on creative experience with identifying where better documentation, communication and alignment could support the team's delivery.
 
-#### The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process. ####
+The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process.
 
+![Creative production workflow and delivery process](images/Reebok-Stack-Issues_Impacts_31.jpg)
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_31.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_32.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_page_05.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_Page_06.jpg)
+![Production coordination and process requirements](images/Reebok-Stack-Issues_Impacts_32.jpg)
 
+![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
+![Creative team handover and operational guidance](images/HANDOVER_RUXANDRA_Page_06.jpg)
 
-## 04 — Global Collaboration, Localisation & Quality
+[↑ Back to index](#case-index)
+
+---
+
+<a id="international-collaboration"></a>
+
+## 04 — International Collaboration & Localisation
 
 International delivery required collaboration across regional marketing teams, external partners and localisation workflows. Creative assets needed to preserve the campaign's visual direction while accommodating approved local copy and market requirements.
 
 I contributed by improving the clarity of briefs and supporting documentation, reviewing design and brand consistency, and checking localised creative assets. Copy approval and the operational coordination of localisation involved other team members and stakeholders; my role focused on the creative and visual requirements.
 
-
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_15.jpg)
-
+![International stakeholder collaboration](images/Reebok-Stack-Issues_Impacts_15.jpg)
 
 Working across functions required shared understanding of the campaign direction, responsibilities, requirements and feedback. My contribution helped connect creative needs with the wider delivery process.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
-
+![Cross-functional creative and production collaboration](images/Reebok-Stack-Issues_Impacts_33.jpg)
 
 Localisation required attention to visual consistency, image quality, brand requirements and the correct use of approved copy. Reviewing the visual output helped ensure that adaptations remained aligned with the campaign's creative direction.
 
 I also worked with UX/CX and Analytics colleagues to share campaign learnings and creative considerations that could inform future work. Analytics information was provided by the relevant team; I did not own campaign KPIs or claim that creative changes alone caused business performance outcomes.
 
+[↑ Back to index](#case-index)
+
+---
+
+<a id="holiday-campaign"></a>
 
 ## 05 — Featured Campaign: Holiday 2016
 
@@ -92,23 +132,29 @@ The selected outputs demonstrate how the campaign's creative direction was appli
 
 The aim is to show the relationship between the campaign concept, the creative execution and the practical requirements of multi-channel delivery.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p3.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p4.jpg)
-![Global Ecommerce Creative Production — role and campaign scope](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
+![Holiday 2016 campaign guidelines](images/Ree_FW16-HolidayCampaign-p3.jpg)
 
-## 06 — Outcomes & Professional Contribution
+![Holiday 2016 campaign creative direction](images/Ree_FW16-HolidayCampaign-p4.jpg)
 
+![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
-![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_36.jpg)
+[↑ Back to index](#case-index)
+
+---
+
+<a id="professional-outcomes"></a>
+
+## 06 — Operational Outcomes & Professional Contribution
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
-![Global Ecommerce Creative Production — role and campaign scope](images/2015Dec-Nov-GCT_LARGE_P08.jpg)
-
+![Creative workflow improvement and operational impact](images/Reebok-Stack-Issues_Impacts_36.jpg)
 
 The focus was on making creative requirements easier to understand, feedback more structured and production knowledge easier to share. These changes supported the team's ability to work more consistently across campaigns and stakeholders.
+
+![Global commercial toolkit and creative production documentation](images/2015Dec-Nov-GCT_LARGE_P08.jpg)
 
 The work also reflects the direction in which my responsibilities developed: from hands-on creative execution towards a broader contribution to campaign delivery, collaboration and workflow improvement.
 
@@ -123,5 +169,4 @@ The work also reflects the direction in which my responsibilities developed: fro
 
 The common thread is the connection between creative quality and reliable delivery: helping teams produce work that is not only visually strong, but also clear to brief, practical to produce and consistent across markets.
 
-
-
+[↑ Back to index](#case-index)
