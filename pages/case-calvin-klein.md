@@ -1,8 +1,6 @@
 # CALVIN KLEIN
 ###### **<a href="javascript:void(0)" onclick="document.getElementById('the-assignment').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">THE ROLE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('eoss').scrollIntoView({behavior:'smooth'})">THE SCALE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-environment').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('across-the-digital-ecosystem').scrollIntoView({behavior:'smooth'})">THE OUTPUT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('from-brief-to-production').scrollIntoView({behavior:'smooth'})">THE WORKING METHOD</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('a-template-issue-during-production').scrollIntoView({behavior:'smooth'})">THE PRODUCTION JUDGEMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('beyond-eoss').scrollIntoView({behavior:'smooth'})">THE CAMPAIGNS</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('delivery').scrollIntoView({behavior:'smooth'})">THE HAND-OFF</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('working-independently').scrollIntoView({behavior:'smooth'})">THE EXPERIENCE</a>**
 
-
-
 <a id="the-assignment"></a>
 ## Digital Campaign Production
 
@@ -22,13 +20,7 @@ The assignment included **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Bo
 
 ---
 
-### [IMAGE PLACEHOLDER — HERO]
-
-**Suggested image:** Strongest EOSS desktop / landing-page layout.
-
-*Caption: EOSS — digital campaign production.*
-
-
+![Short description of the image](images/Ck_Campaigns.jpg)
 
 <a id="the-role"></a>
 ## The role
