@@ -67,7 +67,7 @@ This structure helped keep communication clear and reduced unnecessary noise aro
 ---
 
 <a id="from-brief-to-production"></a>
-# From brief to production
+## From brief to production
 
 ## Understanding before producing
 
