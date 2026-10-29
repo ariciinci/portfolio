@@ -37,7 +37,7 @@ That meant understanding what had already been provided, checking previous or ex
 The aim was to arrive at a clear question rather than simply saying that something was unclear.
 
 ![Short description of the image](images/CKS Exclusive Metallic_Module 3_W_Desktop_Layout.jpg) 
----
+
 
 ## Knowing where to take a question
 
@@ -57,9 +57,6 @@ This structure helped keep communication clear and reduced unnecessary noise aro
 
 ![Short description of the image](images/EoSS_Main_Extension_Layout_M_01_Products.jpg)
 ![Short description of the image](images/CKJ Spring Ex_Newsletter_Launch_DG_2_GIF.gif)
-
----
----
 
 ### [IMAGE PLACEHOLDER — WORKFLOW / PROJECT INFORMATION]
 
