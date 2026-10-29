@@ -19,16 +19,16 @@ This case study explores how I contributed to campaign delivery, creative qualit
 
 Choose a section to explore. Each link takes you directly to that part of the page.
 
-1. [Business Context & Creative Production Role](#business-context)
-2. [Global Campaign Delivery](#campaign-delivery)
-3. [Workflow Improvement & Production Coordination](#workflow-improvement)
-4. [International Collaboration & Localisation](#international-collaboration)
-5. [Featured Campaign: Holiday 2016](#holiday-campaign)
-6. [Operational Outcomes & Professional Contribution](#professional-outcomes)
+1. <a href="javascript:void(0)" onclick="document.getElementById('business-context').scrollIntoView({behavior:'smooth',block:'start'});return false;">The assignment</a>
+2. <a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth',block:'start'});return false;">The delivery</a>
+3. <a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth',block:'start'});return false;">The workflow</a>
+4. <a href="javascript:void(0)" onclick="document.getElementById('international-collaboration').scrollIntoView({behavior:'smooth',block:'start'});return false;">The environment</a>
+5. <a href="javascript:void(0)" onclick="document.getElementById('holiday-campaign').scrollIntoView({behavior:'smooth',block:'start'});return false;">The campaign</a>
+6. <a href="javascript:void(0)" onclick="document.getElementById('professional-outcomes').scrollIntoView({behavior:'smooth',block:'start'});return false;">The outcome</a>
 
 ---
 
-<h2 id="business-context">01 — Business Context & Creative Production Role</h2>
+<h2 id="business-context">The assignment</h2>
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
 
@@ -42,11 +42,11 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 ![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
-<h2 id="campaign-delivery">02 — Global Campaign Delivery</h2>
+<h2 id="campaign-delivery">The delivery</h2>
 
 Campaign delivery involved more than creating individual assets. Creative direction had to be translated into a coherent set of requirements, reviewed with stakeholders, prepared for production and adapted for different channels and markets.
 
@@ -62,11 +62,11 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 ![Campaign requirements and cross-functional alignment](images/Reebok-Stack-Issues_Impacts_20.jpg)
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
-<h2 id="workflow-improvement">03 — Workflow Improvement & Production Coordination</h2>
+<h2 id="workflow-improvement">The workflow</h2>
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
 
@@ -86,11 +86,11 @@ The workflow illustrates the stages involved in translating a brief into campaig
 
 ![Creative team handover and operational guidance](images/HANDOVER_RUXANDRA_Page_06.jpg)
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
-<h2 id="international-collaboration">04 — International Collaboration & Localisation</h2>
+<h2 id="international-collaboration">The environment</h2>
 
 International delivery required collaboration across regional marketing teams, external partners and localisation workflows. Creative assets needed to preserve the campaign's visual direction while accommodating approved local copy and market requirements.
 
@@ -106,11 +106,11 @@ Localisation required attention to visual consistency, image quality, brand requ
 
 I also worked with UX/CX and Analytics colleagues to share campaign learnings and creative considerations that could inform future work. Analytics information was provided by the relevant team; I did not own campaign KPIs or claim that creative changes alone caused business performance outcomes.
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
-<h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
+<h2 id="holiday-campaign">The campaign</h2>
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
 
@@ -126,11 +126,11 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 ![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
-<h2 id="professional-outcomes">06 — Operational Outcomes & Professional Contribution</h2>
+<h2 id="professional-outcomes">The outcome</h2>
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
@@ -155,4 +155,4 @@ The work also reflects the direction in which my responsibilities developed: fro
 
 The common thread is the connection between creative quality and reliable delivery: helping teams produce work that is not only visually strong, but also clear to brief, practical to produce and consistent across markets.
 
-[↑ Back to index](#case-index)
+<a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
