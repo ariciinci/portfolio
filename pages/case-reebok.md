@@ -17,7 +17,7 @@ This case study explores how I contributed to campaign delivery, creative qualit
 
 ---
 
-<h2 id="business-context">The assignment</h2>
+<h2 id="business-context">01 — Business Context & Creative Production Role</h2>
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
 
@@ -35,7 +35,7 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 ---
 
-<h2 id="campaign-delivery">The delivery</h2>
+<h2 id="campaign-delivery">02 — Global Campaign Delivery</h2>
 
 Campaign delivery involved more than creating individual assets. Creative direction had to be translated into a coherent set of requirements, reviewed with stakeholders, prepared for production and adapted for different channels and markets.
 
@@ -55,7 +55,7 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 ---
 
-<h2 id="workflow-improvement">The workflow</h2>
+<h2 id="workflow-improvement">03 — Workflow Improvement & Production Coordination</h2>
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
 
@@ -79,7 +79,7 @@ The workflow illustrates the stages involved in translating a brief into campaig
 
 ---
 
-<h2 id="international-collaboration">The environment</h2>
+<h2 id="international-collaboration">04 — International Collaboration & Localisation</h2>
 
 International delivery required collaboration across regional marketing teams, external partners and localisation workflows. Creative assets needed to preserve the campaign's visual direction while accommodating approved local copy and market requirements.
 
@@ -99,7 +99,7 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 
 ---
 
-<h2 id="holiday-campaign">The campaign</h2>
+<h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
 
@@ -119,7 +119,7 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 ---
 
-<h2 id="professional-outcomes">The outcome</h2>
+<h2 id="professional-outcomes">06 — Operational Outcomes & Professional Contribution</h2>
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
