@@ -36,7 +36,7 @@ That meant understanding what had already been provided, checking previous or ex
 
 The aim was to arrive at a clear question rather than simply saying that something was unclear.
 
-![Short description of the image](images/CKS Exclusive Metallic_Module 3_W_Desktop_Layout.jpg) 
+![Short description of the image](images/CKS_Exclusive_Metallic_Module 3_W_Desktop_Layout.jpg) 
 
 
 ## Knowing where to take a question
