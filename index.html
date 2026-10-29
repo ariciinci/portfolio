@@ -154,6 +154,9 @@
   .prose a{text-decoration:none; border-bottom:1px solid var(--smoke); padding-bottom:1px; font-weight:400;}
   .prose a:hover{border-bottom-color:var(--ink); color:var(--ink);}
 
+  /* In-page jump targets: stop just below the sticky header instead of hiding behind it */
+  .prose [id]{scroll-margin-top:110px;}
+
   /* ---------- One text column: body text and images share the same width ----------
      Titles (h1, h2, h3) are NOT capped, only body content.
      !important is deliberate: raw HTML in the markdown may carry inline widths. */
@@ -250,7 +253,9 @@
   </div>
 </footer>
 
-<a id="case-index-back-btn" href="javascript:void(0)" onclick="window.scrollTo({top:0, behavior:'smooth'})"
+<!-- Sticky "↑ Index" button: jumps to the #case-index heading if the page has one, otherwise to the top -->
+<a id="case-index-back-btn" href="javascript:void(0)"
+   onclick="var t=document.getElementById('case-index'); if(t){t.scrollIntoView({behavior:'smooth',block:'start'});}else{window.scrollTo({top:0,behavior:'smooth'});} return false;"
    style="position:fixed; bottom:24px; z-index:999; background:#111111; color:#FFFFFF; padding:10px 18px; border-radius:0; font-size:13px; text-decoration:none; font-family:inherit; display:none;">
   ↑ Index
 </a>
@@ -393,6 +398,22 @@
   }
 
   window.addEventListener('hashchange', function(){ renderPage(currentSlug()); });
+
+  // In-page links inside any markdown page, e.g. [Section](#my-section).
+  // The site uses #/slug for page routing, so a plain #my-section would be read as a
+  // page and show "Page not found". Intercept those clicks, scroll to the element with
+  // that id on the current page, and leave the URL hash alone.
+  content.addEventListener('click', function(e){
+    var a = e.target.closest ? e.target.closest('a[href^="#"]') : null;
+    if(!a) return;
+    var href = a.getAttribute('href');
+    if(href.indexOf('#/') === 0 || href === '#') return;   // real page routes pass through untouched
+    var id = decodeURIComponent(href.slice(1));
+    var target = document.getElementById(id);
+    if(!target) return;
+    e.preventDefault();
+    target.scrollIntoView({behavior:'smooth', block:'start'});
+  });
 
   document.querySelector('.name').addEventListener('click', function(){
     window.location.hash = '#/home';
