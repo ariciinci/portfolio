@@ -12,21 +12,6 @@ I combined hands-on creative expertise with global ecommerce campaign delivery a
 
 This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
 
----
-
-## Index
-
-1. [Business Context & My Role — Slide 1](#01-business-context--my-role)
-2. [Creative Production & Campaign Delivery — Slide 2](#02-creative-production--campaign-delivery)
-3. [Workflow Improvement & Production Coordination — Slide 3](#03-workflow-improvement--production-coordination)
-4. [Global Collaboration, Localisation & Quality — Slides 4–5](#04-global-collaboration-localisation--quality)
-5. [Featured Campaign: Holiday 2016 — Slide 6](#05-featured-campaign-holiday-2016)
-6. [Outcomes & Professional Contribution — Slide 7](#06-outcomes--professional-contribution)
-
----
-
-<a id="01-business-context--my-role"></a>
-
 ## 01 — Business Context & My Role
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
@@ -41,8 +26,6 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 #### Making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local markets of Reebok. #### 
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_29.jpg)
----
-<a id="02-creative-production--campaign-delivery"></a>
 
 ## 02 — Creative Production & Campaign Delivery
 
@@ -58,8 +41,6 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree-SiteCollate-170124-09.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_20.jpg)
----
-<a id="03-workflow-improvement--production-coordination"></a>
 
 ## 03 — Workflow Improvement & Production Coordination
 
@@ -76,12 +57,10 @@ These improvements were collaborative rather than the work of a single person. M
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_31.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_32.jpg)
-
 ![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_page_05.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/HANDOVER_RUXANDRA_Page_06.jpg)
----
 
-<a id="04-global-collaboration-localisation--quality"></a>
+
 
 ## 04 — Global Collaboration, Localisation & Quality
 
@@ -92,30 +71,16 @@ I contributed by improving the clarity of briefs and supporting documentation, r
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_15.jpg)
 
-<!-- SLIDE 4 — STAKEHOLDER COLLABORATION
-Use the existing stakeholder collaboration slide, simplified to make the key relationships clear.
-Suggested filename: reebok-slide-04-stakeholder-collaboration.png
-Upload the image to the images/ directory, then replace this comment with:
-![Stakeholder collaboration across creative production](images/reebok-slide-04-stakeholder-collaboration.png)
--->
 
 Working across functions required shared understanding of the campaign direction, responsibilities, requirements and feedback. My contribution helped connect creative needs with the wider delivery process.
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/Reebok-Stack-Issues_Impacts_33.jpg)
 
-<!-- SLIDE 5 — LOCALISATION & CREATIVE QA
-Use the existing localisation slide, revised to clarify the distinction between copy approval, operational coordination and creative quality review.
-Suggested filename: reebok-slide-05-localisation-qa.png
-Upload the image to the images/ directory, then replace this comment with:
-![Localisation workflow and creative quality review](images/reebok-slide-05-localisation-qa.png)
--->
 
 Localisation required attention to visual consistency, image quality, brand requirements and the correct use of approved copy. Reviewing the visual output helped ensure that adaptations remained aligned with the campaign's creative direction.
 
 I also worked with UX/CX and Analytics colleagues to share campaign learnings and creative considerations that could inform future work. Analytics information was provided by the relevant team; I did not own campaign KPIs or claim that creative changes alone caused business performance outcomes.
 
----
-<a id="05-featured-campaign-holiday-2016"></a>
 
 ## 05 — Featured Campaign: Holiday 2016
 
@@ -130,9 +95,6 @@ The aim is to show the relationship between the campaign concept, the creative e
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p3.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/Ree_FW16-HolidayCampaign-p4.jpg)
 ![Global Ecommerce Creative Production — role and campaign scope](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
----
-
-<a id="06-outcomes--professional-contribution"></a>
 
 ## 06 — Outcomes & Professional Contribution
 
@@ -144,14 +106,7 @@ My contribution helped support a more structured approach to creative delivery, 
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
 ![Global Ecommerce Creative Production — role and campaign scope](images/2015Dec-Nov-GCT_LARGE_P08.jpg)
- 
 
-<!-- SLIDE 7 — WORKFLOW IMPROVEMENTS
-Redesign the existing before/after slide to show the challenges and your contributions.
-Suggested filename: reebok-slide-07-workflow-improvements.png
-Upload the image to the images/ directory, then replace this comment with:
-![Workflow improvements — challenges and contributions](images/reebok-slide-07-workflow-improvements.png)
--->
 
 The focus was on making creative requirements easier to understand, feedback more structured and production knowledge easier to share. These changes supported the team's ability to work more consistently across campaigns and stakeholders.
 
@@ -168,6 +123,5 @@ The work also reflects the direction in which my responsibilities developed: fro
 
 The common thread is the connection between creative quality and reliable delivery: helping teams produce work that is not only visually strong, but also clear to brief, practical to produce and consistent across markets.
 
----
 
 
