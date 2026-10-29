@@ -1,4 +1,6 @@
+<a id="case-index"></a>
 # REEBOK
+###### **<a href="javascript:void(0)" onclick="document.getElementById('business-context').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth'})">THE DELIVERY</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth'})">THE WORKFLOW</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('international-collaboration').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('holiday-campaign').scrollIntoView({behavior:'smooth'})">THE CAMPAIGN</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('professional-outcomes').scrollIntoView({behavior:'smooth'})">THE OUTCOME</a>**
 
 **Global Ecommerce Creative Production**  
 *Campaign Delivery · Creative Operations · Workflow Improvement*
@@ -12,19 +14,6 @@ My work at adidas Group included responsibilities and operational contributions 
 I combined hands-on creative expertise with global ecommerce campaign delivery and workflow improvement for Reebok within adidas Group. Working with Creative, Marketing, Production, UX/CX, regional teams and external partners, I helped translate campaign direction into digital creative assets and clearer production processes across international markets.
 
 This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
-
----
-
-<h2 id="case-index">Explore this case study</h2>
-
-Choose a section to explore. Each link takes you directly to that part of the page.
-
-1. <a href="javascript:void(0)" onclick="document.getElementById('business-context').scrollIntoView({behavior:'smooth',block:'start'});return false;">The assignment</a>
-2. <a href="javascript:void(0)" onclick="document.getElementById('campaign-delivery').scrollIntoView({behavior:'smooth',block:'start'});return false;">The delivery</a>
-3. <a href="javascript:void(0)" onclick="document.getElementById('workflow-improvement').scrollIntoView({behavior:'smooth',block:'start'});return false;">The workflow</a>
-4. <a href="javascript:void(0)" onclick="document.getElementById('international-collaboration').scrollIntoView({behavior:'smooth',block:'start'});return false;">The environment</a>
-5. <a href="javascript:void(0)" onclick="document.getElementById('holiday-campaign').scrollIntoView({behavior:'smooth',block:'start'});return false;">The campaign</a>
-6. <a href="javascript:void(0)" onclick="document.getElementById('professional-outcomes').scrollIntoView({behavior:'smooth',block:'start'});return false;">The outcome</a>
 
 ---
 
