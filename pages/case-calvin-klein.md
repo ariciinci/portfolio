@@ -69,7 +69,7 @@ This structure helped keep communication clear and reduced unnecessary noise aro
 <a id="from-brief-to-production"></a>
 ## From brief to production
 
-## Understanding before producing
+### Understanding before producing
 
 Once the brief and supporting materials were understood, I worked through the requested outputs and checked the relevant requirements.
 
@@ -91,7 +91,7 @@ When information changed, it was important to recognise whether that change affe
 
 ---
 
-## Working with the creative lead
+### Working with the creative lead
 
 Before work moved further into the review process, I would first make sure the production was complete against the brief and relevant requirements.
 
@@ -114,9 +114,9 @@ That internal creative alignment was an important part of the process.
 ---
 
 <a id="production-environment"></a>
-# Production environment
+## Production environment
 
-## Existing templates, automation and production methods
+### Existing templates, automation and production methods
 
 Calvin Klein already had a mature digital production setup.
 
@@ -141,9 +141,9 @@ For me, the important part was learning the system quickly enough to work within
 ---
 
 <a id="eoss"></a>
-# EOSS
+## EOSS
 
-## 300+ assets in approximately two weeks
+### 300+ assets in approximately two weeks
 
 EOSS — End of Season Sale — was the clearest example of production volume during the assignment.
 
@@ -167,7 +167,7 @@ Each stage introduced new requirements while the campaign still needed to feel l
 
 ---
 
-# A campaign that kept changing
+## A campaign that kept changing
 
 The EOSS layouts show the campaign at different points in its lifecycle.
 
@@ -190,7 +190,7 @@ That meant adapting approved campaign material into the formats required at each
 ---
 
 <a id="across-the-digital-ecosystem"></a>
-# Across the digital ecosystem
+## Across the digital ecosystem
 
 The same campaign also needed to work across different placements.
 
@@ -219,7 +219,7 @@ The production work was therefore about finding the right adaptation for each ou
 
 ---
 
-# Production at volume
+## Production at volume
 
 The scale of EOSS meant that organisation and prioritisation were important.
 
@@ -235,7 +235,7 @@ That gave the producer/PM a clearer picture of production capacity and allowed p
 
 ---
 
-# Staying on top of changing information
+## Staying on top of changing information
 
 In a live campaign environment, the information you start with isn't necessarily the information you finish with.
 
@@ -257,9 +257,9 @@ If a change introduced additional work, it was important that this was visible t
 
 ---
 
-# Quality assurance
+## Quality assurance
 
-## The check before the hand-off
+### The check before the hand-off
 
 QA was part of the production process.
 
@@ -294,9 +294,9 @@ The asset needed to be **ready for the next person in the process**.
 ---
 
 <a id="a-template-issue-during-production"></a>
-# A template issue during production
+## A template issue during production
 
-## When an existing template no longer matched the requirements
+### When an existing template no longer matched the requirements
 
 During production, I noticed that some existing social-media templates were following outdated platform requirements.
 
@@ -323,25 +323,25 @@ It was a relatively small issue, but it was a useful example of the kind of judg
 ---
 
 <a id="beyond-eoss"></a>
-# Beyond EOSS
+## Beyond EOSS
 
-## Other campaign activations
+### Other campaign activations
 
 EOSS was the largest production assignment during the placement, but I also worked across several other Calvin Klein campaigns.
 
-### CK Jeans Spring
+#### CK Jeans Spring
 
 Digital campaign assets across landing pages, email and supporting campaign formats.
 
-### June Refresh
+#### June Refresh
 
 Digital campaign asset production.
 
-### CK Pride Photo Booth
+#### CK Pride Photo Booth
 
 Digital campaign asset production.
 
-### Geofencing Local Pride Moments
+#### Geofencing Local Pride Moments
 
 Digital campaign asset production.
 
@@ -349,7 +349,7 @@ The work varied from campaign to campaign, but the working principle remained co
 
 ---
 
-### [IMAGE PLACEHOLDER — CK JEANS SPRING]
+#### [IMAGE PLACEHOLDER — CK JEANS SPRING]
 
 **Suggested images:** Desktop landing page + mobile landing page + newsletter.
 
@@ -357,7 +357,7 @@ The work varied from campaign to campaign, but the working principle remained co
 
 ---
 
-### [IMAGE PLACEHOLDER — OTHER CAMPAIGNS]
+#### [IMAGE PLACEHOLDER — OTHER CAMPAIGNS]
 
 **Suggested visual:** Compact grid representing June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments.
 
@@ -366,9 +366,9 @@ The work varied from campaign to campaign, but the working principle remained co
 ---
 
 <a id="working-independently"></a>
-# Working independently
+## Working independently
 
-## Knowing when to take ownership — and when to align
+### Knowing when to take ownership — and when to align
 
 The team was able to give me work independently because I was used to adapting quickly to new working environments and learning technical platforms and preferred software.
 
@@ -383,9 +383,9 @@ That distinction helped me work independently without creating unnecessary commu
 ---
 
 <a id="delivery"></a>
-# Delivery
+## Delivery
 
-## Getting the assets ready for the next stage
+### Getting the assets ready for the next stage
 
 Once the work had gone through the relevant internal review and sign-off, the assets needed to be prepared for the next stage of the campaign.
 
@@ -415,7 +415,7 @@ The hand-off therefore looked roughly like:
 
 ---
 
-# What this experience demonstrates
+## What this experience demonstrates
 
 Calvin Klein was a short assignment, but it gave me a useful view of working inside an established global creative and production environment.
 
