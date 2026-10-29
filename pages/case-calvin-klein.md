@@ -67,9 +67,9 @@ This structure helped keep communication clear and reduced unnecessary noise aro
 ---
 
 <a id="from-brief-to-production"></a>
-## From brief to production
+# From brief to production
 
-### Understanding before producing
+## Understanding before producing
 
 Once the brief and supporting materials were understood, I worked through the requested outputs and checked the relevant requirements.
 
