@@ -17,7 +17,7 @@ This case study explores how I produced at volume inside an established system, 
 
 ---
 
-<h2 id="the-assignment">01 — The Assignment: Working Inside an Established Global Creative Environment</h2>
+<h2 id="the-assignment"> The Assignment: Working Inside an Established Global Creative Environment</h2>
 
 The assignment was to become productive quickly in a global creative environment that already had its own rules. Briefs identified the assets required for each activation, and the supporting materials, existing campaign assets and templates provided the starting point for production.
 
@@ -31,7 +31,7 @@ The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and
 
 ---
 
-<h2 id="the-role">02 — The Role: Producing Within an Existing System</h2>
+<h2 id="the-role"> The Role: Producing Within an Existing System</h2>
 
 The work started with understanding what had already been established. Before beginning, I made sure I had read the brief and all of the supplied resources carefully. If something wasn't clear, I first investigated it myself rather than immediately passing the question on.
 
@@ -53,7 +53,7 @@ The exception was practical: if a link was broken, a file was missing or somethi
 
 ---
 
-<h2 id="working-method">03 — From Brief to Production</h2>
+<h2 id="working-method"> From Brief to Production</h2>
 
 Once the brief and supporting materials were understood, I worked through the requested outputs and checked the relevant requirements. The process was not simply a matter of opening a template and exporting files. I needed to understand:
 
@@ -77,7 +77,7 @@ I worked within Calvin Klein's project-management environment in Wrike and used 
 
 ---
 
-<h2 id="production-environment">04 — Production Environment: Templates, Automation & Methods</h2>
+<h2 id="production-environment"> Production Environment: Templates, Automation & Methods</h2>
 
 Calvin Klein already had a mature digital production setup. I worked with established templates and production methods, including **Adobe XD, Photoshop Actions, automated resizing and exporting**.
 
@@ -93,7 +93,7 @@ For me, the important part was learning the system quickly enough to work within
 
 ---
 
-<h2 id="eoss">05 — The Scale: EOSS, 300+ Assets in Two Weeks</h2>
+<h2 id="eoss"> The Scale: EOSS, 300+ Assets in Two Weeks</h2>
 
 EOSS (End of Season Sale) was the clearest example of production volume during the assignment. During my production period, I personally produced and exported **300+ digital assets in approximately two weeks**.
 
@@ -115,7 +115,7 @@ This was particularly important when a project was temporarily on hold. Rather t
 
 ---
 
-<h2 id="digital-ecosystem">06 — The Output: Across the Digital Ecosystem</h2>
+<h2 id="digital-ecosystem"> The Output: Across the Digital Ecosystem</h2>
 
 The same campaign also needed to work across different placements. I produced and adapted assets for **web, e-commerce, email, paid social and Instagram Stories**, including different desktop, mobile and social formats.
 
@@ -149,7 +149,7 @@ I also checked relevant Wrike information and Slack conversations when there had
 
 ---
 
-<h2 id="production-judgement">07 — The Production Judgement: A Template Issue</h2>
+<h2 id="production-judgement"> The Production Judgement: A Template Issue</h2>
 
 During production, I noticed that some existing social-media templates were following outdated platform requirements. Because the templates were already part of the production system, I didn't change them independently.
 
@@ -165,7 +165,7 @@ It was a relatively small issue, but a useful example of the judgement required 
 
 ---
 
-<h2 id="campaigns">08 — The Campaigns: Beyond EOSS</h2>
+<h2 id="campaigns"> The Campaigns: Beyond EOSS</h2>
 
 EOSS was the largest production assignment during the placement, but I also worked across several other Calvin Klein campaigns:
 
@@ -184,7 +184,7 @@ The work varied from campaign to campaign, but the working principle remained co
 
 ---
 
-<h2 id="handoff">09 — The Hand-off: Getting Assets Ready for the Next Stage</h2>
+<h2 id="handoff"> The Hand-off: Getting Assets Ready for the Next Stage</h2>
 
 Once the work had gone through the relevant internal review and sign-off, the assets needed to be prepared for the next stage of the campaign. For EOSS, Calvin Klein asked me to provide master assets to its localisation agencies.
 
@@ -200,7 +200,7 @@ The hand-off therefore looked roughly like:
 
 ---
 
-<h2 id="experience">10 — The Experience: Working Independently & Professional Contribution</h2>
+<h2 id="experience"> The Experience: Working Independently & Professional Contribution</h2>
 
 The team was able to give me work independently because I was used to adapting quickly to new working environments and learning technical platforms and preferred software. I had already worked across different brands and client environments, including adidas and Reebok, and was comfortable entering an established creative structure without needing to be guided through every production decision.
 
