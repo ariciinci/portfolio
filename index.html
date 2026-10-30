@@ -30,6 +30,7 @@
     --max:1440px;
     --pad:clamp(20px,3vw,56px);
     --notch:10px;             /* clipped corner on black buttons */
+    --brands-w:260px;         /* width of the brands column on desktop */
     /* Text column width. Deliberately in rem (not ch): ch depends on the font size of the
        element it is used on, so inside headings it became far wider than the paragraphs. */
     --measure:44rem;
@@ -99,8 +100,66 @@
     .navbar .brand .tagline{font-size:9.5px; letter-spacing:0.14em;}
   }
 
-  main#page-content{padding:56px var(--pad) 120px;}
+  /* ---------- Two-column page layout: content left, brands right ----------
+     On desktop the brands list is a second column on the right. At 900px and below
+     the script moves the list into the footer (see the script at the bottom). */
+  .layout{
+    display:grid;
+    grid-template-columns:minmax(0,1fr) var(--brands-w);
+    column-gap:clamp(32px,5vw,96px);
+    align-items:start;
+  }
+  main#page-content{padding:56px 0 120px; min-width:0;}
   #loading{color:var(--ink-faint); padding:60px 0; text-align:left; font-size:12px; text-transform:uppercase; letter-spacing:0.2em;}
+
+  /* ---------- Brands column ---------- */
+  .brands{
+    padding:56px 0 120px;
+    position:sticky; top:84px;                 /* sits just under the sticky header */
+    align-self:start;
+    max-height:calc(100vh - 84px);
+    overflow-y:auto;
+    scrollbar-width:thin; scrollbar-color:var(--line) transparent;
+  }
+  .brands-title{
+    font-family:var(--font); font-size:12px; font-weight:600; text-transform:uppercase;
+    letter-spacing:0.3em; line-height:1.4; color:var(--ink-faint);
+    margin:0 0 20px;
+  }
+  .brands-list{list-style:none; margin:0; padding:0; border-top:1px solid var(--line);}
+  .brands-list li{margin:0; border-bottom:1px solid var(--line);}
+  .brands-list a{
+    display:block; padding:11px 12px 11px 0;
+    font-family:var(--font-display); font-weight:800; text-transform:uppercase;
+    font-size:15px; letter-spacing:-0.01em; line-height:1.2;
+    color:var(--ink); text-decoration:none;
+    transition:background-color .15s ease, color .15s ease, padding .15s ease;
+  }
+  .brands-list a:hover,
+  .brands-list a:focus-visible{
+    background:var(--ink); color:var(--paper); padding-left:12px;
+    clip-path:polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%);
+  }
+  .brands-list a:focus-visible{outline-offset:-2px;}
+
+  /* Tablet and mobile: brands list lives in the footer, as a wrapped grid */
+  @media (max-width:900px){
+    .layout{display:block;}
+    main#page-content{padding-bottom:72px;}
+  }
+  footer.site-footer .brands{
+    position:static; max-height:none; overflow:visible;
+    padding:0 0 36px; margin:0 0 36px; border-bottom:1px solid var(--line);
+  }
+  footer.site-footer .brands-list{
+    display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); column-gap:24px;
+  }
+  @media (min-width:560px){
+    footer.site-footer .brands-list{grid-template-columns:repeat(3, minmax(0,1fr));}
+  }
+  @media (min-width:760px){
+    footer.site-footer .brands-list{grid-template-columns:repeat(4, minmax(0,1fr));}
+  }
 
   /* ---------- Hero (home page): huge, heavy, tightly tracked ---------- */
   .page-hero .kicker{
@@ -111,6 +170,12 @@
     font-family:var(--font-display); font-weight:800; text-transform:uppercase;
     font-size:clamp(38px,7.2vw,104px); max-width:18ch;
     letter-spacing:-0.045em; line-height:0.95; margin:0 0 48px;
+  }
+  /* The brands column now takes space from the content column, so the hero headline is
+     scaled to the narrower column on desktop. */
+  @media (min-width:901px){
+    .page-hero h1{font-size:clamp(38px,5.4vw,84px);}
+    .prose h1{font-size:clamp(30px,4.4vw,68px);}
   }
   .page-hero p{font-size:18px; color:var(--ink-soft); max-width:56ch; margin:0 0 14px; line-height:1.7;}
   .page-hero p a{text-decoration:none; border-bottom:1px solid var(--smoke); padding-bottom:1px; margin-right:6px; color:var(--ink); font-weight:400;}
@@ -212,8 +277,8 @@
     color:var(--ink-faint); font-size:12px; font-weight:400;
     text-transform:uppercase; letter-spacing:0.16em;
   }
-  footer.site-footer a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--smoke);}
-  footer.site-footer a:hover{border-bottom-color:var(--ink);}
+  footer.site-footer .fine a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--smoke);}
+  footer.site-footer .fine a:hover{border-bottom-color:var(--ink);}
 
   /* Back-to-index button (shown only on pages that opt in): black, notched corner */
   #case-index-back-btn{
@@ -243,12 +308,47 @@
   </div>
 </header>
 
-<main id="page-content" class="wrap">
-  <div id="loading">Loading…</div>
-</main>
+<div class="layout wrap" id="layout">
 
-<footer class="site-footer">
+  <main id="page-content">
+    <div id="loading">Loading…</div>
+  </main>
+
+  <!-- Brands column: right-hand column on desktop, moved into the footer on mobile -->
+  <aside class="brands" id="brands" aria-labelledby="brandsTitle">
+    <h2 class="brands-title" id="brandsTitle">Brands I’ve worked with</h2>
+    <ul class="brands-list">
+      <li><a href="https://www.reebok.com" target="_blank" rel="noopener noreferrer">Reebok</a></li>
+      <li><a href="https://www.adidas.com" target="_blank" rel="noopener noreferrer">Adidas</a></li>
+      <li><a href="https://www.calvinklein.com" target="_blank" rel="noopener noreferrer">Calvin Klein</a></li>
+      <li><a href="https://cruyff.com" target="_blank" rel="noopener noreferrer">Cruyff</a></li>
+      <li><a href="https://www.amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a></li>
+      <li><a href="https://www.virginmedia.com" target="_blank" rel="noopener noreferrer">Virgin Media</a></li>
+      <li><a href="https://www.ziggo.nl" target="_blank" rel="noopener noreferrer">Ziggo</a></li>
+      <li><a href="https://www.diageo.com" target="_blank" rel="noopener noreferrer">Diageo</a></li>
+      <li><a href="https://www.libertyglobal.com" target="_blank" rel="noopener noreferrer">Liberty Global</a></li>
+      <li><a href="https://www.philips.com" target="_blank" rel="noopener noreferrer">Philips</a></li>
+      <li><a href="https://willy.radio" target="_blank" rel="noopener noreferrer">Willy Radio</a></li>
+      <li><a href="https://www.storytel.com" target="_blank" rel="noopener noreferrer">Storytel</a></li>
+      <li><a href="https://radio2.be" target="_blank" rel="noopener noreferrer">Radio 2</a></li>
+      <li><a href="https://www.zdf.de" target="_blank" rel="noopener noreferrer">ZDF</a></li>
+      <li><a href="https://www.kockw.com" target="_blank" rel="noopener noreferrer">Kuwait Ahmad Al-Jaber Oil &amp; Gas Museum</a></li>
+      <li><a href="https://www.samsung.com" target="_blank" rel="noopener noreferrer">Samsung</a></li>
+      <li><a href="https://www.lg.com" target="_blank" rel="noopener noreferrer">LG</a></li>
+      <li><a href="https://www.disney.com" target="_blank" rel="noopener noreferrer">Disney</a></li>
+      <li><a href="https://www.discovery.com" target="_blank" rel="noopener noreferrer">Discovery Channel</a></li>
+      <li><a href="https://www.nationalgeographic.com" target="_blank" rel="noopener noreferrer">National Geographic</a></li>
+      <li><a href="https://www.amc.com" target="_blank" rel="noopener noreferrer">AMC</a></li>
+      <li><a href="https://www.film1.nl" target="_blank" rel="noopener noreferrer">Film1</a></li>
+      <li><a href="https://www.ajax.nl" target="_blank" rel="noopener noreferrer">Ajax</a></li>
+    </ul>
+  </aside>
+
+</div>
+
+<footer class="site-footer" id="siteFooter">
   <div class="wrap">
+    <!-- On mobile the brands list is moved here by the script below -->
     <div class="fine">Inci Arici — Amsterdam · <a href="mailto:incinema@gmail.com">incinema@gmail.com</a></div>
   </div>
 </footer>
@@ -265,6 +365,24 @@
   var content = document.getElementById('page-content');
   var navLinks = document.getElementById('navLinks');
   var manifest = [];
+
+  // --- Brands column: desktop = right column, mobile (<= 900px) = inside the footer ---
+  var brands = document.getElementById('brands');
+  var layout = document.getElementById('layout');
+  var footerWrap = document.querySelector('#siteFooter .wrap');
+  var footerFine = footerWrap.querySelector('.fine');
+  var mobileQuery = window.matchMedia('(max-width: 900px)');
+
+  function placeBrands(){
+    if(mobileQuery.matches){
+      if(brands.parentNode !== footerWrap){ footerWrap.insertBefore(brands, footerFine); }
+    } else {
+      if(brands.parentNode !== layout){ layout.appendChild(brands); }
+    }
+    alignIndexButton();
+  }
+  if(mobileQuery.addEventListener){ mobileQuery.addEventListener('change', placeBrands); }
+  else if(mobileQuery.addListener){ mobileQuery.addListener(placeBrands); }
 
   // Sticky "↑ Index" button visibility is driven by a per-page frontmatter flag
   // (indexButton: true) rather than any page-specific element ID, so any case
@@ -424,6 +542,8 @@
   navLinks.addEventListener('click', function(e){
     if(e.target.tagName === 'A') navLinks.classList.remove('open');
   });
+
+  placeBrands();
 
   fetch('pages/manifest.json', {cache:'no-store'})
     .then(function(r){ return r.json(); })
