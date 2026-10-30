@@ -39,11 +39,13 @@ That meant understanding what had already been provided, checking previous or ex
 
 ![Calvin Klein exclusive metallic module — desktop layout](images/CKS_Exclusive_Metallic_Module%203_W_Desktop_Layout.jpg)
 
-**Knowing where to take a question:** not every question needed to go directly to marketing. If the question was creative, I would first discuss it with the creative lead working on the project, such as a senior designer, art director or creative director. If the answer still wasn't clear, I would formulate the question as precisely as possible and align with the producer or project manager.
+**Knowing where to take a question:** Not every question needed to go directly to Marketing. Creative-related questions were first aligned with the relevant creative lead on the project, whether a Senior Designer, Art Director or Creative Director. If further clarification was needed, I worked with the Producer or Project Manager to define the question clearly and agree on the appropriate next step.
 
-Questions about the context or scope of the brief were handled through the producer, who managed the traffic between the creative team, marketing and campaign stakeholders. In some situations, the producer would consolidate the questions and take them to marketing rather than creating multiple parallel conversations.
+Questions concerning the brief's context, scope or requirements were routed through the Producer, who coordinated communication between Creative, Marketing and campaign stakeholders. Where appropriate, the Producer consolidated feedback and clarification requests before taking them to Marketing, avoiding fragmented or parallel conversations.
 
-The exception was practical: if a link was broken, a file was missing or something supplied with the brief wasn't working, that could be raised directly. This structure helped keep communication clear and reduced unnecessary noise around the production team.
+For straightforward operational issues, such as broken links, missing files or inaccessible assets, direct communication was appropriate.
+
+This approach established clear communication routes, maintained ownership and accountability, and minimised unnecessary interruptions and communication overhead for the creative production team.
 
 ![EOSS main extension layout — mobile, products](images/EoSS_Main_Extension_Layout_M_01_Products.jpg)
 
