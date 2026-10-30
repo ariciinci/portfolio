@@ -132,7 +132,7 @@
     display:block; padding:11px 12px 11px 0;
     font-family:var(--font-display); font-weight:800; text-transform:uppercase;
     font-size:13px; letter-spacing:-0.01em; line-height:1.2;
-    color:var(--ink); text-decoration:none;
+    color:#9B9B9B; text-decoration:none;
     transition:background-color .15s ease, color .15s ease, padding .15s ease;
   }
   .brands-list a:hover,
@@ -373,12 +373,31 @@
   var footerFine = footerWrap.querySelector('.fine');
   var mobileQuery = window.matchMedia('(max-width: 900px)');
 
+  // Desktop: the brands column starts exactly where the "C" of the Contact menu item starts.
+  // The column's left edge is measured from the menu and its width is set to reach the right margin.
+  function alignBrands(){
+    if(mobileQuery.matches){ layout.style.removeProperty('--brands-w'); return; }
+    var link = navLinks.querySelector('a[data-link="contact"]');
+    if(!link){
+      Array.prototype.forEach.call(navLinks.querySelectorAll('a'), function(a){
+        if(!link && /^\s*contact\s*$/i.test(a.textContent)) link = a;
+      });
+    }
+    if(!link) return;
+    var textLeft = link.getBoundingClientRect().left + parseFloat(getComputedStyle(link).paddingLeft);
+    var lcs = getComputedStyle(layout);
+    var right = layout.getBoundingClientRect().right - parseFloat(lcs.paddingRight);
+    var w = right - textLeft;
+    if(w > 60){ layout.style.setProperty('--brands-w', w + 'px'); }
+  }
+
   function placeBrands(){
     if(mobileQuery.matches){
       if(brands.parentNode !== footerWrap){ footerWrap.insertBefore(brands, footerFine); }
     } else {
       if(brands.parentNode !== layout){ layout.appendChild(brands); }
     }
+    alignBrands();
     alignIndexButton();
   }
   if(mobileQuery.addEventListener){ mobileQuery.addEventListener('change', placeBrands); }
@@ -408,6 +427,8 @@
     btn.style.display = 'block';
   }
   window.addEventListener('resize', alignIndexButton);
+  window.addEventListener('resize', alignBrands);
+  if(document.fonts && document.fonts.ready){ document.fonts.ready.then(alignBrands); }
 
   // --- tiny frontmatter parser: pulls a --- ... --- block off the top of a markdown file ---
   function parseFrontmatter(raw){
@@ -550,6 +571,7 @@
     .then(function(data){
       manifest = data;
       buildNav();
+      alignBrands();
       renderPage(currentSlug());
     })
     .catch(function(err){
