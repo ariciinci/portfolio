@@ -18,6 +18,7 @@ This case study explores how I contributed to campaign delivery, creative qualit
 ---
 
 <h2 id="business-context">01 — Business Context & Creative Production Role</h2>
+![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
 
@@ -29,13 +30,13 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 **My focus:** making sure that creative content could be translated into clear, usable production requirements and delivered consistently across channels and local Reebok markets.
 
-![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
 <h2 id="campaign-delivery">02 — Global Campaign Delivery</h2>
+
+![Campaign requirements and cross-functional alignment](images/Reebok-Stack-Issues_Impacts_20.jpg)
 
 Campaign delivery involved more than creating individual assets. Creative direction had to be translated into a coherent set of requirements, reviewed with stakeholders, prepared for production and adapted for different channels and markets.
 
@@ -49,13 +50,13 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 ![Global ecommerce campaign overview](images/Ree-SiteCollate-170124-09.jpg)
 
-![Campaign requirements and cross-functional alignment](images/Reebok-Stack-Issues_Impacts_20.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
 <h2 id="workflow-improvement">03 — Workflow Improvement & Production Coordination</h2>
+
+![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
 
@@ -71,21 +72,18 @@ The workflow illustrates the stages involved in translating a brief into campaig
 
 ![Production coordination and process requirements](images/Reebok-Stack-Issues_Impacts_32.jpg)
 
-![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
-
-![Creative team handover and operational guidance](images/HANDOVER_RUXANDRA_Page_06.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
 
 <h2 id="international-collaboration">04 — International Collaboration & Localisation</h2>
 
+![International stakeholder collaboration](images/Reebok-Stack-Issues_Impacts_15.jpg)
+
 International delivery required collaboration across regional marketing teams, external partners and localisation workflows. Creative assets needed to preserve the campaign's visual direction while accommodating approved local copy and market requirements.
 
 I contributed by improving the clarity of briefs and supporting documentation, reviewing design and brand consistency, and checking localised creative assets. Copy approval and the operational coordination of localisation involved other team members and stakeholders; my role focused on the creative and visual requirements.
 
-![International stakeholder collaboration](images/Reebok-Stack-Issues_Impacts_15.jpg)
 
 Working across functions required shared understanding of the campaign direction, responsibilities, requirements and feedback. My contribution helped connect creative needs with the wider delivery process.
 
@@ -100,6 +98,7 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 ---
 
 <h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
+![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
 
@@ -112,8 +111,6 @@ The aim is to show the relationship between the campaign concept, the creative e
 ![Holiday 2016 campaign guidelines](images/Ree_FW16-HolidayCampaign-p3.jpg)
 
 ![Holiday 2016 campaign creative direction](images/Ree_FW16-HolidayCampaign-p4.jpg)
-
-![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
