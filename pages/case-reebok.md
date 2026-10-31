@@ -18,6 +18,7 @@ This case study explores how I contributed to campaign delivery, creative qualit
 ---
 
 <h2 id="business-context">01 — Business Context & Creative Production Role</h2>
+
 ![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
 
 Reebok's digital creative work operated within adidas Group's international ecommerce environment. Campaigns needed to maintain a consistent brand direction while responding to commercial priorities and the requirements of different markets.
