@@ -15,7 +15,6 @@ I combined hands-on creative expertise with global ecommerce campaign delivery a
 
 This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
 
----
 
 <h2 id="business-context">01 — Business Context & Creative Production Role</h2>
 
@@ -33,7 +32,6 @@ I worked closely with the Producer and the wider team. Responsibilities were sha
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <h2 id="campaign-delivery">02 — Global Campaign Delivery</h2>
 
@@ -53,11 +51,9 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <h2 id="workflow-improvement">03 — Workflow Improvement & Production Coordination</h2>
-
-![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
+![Creative production workflow and delivery process](images/Reebok-Stack-Issues_Impacts_31.jpg)
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
 
@@ -65,17 +61,17 @@ I contributed to improving the materials and practices used to support productio
 
 The goal was to make requirements easier to understand, feedback more actionable and the transition from creative approval to production more predictable.
 
+![Production coordination and process requirements](images/Reebok-Stack-Issues_Impacts_32.jpg)
+
 These improvements were collaborative rather than the work of a single person. My contribution combined hands-on creative experience with identifying where better documentation, communication and alignment could support the team's delivery.
 
 The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process.
 
-![Creative production workflow and delivery process](images/Reebok-Stack-Issues_Impacts_31.jpg)
+![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
-![Production coordination and process requirements](images/Reebok-Stack-Issues_Impacts_32.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <h2 id="international-collaboration">04 — International Collaboration & Localisation</h2>
 
@@ -96,7 +92,6 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
 ![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
@@ -115,7 +110,6 @@ The aim is to show the relationship between the campaign concept, the creative e
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <h2 id="professional-outcomes">06 — Operational Outcomes & Professional Contribution</h2>
 
