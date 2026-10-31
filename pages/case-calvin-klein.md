@@ -14,9 +14,9 @@ My responsibility was to integrate quickly into the existing setup and support t
 
 This case study explores how I managed production at volume within an established system, with the delivery of 300+ EOSS assets as the clearest example.
 
----
 
 <a id="the-assignment"></a>
+
 ## The Assignment: Working Inside an Established Global Creative Environment
 
 ![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
@@ -31,10 +31,13 @@ The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <a id="the-role"></a>
+
 ## The Role: Producing Within an Existing System
+
+![EOSS main extension layout — mobile, products](images/EoSS_Main_Extension_Layout_M_01_Products.jpg)
+
 
 I started by establishing a clear understanding of the brief, its requirements and all supporting materials. Before escalating questions, I checked the available information, reviewed relevant previous assets and investigated whether the answer was already documented.
 
@@ -49,8 +52,6 @@ Questions concerning the brief's context, scope or requirements were routed thro
 For straightforward operational issues, such as broken links, missing files or inaccessible assets, direct communication was appropriate.
 
 This approach established clear communication routes, maintained ownership and accountability, and minimised unnecessary interruptions and communication overhead for the creative production team.
-
-![EOSS main extension layout — mobile, products](images/EoSS_Main_Extension_Layout_M_01_Products.jpg)
 
 ![CK Jeans Spring newsletter launch — animated GIF](images/CKJ%20Spring%20Ex_Newsletter_Launch_DG_2_GIF.gif)
 
@@ -83,7 +84,6 @@ This ensured that the work was aligned internally before entering the wider revi
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
----
 
 <a id="production-environment"></a>
 ## Production Environment: Templates, Automation & Methods
