@@ -97,14 +97,9 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 ![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
+![Holiday 2016 campaign guidelines](images/Ree_FW16-HolidayCampaign-p3.jpg)
 
 My contribution connected creative direction, campaign documentation, agency collaboration and asset review. The campaign illustrates how I worked across the creative and delivery stages rather than focusing on design in isolation.
-
-The selected outputs demonstrate how the campaign's creative direction was applied across different digital formats. The gallery should focus on a small number of clear examples rather than attempting to show every deliverable.
-
-The aim is to show the relationship between the campaign concept, the creative execution and the practical requirements of multi-channel delivery.
-
-![Holiday 2016 campaign guidelines](images/Ree_FW16-HolidayCampaign-p3.jpg)
 
 ![Holiday 2016 campaign creative direction](images/Ree_FW16-HolidayCampaign-p4.jpg)
 
