@@ -54,6 +54,7 @@ The campaign blueprint helped connect the creative concept with the requirements
 
 
 <h2 id="workflow-improvement">03 — Workflow Improvement & Production Coordination</h2>
+
 ![Creative production workflow and delivery process](images/Reebok-Stack-Issues_Impacts_31.jpg)
 
 As campaign work became more complex, the team needed clear documentation and more consistent ways to brief, review and hand over creative work.
