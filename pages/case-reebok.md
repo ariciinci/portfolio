@@ -69,7 +69,6 @@ These improvements were collaborative rather than the work of a single person. M
 
 The workflow illustrates the stages involved in translating a brief into campaign delivery. It also makes clear why structured reviews, documented requirements and coordinated handovers matter throughout the production process.
 
-![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
@@ -77,7 +76,9 @@ The workflow illustrates the stages involved in translating a brief into campaig
 
 <h2 id="international-collaboration">04 — International Collaboration & Localisation</h2>
 
+
 ![International stakeholder collaboration](images/Reebok-Stack-Issues_Impacts_15.jpg)
+
 
 International delivery required collaboration across regional marketing teams, external partners and localisation workflows. Creative assets needed to preserve the campaign's visual direction while accommodating approved local copy and market requirements.
 
@@ -97,7 +98,9 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 
 <h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
 
+
 ![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
+
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
 ![Holiday 2016 campaign guidelines](images/Ree_FW16-HolidayCampaign-p3.jpg)
@@ -111,11 +114,13 @@ My contribution connected creative direction, campaign documentation, agency col
 
 <h2 id="professional-outcomes">06 — Operational Outcomes & Professional Contribution</h2>
 
+![Creative workflow improvement and operational impact](images/Reebok-Stack-Issues_Impacts_36.jpg)
+
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
-![Creative workflow improvement and operational impact](images/Reebok-Stack-Issues_Impacts_36.jpg)
+![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
 The focus was on making creative requirements easier to understand, feedback more structured and production knowledge easier to share. These changes supported the team's ability to work more consistently across campaigns and stakeholders.
 
