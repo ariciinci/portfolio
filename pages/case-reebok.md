@@ -96,6 +96,7 @@ I also worked with UX/CX and Analytics colleagues to share campaign learnings an
 
 
 <h2 id="holiday-campaign">05 — Featured Campaign: Holiday 2016</h2>
+
 ![Holiday 2016 ecommerce campaign — desktop hero](images/FW16_Holiday_Digital_Intro_Cold_Desktop_SHP_Hero_HD-Overview-1.jpg)
 
 The Holiday 2016 campaign provides a concrete example of this work. It used a phased campaign approach, with different commercial and inspirational messages across the campaign period. The creative system needed to remain coherent while supporting multiple digital touchpoints and market adaptations.
