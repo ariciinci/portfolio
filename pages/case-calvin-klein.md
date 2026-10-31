@@ -6,8 +6,6 @@
 **Digital Campaign Production**  
 *Campaign Assets · Production at Volume · Quality Assurance*
 
-![Calvin Klein digital campaigns — assignment overview](images/Ck_Campaigns.jpg)
-
 **Calvin Klein, Amsterdam | June 2022**
 
 I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a Senior Art Director during their holiday. The creative and production environment was already established, with defined workflows, templates, production methods, project-management systems and established ways of working across Creative and Marketing.
@@ -21,13 +19,15 @@ This case study explores how I managed production at volume within an establishe
 <a id="the-assignment"></a>
 ## The Assignment: Working Inside an Established Global Creative Environment
 
+![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
+
+
 The assignment required me to become operational quickly within an established global creative environment. Each brief defined the assets required for an activation, while supporting materials, existing campaign assets and templates provided the foundation for production.
 
 The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments**. My responsibility was to translate approved campaign materials into the digital formats specified in each brief.
 
 **My focus:** understand the existing setup, work within its processes and keep production moving efficiently through review and delivery.
 
-![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
