@@ -118,11 +118,15 @@ My contribution connected creative direction, campaign documentation, agency col
 
 My contribution helped support a more structured approach to creative delivery, including clearer campaign documentation, more consistent creative reviews, improved handover information and better alignment between the people involved in production.
 
+
+![Global commercial toolkit and creative production documentation](images/2015Dec-Nov-GCT_LARGE_EOSS.jpg)
+
 The improvements were observed qualitatively; I do not have verified figures to attribute to these process changes, so I present them as operational contributions rather than quantified business results.
 
 ![Handover documentation and working practices](images/HANDOVER_RUXANDRA_page_05.jpg)
 
 The focus was on making creative requirements easier to understand, feedback more structured and production knowledge easier to share. These changes supported the team's ability to work more consistently across campaigns and stakeholders.
+
 
 ![Global commercial toolkit and creative production documentation](images/2015Dec-Nov-GCT_LARGE_P08.jpg)
 
