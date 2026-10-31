@@ -43,11 +43,12 @@ My contribution included developing and presenting creative concepts, refining b
 
 I also contributed to campaign planning from the creative side, working with the Producer and other stakeholders to establish the information and approvals needed for delivery.
 
+![Global ecommerce campaign overview](images/Ree-SiteCollate-170124-09.jpg)
+
 This required balancing creative quality with practical production needs: clear feedback, agreed requirements, timely sign-off and assets that could be used consistently across the campaign.
 
 The campaign blueprint helped connect the creative concept with the requirements for campaign execution. It provided a shared reference for the campaign direction and supported alignment between creative work, stakeholders and production partners.
 
-![Global ecommerce campaign overview](images/Ree-SiteCollate-170124-09.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
