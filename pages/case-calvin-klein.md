@@ -17,7 +17,7 @@ This case study explores how I managed production at volume within an establishe
 
 <a id="the-assignment"></a>
 
-## The Assignment: Working Inside an Established Global Creative Environment
+## Working Inside an Established Global Creative Environment
 
 ![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
 
