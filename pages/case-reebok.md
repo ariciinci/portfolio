@@ -16,7 +16,7 @@ I combined hands-on creative expertise with global ecommerce campaign delivery a
 This case study explores how I contributed to campaign delivery, creative quality, localisation and more structured ways of working, with Reebok's Holiday campaign as a featured example.
 
 
-<h2 id="business-context">01 — Business Context & Creative Production Role</h2>
+<h2 id="business-context">01 — Creative Production </h2>
 
 ![Creative team collaboration and operational context](images/Reebok-Stack-Issues_Impacts_29.jpg)
 
