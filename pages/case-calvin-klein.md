@@ -46,8 +46,6 @@ For straightforward operational issues, such as broken links, missing files or i
 
 This approach established clear communication routes, maintained ownership and accountability, and minimised unnecessary interruptions and communication overhead for the creative production team.
 
-![CK Jeans Spring newsletter launch — animated GIF](images/CKJ%20Spring%20Ex_Newsletter_Launch_DG_2_GIF.gif)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
@@ -65,15 +63,14 @@ Once the brief and supporting materials were understood, I translated the requir
 - Feedback and decisions already communicated.
 - Outstanding information, materials or approvals needed before production or review could proceed.
 
+![CK Jeans Spring newsletter launch — animated GIF](images/CKJ%20Spring%20Ex_Newsletter_Launch_DG_2_GIF.gif)
+
 I worked within Calvin Klein's project-management environment in Wrike and used Slack and M Teams conversations and other project communications to stay aligned with updates. When requirements changed, I assessed the impact on work already in progress, production time and delivery priorities.
 
 **Creative alignment and review:** Before moving work into the wider review process, I checked that the assets were complete against the brief and relevant requirements. Where a creative lead was assigned to the project, I shared the work with them first for internal creative review. I then incorporated the feedback, updated the assets and submitted the completed work through the relevant system.
 
 This ensured that the work was aligned internally before entering the wider review process.
 
-![Campaign visual — working from the latest brief and project information](images/PLACEHOLDER-workflow-campaign-visual.jpg)
-
-![Final asset prepared for internal review](images/PLACEHOLDER-creative-review-final-asset.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
