@@ -63,8 +63,6 @@ Once the brief and supporting materials were understood, I translated the requir
 - Feedback and decisions already communicated.
 - Outstanding information, materials or approvals needed before production or review could proceed.
 
-![CK Jeans Spring newsletter launch — animated GIF](images/CKJ%20Spring%20Ex_Newsletter_Launch_DG_2_GIF.gif)
-
 I worked within Calvin Klein's project-management environment in Wrike and used Slack and M Teams conversations and other project communications to stay aligned with updates. When requirements changed, I assessed the impact on work already in progress, production time and delivery priorities.
 
 **Creative alignment and review:** Before moving work into the wider review process, I checked that the assets were complete against the brief and relevant requirements. Where a creative lead was assigned to the project, I shared the work with them first for internal creative review. I then incorporated the feedback, updated the assets and submitted the completed work through the relevant system.
@@ -84,10 +82,6 @@ These tools supported consistency and production speed, particularly when delive
 
 My priority was to understand the existing production system, apply it consistently and make effective use of the tools already in place.
 
-![One campaign creative adapted into multiple formats — layout 1](images/PLACEHOLDER-template-format-1.jpg)
-
-![One campaign creative adapted into multiple formats — layout 2](images/PLACEHOLDER-template-format-2.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
@@ -99,13 +93,9 @@ EOSS (End of Season Sale) was the largest production assignment during the place
 
 **300+ assets · ~2 weeks**
 
-![EOSS main landing page — desktop](images/PLACEHOLDER-eoss-main-landing-desktop.jpg)
-
 The campaign progressed through several promotional stages, including Further Reductions, Final Reductions, Last Chance and Final Hours. Each stage introduced new production requirements while maintaining consistency with the overall campaign identity.
 
 I adapted approved campaign materials to meet the changing requirements of each stage, maintaining the established visual language across all deliverables.
-
-![EOSS campaign progression — Main EOSS, Further Reductions, Final Reductions, Last Chance, Final Hours](images/PLACEHOLDER-eoss-campaign-progression.jpg)
 
 **Managing production at volume:** With multiple campaign requests running in parallel, I aligned priorities with the Producer or Project Manager and kept them informed of production progress, outstanding work and dependencies.
 
@@ -126,13 +116,10 @@ Each placement had its own requirements. Landing pages, email communications and
 
 My responsibility was to adapt the approved creative appropriately for each placement while maintaining visual consistency and campaign recognition across channels.
 
-![EOSS cross-channel grid — desktop, mobile, email, Instagram feed, Instagram Story, collection ad](images/PLACEHOLDER-eoss-cross-channel-grid.jpg)
 
 **Managing changing information and dependencies:** In a live campaign environment, requirements can change during production. I used Wrike and Slack/Teams communications to stay aligned with the creative team, Producer and my creative partner, ensuring that relevant updates were reflected in the work.
 
 When new information came in, I assessed whether it conflicted with existing instructions, affected the production workload or changed the expected delivery time. Where a change introduced additional work, I made the impact visible to the Producer/PM so it could be assessed and prioritised appropriately.
-
-![EOSS detail — campaign variation layouts](images/PLACEHOLDER-eoss-detail-variation.jpg)
 
 **Quality assurance:** QA was integrated into the production process. Before submitting each asset, I checked it against the brief, current project information and applicable requirements.
 
@@ -152,8 +139,6 @@ Where project information had changed during production, I also checked the rele
 
 The objective was not simply to deliver finished artwork. Each asset needed to be **complete, accurate and ready for the next stage of the process**.
 
-![Multiple related outputs reviewed before moving forward](images/PLACEHOLDER-qa-multiple-formats.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
@@ -168,8 +153,6 @@ I discussed the implications with the internal production and creative team, inc
 Once the approach was agreed, I updated the existing templates, retained the previous versions and communicated the changes during a production meeting. This ensured the team understood which versions to use during the campaign activation.
 
 It was a relatively small adjustment, but it demonstrated an important part of production judgement: identifying an issue, assessing its impact, involving the right stakeholders and implementing a controlled change without disrupting the wider workflow.
-
-![Social template before and after the platform-requirement update](images/PLACEHOLDER-template-update-example.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
@@ -187,10 +170,6 @@ EOSS was the largest production assignment during the placement, but I also supp
 
 Although the deliverables varied, the production approach remained consistent: establish the requirements, work within the existing system, manage production, complete QA and move the assets through the relevant review and approval stages.
 
-![CK Jeans Spring — desktop landing page, mobile landing page and newsletter](images/PLACEHOLDER-ck-jeans-spring.jpg)
-
-![June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments](images/PLACEHOLDER-other-campaigns-grid.jpg)
-
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
 ---
@@ -205,8 +184,6 @@ For EOSS, Calvin Klein requested master assets for delivery to its localisation 
 The hand-off followed this process:
 
 **Brief** → **Production** → **QA** → **Creative / internal review** → **Sign-off** → **Master asset delivery** → **Downstream localisation / activation**
-
-![Final EOSS set — master campaign assets for downstream localisation](images/PLACEHOLDER-final-eoss-set.jpg)
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
