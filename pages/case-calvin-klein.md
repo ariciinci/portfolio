@@ -33,9 +33,6 @@ The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and
 
 ## The Role: Producing Within an Existing System
 
-![EOSS main extension layout — mobile, products](images/EoSS_Main_Extension_Layout_M_01_Products.jpg)
-
-
 I started by establishing a clear understanding of the brief, its requirements and all supporting materials. Before escalating questions, I checked the available information, reviewed relevant previous assets and investigated whether the answer was already documented.
 
 When clarification was needed, I made sure to define the issue and formulate a specific, actionable question. This helped avoid unnecessary back-and-forth and made it easier for the relevant person to respond.
