@@ -28,7 +28,6 @@ The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and
 
 <a href="javascript:void(0)" onclick="document.getElementById('case-index').scrollIntoView({behavior:'smooth',block:'start'});return false;">↑ Back to index</a>
 
-
 <a id="the-role"></a>
 
 ## The Role: Producing Within an Existing System
@@ -66,7 +65,7 @@ Once the brief and supporting materials were understood, I translated the requir
 - Feedback and decisions already communicated.
 - Outstanding information, materials or approvals needed before production or review could proceed.
 
-I worked within Calvin Klein's project-management environment in Wrike and used Slack conversations and other project communications to stay aligned with updates. When requirements changed, I assessed the impact on work already in progress, production time and delivery priorities.
+I worked within Calvin Klein's project-management environment in Wrike and used Slack and M Teams conversations and other project communications to stay aligned with updates. When requirements changed, I assessed the impact on work already in progress, production time and delivery priorities.
 
 **Creative alignment and review:** Before moving work into the wider review process, I checked that the assets were complete against the brief and relevant requirements. Where a creative lead was assigned to the project, I shared the work with them first for internal creative review. I then incorporated the feedback, updated the assets and submitted the completed work through the relevant system.
 
