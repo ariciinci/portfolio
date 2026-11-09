@@ -10,6 +10,8 @@
 
 I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a Senior Art Director during their holiday. The creative and production environment was already established, with defined workflows, templates, production methods, project-management systems and established ways of working across Creative and Marketing.
 
+![Calvin Klein campaign activations covered during the assignment](images/CK Logo Guidelines_OCT20.jpg)
+
 My responsibility was to integrate quickly into the existing setup and support the production of digital campaign assets across multiple activations, working from approved photography, creative direction and campaign materials.
 
 This case study explores how I managed production at volume within an established system, with the delivery of 300+ EOSS assets as the clearest example.
@@ -19,10 +21,11 @@ This case study explores how I managed production at volume within an establishe
 
 ## Working Inside an Established Global Creative Environment
 
+![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
+
 The assignment required me to become operational quickly within an established global creative environment. Each brief defined the assets required for an activation, while supporting materials, existing campaign assets and templates provided the foundation for production.
 
 The work covered **EOSS, CK Jeans Spring, June Refresh, CK Pride Photo Booth and Geofencing Local Pride Moments**. My responsibility was to translate approved campaign materials into the digital formats specified in each brief.
-![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
 
 **My focus:** understand the existing setup, work within its processes and keep production moving efficiently through review and delivery.
 
