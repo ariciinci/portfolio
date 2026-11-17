@@ -3,9 +3,11 @@
 
 ###### **<a href="javascript:void(0)" onclick="document.getElementById('the-assignment').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">THE ROLE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('working-method').scrollIntoView({behavior:'smooth'})">THE WORKING METHOD</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-environment').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('eoss').scrollIntoView({behavior:'smooth'})">THE SCALE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('digital-ecosystem').scrollIntoView({behavior:'smooth'})">THE OUTPUT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-judgement').scrollIntoView({behavior:'smooth'})">THE PRODUCTION JUDGEMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('campaigns').scrollIntoView({behavior:'smooth'})">THE CAMPAIGNS</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('handoff').scrollIntoView({behavior:'smooth'})">THE HAND-OFF</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('experience').scrollIntoView({behavior:'smooth'})">THE EXPERIENCE</a>**
 
+![Calvin Klein campaign activations covered during the assignment](images/ck_logo_guidelines_OCT20.jpg)
+
 **Digital Campaign Production**  
 *Campaign Assets · Production at Volume · Quality Assurance*
-![Calvin Klein campaign activations covered during the assignment](images/ck_logo_guidelines_OCT20.jpg)
+
 **Calvin Klein, Amsterdam | June 2022**
 ![Calvin Klein exclusive metallic module — desktop layout](images/CKS_Exclusive_Metallic_Module%203_W_Desktop_Layout.jpg)
 I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a Senior Art Director during their holiday. The creative and production environment was already established, with defined workflows, templates, production methods, project-management systems and established ways of working across Creative and Marketing.
