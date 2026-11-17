@@ -9,6 +9,7 @@
 *Campaign Assets · Production at Volume · Quality Assurance*
 
 **Calvin Klein, Amsterdam | June 2022**
+
 I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a Senior Art Director during their holiday. The creative and production environment was already established, with defined workflows, templates, production methods, project-management systems and established ways of working across Creative and Marketing.
 
 ![Calvin Klein campaign activations covered during the assignment](images/CK Logo Guidelines_OCT20.jpg)
