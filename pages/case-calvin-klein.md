@@ -5,9 +5,9 @@
 
 **Digital Campaign Production**  
 *Campaign Assets · Production at Volume · Quality Assurance*
-
+![Calvin Klein campaign activations covered during the assignment](images/CK Logo Guidelines_OCT20.jpg)
 **Calvin Klein, Amsterdam | June 2022**
-
+![Calvin Klein exclusive metallic module — desktop layout](images/CKS_Exclusive_Metallic_Module%203_W_Desktop_Layout.jpg)
 I joined Calvin Klein in June 2022 on a short-term freelance assignment, covering for a Senior Art Director during their holiday. The creative and production environment was already established, with defined workflows, templates, production methods, project-management systems and established ways of working across Creative and Marketing.
 
 ![Calvin Klein campaign activations covered during the assignment](images/CK Logo Guidelines_OCT20.jpg)
@@ -39,7 +39,6 @@ I started by establishing a clear understanding of the brief, its requirements a
 
 When clarification was needed, I made sure to define the issue and formulate a specific, actionable question. This helped avoid unnecessary back-and-forth and made it easier for the relevant person to respond.
 
-![Calvin Klein exclusive metallic module — desktop layout](images/CKS_Exclusive_Metallic_Module%203_W_Desktop_Layout.jpg)
 
 **Routing questions through the right channels:** Not every question needed to go directly to Marketing. Creative-related questions were first aligned with the relevant creative lead on the project, whether a Senior Designer, Art Director or Creative Director. If further clarification was needed, I worked with the Producer or Project Manager to define the question clearly and agree on the appropriate next step.
 
@@ -80,6 +79,9 @@ This ensured that the work was aligned internally before entering the wider revi
 ## Production Environment: Templates, Automation & Methods
 
 Calvin Klein had an established digital production setup. I worked with existing templates and production methods, including **Adobe XD, Photoshop Actions, automated resizing and exporting**.
+
+
+![Calvin Klein exclusive metallic module — desktop layout](images/CKS_Exclusive_Metallic_Module%203_W_Desktop_Layout.jpg)
 
 These tools supported consistency and production speed, particularly when delivering large sets of related assets. While templates and automation streamlined repetitive tasks, each output still required individual attention to ensure it met the brief, platform specifications and latest project requirements.
 
