@@ -1,9 +1,10 @@
  <a id="case-index"></a>
 # CALVIN KLEIN
+![Calvin Klein campaign activations covered during the assignment](images/ck_logo_guidelines_OCT20.jpg)
+
 
 ###### **<a href="javascript:void(0)" onclick="document.getElementById('the-assignment').scrollIntoView({behavior:'smooth'})">THE ASSIGNMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('the-role').scrollIntoView({behavior:'smooth'})">THE ROLE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('working-method').scrollIntoView({behavior:'smooth'})">THE WORKING METHOD</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-environment').scrollIntoView({behavior:'smooth'})">THE ENVIRONMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('eoss').scrollIntoView({behavior:'smooth'})">THE SCALE</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('digital-ecosystem').scrollIntoView({behavior:'smooth'})">THE OUTPUT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('production-judgement').scrollIntoView({behavior:'smooth'})">THE PRODUCTION JUDGEMENT</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('campaigns').scrollIntoView({behavior:'smooth'})">THE CAMPAIGNS</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('handoff').scrollIntoView({behavior:'smooth'})">THE HAND-OFF</a>** ● **<a href="javascript:void(0)" onclick="document.getElementById('experience').scrollIntoView({behavior:'smooth'})">THE EXPERIENCE</a>**
 
-![Calvin Klein campaign activations covered during the assignment](images/ck_logo_guidelines_OCT20.jpg)
 
 **Digital Campaign Production**  
 *Campaign Assets · Production at Volume · Quality Assurance*
