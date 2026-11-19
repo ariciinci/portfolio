@@ -24,7 +24,7 @@ This case study explores how I managed production at volume within an establishe
 
 ## Working Inside an Established Global Creative Environment
 
-![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
+
 
 The assignment required me to become operational quickly within an established global creative environment. Each brief defined the assets required for an activation, while supporting materials, existing campaign assets and templates provided the foundation for production.
 
@@ -172,6 +172,8 @@ It was a relatively small adjustment, but it demonstrated an important part of p
 ## The Campaigns: Beyond EOSS
 
 EOSS was the largest production assignment during the placement, but I also supported several other Calvin Klein campaigns:
+
+![Calvin Klein campaign activations covered during the assignment](images/Ck_Campaigns.jpg)
 
 - **CK Jeans Spring:** Digital campaign assets across landing pages, email and supporting campaign formats.
 - **June Refresh:** Digital campaign asset production.
