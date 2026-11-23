@@ -41,7 +41,7 @@ I started by establishing a clear understanding of the brief, its requirements a
 When clarification was needed, I made sure to define the issue and formulate a specific, actionable question. This helped avoid unnecessary back-and-forth and made it easier for the relevant person to respond.
 
 
-![Calvin Klein campaign activations covered during the assignment](images/KS_Exclusive_Metallic_Module 3_W_Desktop_Layout.jpg)
+![Calvin Klein campaign activations covered during the assignment](images/CKS_Exclusive_Metallic_Module 3_W_Desktop_Layout.jpg)
 
 **Routing questions through the right channels:** Not every question needed to go directly to Marketing. Creative-related questions were first aligned with the relevant creative lead on the project, whether a Senior Designer, Art Director or Creative Director. If further clarification was needed, I worked with the Producer or Project Manager to define the question clearly and agree on the appropriate next step.
 
